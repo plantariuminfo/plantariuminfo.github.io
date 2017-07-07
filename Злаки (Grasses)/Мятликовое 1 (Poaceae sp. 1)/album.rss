@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Мятликовое 1 (Poaceae sp. 1)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/</jalbum:absolutePath>
+        <item>
+            <title>DSC03086</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/slides/DSC03086.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/thumbs/DSC03086.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/slides/DSC03086.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 29 May 2015 10:03:46 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03086.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03088</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/slides/DSC03088.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/thumbs/DSC03088.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/slides/DSC03088.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 29 May 2015 10:04:07 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03088.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03236</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/slides/DSC03236.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/thumbs/DSC03236.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/slides/DSC03236.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 07 Jun 2015 17:34:31 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03236.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03237</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/slides/DSC03237.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/thumbs/DSC03237.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Мятликовое 1 (Poaceae sp. 1)/slides/DSC03237.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 07 Jun 2015 17:34:51 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03237.jpg</guid>
+        </item>
+    </channel>
+</rss>

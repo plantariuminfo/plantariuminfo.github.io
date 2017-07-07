@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Пырей ситниковый (Elytrigia juncea)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00502</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/slides/DSC00502.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:30 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/thumbs/DSC00502.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/slides/DSC00502.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Tue, 14 Jun 2016 17:27:26 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00502.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00503</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/slides/DSC00503.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:30 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/thumbs/DSC00503.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/slides/DSC00503.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Tue, 14 Jun 2016 17:27:31 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00503.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00504</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/slides/DSC00504.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:30 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/thumbs/DSC00504.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/slides/DSC00504.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Tue, 14 Jun 2016 17:27:42 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00504.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00505</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/slides/DSC00505.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:30 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/thumbs/DSC00505.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/slides/DSC00505.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 14 Jun 2016 17:28:15 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00505.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00506</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/slides/DSC00506.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:30 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/thumbs/DSC00506.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Пырей ситниковый (Elytrigia juncea)/slides/DSC00506.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 14 Jun 2016 17:28:26 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00506.jpg</guid>
+        </item>
+    </channel>
+</rss>

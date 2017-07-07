@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Цимбопогон цитратный (Cymbopogon cytratus)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05454</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/slides/DSC05454.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:36 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/thumbs/DSC05454.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/slides/DSC05454.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 24 Dec 2012 10:24:50 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC05454.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05455</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/slides/DSC05455.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:36 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/thumbs/DSC05455.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/slides/DSC05455.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 24 Dec 2012 10:24:55 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC05455.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05457</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/slides/DSC05457.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:36 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/thumbs/DSC05457.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/slides/DSC05457.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 24 Dec 2012 10:25:08 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC05457.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05458</title>
+            <link>http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/slides/DSC05458.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:36 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/thumbs/DSC05458.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Злаки (Grasses)/Цимбопогон цитратный (Cymbopogon cytratus)/slides/DSC05458.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 24 Dec 2012 10:25:14 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC05458.jpg</guid>
+        </item>
+    </channel>
+</rss>
