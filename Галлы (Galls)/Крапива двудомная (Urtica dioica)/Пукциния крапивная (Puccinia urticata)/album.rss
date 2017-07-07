@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Пукциния крапивная (Puccinia urticata)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Галлы (Galls)/Крапива двудомная (Urtica dioica)/Пукциния крапивная (Puccinia urticata)/</jalbum:absolutePath>
+        <item>
+            <title>DSC06583</title>
+            <link>http://plantarium.info/Галлы (Galls)/Крапива двудомная (Urtica dioica)/Пукциния крапивная (Puccinia urticata)/slides/DSC06583.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:39:42 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Галлы (Galls)/Крапива двудомная (Urtica dioica)/Пукциния крапивная (Puccinia urticata)/thumbs/DSC06583.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Галлы (Galls)/Крапива двудомная (Urtica dioica)/Пукциния крапивная (Puccinia urticata)/slides/DSC06583.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 04 May 2013 11:32:43 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06583.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06584</title>
+            <link>http://plantarium.info/Галлы (Galls)/Крапива двудомная (Urtica dioica)/Пукциния крапивная (Puccinia urticata)/slides/DSC06584.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:39:42 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Галлы (Galls)/Крапива двудомная (Urtica dioica)/Пукциния крапивная (Puccinia urticata)/thumbs/DSC06584.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Галлы (Galls)/Крапива двудомная (Urtica dioica)/Пукциния крапивная (Puccinia urticata)/slides/DSC06584.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 04 May 2013 11:32:49 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06584.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06585</title>
+            <link>http://plantarium.info/Галлы (Galls)/Крапива двудомная (Urtica dioica)/Пукциния крапивная (Puccinia urticata)/slides/DSC06585.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:39:42 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Галлы (Galls)/Крапива двудомная (Urtica dioica)/Пукциния крапивная (Puccinia urticata)/thumbs/DSC06585.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Галлы (Galls)/Крапива двудомная (Urtica dioica)/Пукциния крапивная (Puccinia urticata)/slides/DSC06585.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 04 May 2013 11:32:58 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06585.jpg</guid>
+        </item>
+    </channel>
+</rss>

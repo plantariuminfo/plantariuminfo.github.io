@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Рододендрон x &apos;Розоватые Огоньки&apos; (Rhododendron x &apos;Rosy Lights&apos; (R. prinophyllum x R x kosterianum))</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Гибриды (Hybrids)/Рододендрон x 'Розоватые Огоньки' (Rhododendron x 'Rosy Lights' (R. prinophyllum x R x kosterianum))/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4019</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Рододендрон x 'Розоватые Огоньки' (Rhododendron x 'Rosy Lights' (R. prinophyllum x R x kosterianum))/slides/IMG_4019.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:10 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Рододендрон x 'Розоватые Огоньки' (Rhododendron x 'Rosy Lights' (R. prinophyllum x R x kosterianum))/thumbs/IMG_4019.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Рододендрон x 'Розоватые Огоньки' (Rhododendron x 'Rosy Lights' (R. prinophyllum x R x kosterianum))/slides/IMG_4019.jpg" width="768" height="1024"/>
+            <guid isPermaLink="false">slides/IMG_4019.jpg</guid>
+        </item>
+    </channel>
+</rss>

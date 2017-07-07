@@ -1,0 +1,38 @@
+	Cymbidium Arabian Nights (
+		C. Sussex Dawn (
+			C. Sussex (
+				C. Landrail (
+					C. Dryad x C. lowianum
+					) 
+				x C. Profusion (
+					C. Ceres (
+						C. iansonii x C. insigne
+					) x C. Vesta (
+						C. Alexanderi x C. insigne
+					)
+				)
+			) x C. Ramboda (
+				C. Pearl (
+					C. Alexanderi x C. hookerianum
+				) x C. Venus (
+					C. Holfordianum (
+						C. eburneum x C. hookerianum
+					) x C. insigne
+				)
+			)
+		) x C. Balkis 'Luath' (
+			C. Alexanderi (
+				C. Eburneo-lowianum (
+					C. eburneum x C. lowianum
+				) x C. insigne
+			) x C. Rosanna (
+				C. Alexanderi x C. Kittiwake (
+					C. Dryad (
+						C. insigne x C. sanderae
+					) x C. Gottianum (
+						C. eburneum x C. insigne
+					)
+				)
+			)
+		)
+	)

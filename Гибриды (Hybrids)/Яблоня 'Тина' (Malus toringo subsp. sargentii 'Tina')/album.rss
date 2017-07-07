@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Яблоня &apos;Тина&apos; (Malus toringo subsp. sargentii &apos;Tina&apos;)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Гибриды (Hybrids)/Яблоня 'Тина' (Malus toringo subsp. sargentii 'Tina')/</jalbum:absolutePath>
+        <item>
+            <title>IMG_5171</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Яблоня 'Тина' (Malus toringo subsp. sargentii 'Tina')/slides/IMG_5171.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:52 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Яблоня 'Тина' (Malus toringo subsp. sargentii 'Tina')/thumbs/IMG_5171.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Яблоня 'Тина' (Malus toringo subsp. sargentii 'Tina')/slides/IMG_5171.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 24 May 2014 14:51:19 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5171.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5172</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Яблоня 'Тина' (Malus toringo subsp. sargentii 'Tina')/slides/IMG_5172.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:52 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Яблоня 'Тина' (Malus toringo subsp. sargentii 'Tina')/thumbs/IMG_5172.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Яблоня 'Тина' (Malus toringo subsp. sargentii 'Tina')/slides/IMG_5172.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 24 May 2014 14:51:27 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5172.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5173</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Яблоня 'Тина' (Malus toringo subsp. sargentii 'Tina')/slides/IMG_5173.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:52 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Яблоня 'Тина' (Malus toringo subsp. sargentii 'Tina')/thumbs/IMG_5173.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Яблоня 'Тина' (Malus toringo subsp. sargentii 'Tina')/slides/IMG_5173.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 24 May 2014 14:51:33 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5173.jpg</guid>
+        </item>
+    </channel>
+</rss>

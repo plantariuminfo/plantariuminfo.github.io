@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Земляникокопт щетинистый (Fragariocoptes setiger)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC08122_</title>
+            <link>http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/slides/0DSC08122_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:39:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/thumbs/0DSC08122_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/slides/0DSC08122_.jpg" width="1024" height="656"/>
+            <jalbum:exif originalDate="Sat, 10 Jun 2017 10:50:15 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC08122_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC08120</title>
+            <link>http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/slides/DSC08120.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:39:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/thumbs/DSC08120.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/slides/DSC08120.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 10 Jun 2017 10:49:49 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08120.JPG</guid>
+        </item>
+        <item>
+            <title>DSC08121</title>
+            <link>http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/slides/DSC08121.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:39:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/thumbs/DSC08121.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/slides/DSC08121.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 10 Jun 2017 10:50:02 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08121.JPG</guid>
+        </item>
+        <item>
+            <title>DSC08122</title>
+            <link>http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/slides/DSC08122.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:39:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/thumbs/DSC08122.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/slides/DSC08122.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 10 Jun 2017 10:50:15 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08122.JPG</guid>
+        </item>
+    </channel>
+</rss>

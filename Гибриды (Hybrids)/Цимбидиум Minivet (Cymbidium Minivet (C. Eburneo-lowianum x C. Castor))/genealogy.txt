@@ -1,0 +1,9 @@
+Cymbidium Minivet (
+	C. Eburneo-lowianum (
+		C. eburneum x C. lowianum
+	) x C. Castor (
+		C. insigne x C. Woodhamsianum (
+			C. Eburneo-lowianum x C. lowianum
+		)
+	)
+)

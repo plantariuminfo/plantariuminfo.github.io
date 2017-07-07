@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Бегония x клещевинолистная (Begonia x ricinifolia)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Гибриды (Hybrids)/Бегония x клещевинолистная (Begonia x ricinifolia)/</jalbum:absolutePath>
+        <item>
+            <title>DSC06740</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Бегония x клещевинолистная (Begonia x ricinifolia)/slides/DSC06740.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:09 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Бегония x клещевинолистная (Begonia x ricinifolia)/thumbs/DSC06740.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Бегония x клещевинолистная (Begonia x ricinifolia)/slides/DSC06740.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:01:01 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06740.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06745</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Бегония x клещевинолистная (Begonia x ricinifolia)/slides/DSC06745.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:09 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Бегония x клещевинолистная (Begonia x ricinifolia)/thumbs/DSC06745.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Бегония x клещевинолистная (Begonia x ricinifolia)/slides/DSC06745.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:01:36 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06745.jpg</guid>
+        </item>
+    </channel>
+</rss>

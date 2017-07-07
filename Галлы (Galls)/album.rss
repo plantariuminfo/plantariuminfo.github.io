@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Галлы (Galls)</title>
+   	<link>..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Галлы (Galls)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Галлы (Galls)/Вяз гладкий (Ulmus laevis)/album.rss" title="Вяз гладкий (Ulmus laevis)" thumbnail="http://plantarium.info/Галлы (Galls)/Вяз гладкий (Ulmus laevis)/Вязово-злаковая тля (Tetraneura ulmi)/thumbs/IMG_6004_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Галлы (Galls)/Ель обыкновенная (Picea abies)/album.rss" title="Ель обыкновенная (Picea abies)" thumbnail="http://plantarium.info/Галлы (Galls)/Ель обыкновенная (Picea abies)/Хермес желтый (Adelges abietis)/thumbs/DSC04049.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/album.rss" title="Земляника зелёная (Fragaria viridis)" thumbnail="http://plantarium.info/Галлы (Galls)/Земляника зелёная (Fragaria viridis)/Земляникокопт щетинистый (Fragariocoptes setiger)/thumbs/0DSC08122_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Галлы (Galls)/Крапива двудомная (Urtica dioica)/album.rss" title="Крапива двудомная (Urtica dioica)" thumbnail="http://plantarium.info/Галлы (Galls)/Крапива двудомная (Urtica dioica)/Пукциния крапивная (Puccinia urticata)/thumbs/DSC06585.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Галлы (Galls)/Крушина ломкая (Frangula alnus)/album.rss" title="Крушина ломкая (Frangula alnus)" thumbnail="http://plantarium.info/Галлы (Galls)/Крушина ломкая (Frangula alnus)/Пукциния корончатая (Puccinia coronata)/thumbs/DSC03327_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Галлы (Galls)/Липа сердцевидная (Tilia cordata)/album.rss" title="Липа сердцевидная (Tilia cordata)" thumbnail="http://plantarium.info/Галлы (Galls)/Липа сердцевидная (Tilia cordata)/Липовый галловый клещ (Eriophyes tiliae)/thumbs/DSC07369.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Галлы (Galls)/Ольха серая (Alnus incana)/album.rss" title="Ольха серая (Alnus incana)" thumbnail="http://plantarium.info/Галлы (Galls)/Ольха серая (Alnus incana)/Ольховый войлочный клещ (Eriophyes brevitarsus)/thumbs/DSC00368_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Галлы (Galls)/Осина (Populus tremula)/album.rss" title="Осина (Populus tremula)" thumbnail="http://plantarium.info/Галлы (Galls)/Осина (Populus tremula)/Осиновая черешковая галлица (Syndiplosis petioli)/thumbs/DSC00474.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Галлы (Galls)/Черемуха обыкновенная (Prunus padus)/album.rss" title="Черемуха обыкновенная (Prunus padus)" thumbnail="http://plantarium.info/Галлы (Galls)/Черемуха обыкновенная (Prunus padus)/Тафрина черёмуховая (Taphrina padi)/thumbs/DSC08041.JPG" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

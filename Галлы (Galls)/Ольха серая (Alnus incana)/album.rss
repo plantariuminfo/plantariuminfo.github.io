@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ольха серая (Alnus incana)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Галлы (Galls)/Ольха серая (Alnus incana)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Галлы (Galls)/Ольха серая (Alnus incana)/Ольховый войлочный клещ (Eriophyes brevitarsus)/album.rss" title="Ольховый войлочный клещ (Eriophyes brevitarsus)" thumbnail="http://plantarium.info/Галлы (Galls)/Ольха серая (Alnus incana)/Ольховый войлочный клещ (Eriophyes brevitarsus)/thumbs/DSC00368_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Галлы (Galls)/Ольха серая (Alnus incana)/Тля волосатая ( Prociphilus tessellatus)/album.rss" title="Тля волосатая ( Prociphilus tessellatus)" thumbnail="http://plantarium.info/Галлы (Galls)/Ольха серая (Alnus incana)/Тля волосатая ( Prociphilus tessellatus)/thumbs/DSC00367_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

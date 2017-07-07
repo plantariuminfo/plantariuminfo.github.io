@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Эухарис x крупноцветковый (Eucharis x grandiflora (E. moorei x E. sanderi))</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Гибриды (Hybrids)/Эухарис x крупноцветковый (Eucharis x grandiflora (E. moorei x E. sanderi))/</jalbum:absolutePath>
+        <item>
+            <title>DSC06790</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Эухарис x крупноцветковый (Eucharis x grandiflora (E. moorei x E. sanderi))/slides/DSC06790.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:47 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Эухарис x крупноцветковый (Eucharis x grandiflora (E. moorei x E. sanderi))/thumbs/DSC06790.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Эухарис x крупноцветковый (Eucharis x grandiflora (E. moorei x E. sanderi))/slides/DSC06790.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:16:13 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06790.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06791</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Эухарис x крупноцветковый (Eucharis x grandiflora (E. moorei x E. sanderi))/slides/DSC06791.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:47 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Эухарис x крупноцветковый (Eucharis x grandiflora (E. moorei x E. sanderi))/thumbs/DSC06791.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Эухарис x крупноцветковый (Eucharis x grandiflora (E. moorei x E. sanderi))/slides/DSC06791.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:16:21 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06791.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06792</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Эухарис x крупноцветковый (Eucharis x grandiflora (E. moorei x E. sanderi))/slides/DSC06792.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:47 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Эухарис x крупноцветковый (Eucharis x grandiflora (E. moorei x E. sanderi))/thumbs/DSC06792.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Эухарис x крупноцветковый (Eucharis x grandiflora (E. moorei x E. sanderi))/slides/DSC06792.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:16:25 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06792.jpg</guid>
+        </item>
+    </channel>
+</rss>

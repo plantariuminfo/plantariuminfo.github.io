@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Цитрофортунелла x мелкоплодная, Каламондин (Citrofortunella x microcarpa (Citrus reticulata x Fortunella japonica))</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Гибриды (Hybrids)/Цитрофортунелла x мелкоплодная, Каламондин (Citrofortunella x microcarpa (Citrus reticulata x Fortunella japonica))/</jalbum:absolutePath>
+        <item>
+            <title>DSC06250</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Цитрофортунелла x мелкоплодная, Каламондин (Citrofortunella x microcarpa (Citrus reticulata x Fortunella japonica))/slides/DSC06250.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:40 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Цитрофортунелла x мелкоплодная, Каламондин (Citrofortunella x microcarpa (Citrus reticulata x Fortunella japonica))/thumbs/DSC06250.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Цитрофортунелла x мелкоплодная, Каламондин (Citrofortunella x microcarpa (Citrus reticulata x Fortunella japonica))/slides/DSC06250.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 28 Apr 2017 12:29:11 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06250.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06253</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Цитрофортунелла x мелкоплодная, Каламондин (Citrofortunella x microcarpa (Citrus reticulata x Fortunella japonica))/slides/DSC06253.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:40 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Цитрофортунелла x мелкоплодная, Каламондин (Citrofortunella x microcarpa (Citrus reticulata x Fortunella japonica))/thumbs/DSC06253.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Цитрофортунелла x мелкоплодная, Каламондин (Citrofortunella x microcarpa (Citrus reticulata x Fortunella japonica))/slides/DSC06253.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 28 Apr 2017 12:29:17 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06253.JPG</guid>
+        </item>
+    </channel>
+</rss>

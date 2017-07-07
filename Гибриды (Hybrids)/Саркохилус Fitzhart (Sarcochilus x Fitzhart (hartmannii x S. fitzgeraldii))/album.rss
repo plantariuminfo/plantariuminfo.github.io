@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Саркохилус Fitzhart (Sarcochilus x Fitzhart (hartmannii x S. fitzgeraldii))</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Гибриды (Hybrids)/Саркохилус Fitzhart (Sarcochilus x Fitzhart (hartmannii x S. fitzgeraldii))/</jalbum:absolutePath>
+        <item>
+            <title>DSC04904</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Саркохилус Fitzhart (Sarcochilus x Fitzhart (hartmannii x S. fitzgeraldii))/slides/DSC04904.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:22 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Саркохилус Fitzhart (Sarcochilus x Fitzhart (hartmannii x S. fitzgeraldii))/thumbs/DSC04904.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Саркохилус Fitzhart (Sarcochilus x Fitzhart (hartmannii x S. fitzgeraldii))/slides/DSC04904.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 13:50:39 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04904.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04907</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Саркохилус Fitzhart (Sarcochilus x Fitzhart (hartmannii x S. fitzgeraldii))/slides/DSC04907.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:22 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Саркохилус Fitzhart (Sarcochilus x Fitzhart (hartmannii x S. fitzgeraldii))/thumbs/DSC04907.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Саркохилус Fitzhart (Sarcochilus x Fitzhart (hartmannii x S. fitzgeraldii))/slides/DSC04907.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 13:51:01 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04907.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04908</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Саркохилус Fitzhart (Sarcochilus x Fitzhart (hartmannii x S. fitzgeraldii))/slides/DSC04908.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:22 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Саркохилус Fitzhart (Sarcochilus x Fitzhart (hartmannii x S. fitzgeraldii))/thumbs/DSC04908.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Саркохилус Fitzhart (Sarcochilus x Fitzhart (hartmannii x S. fitzgeraldii))/slides/DSC04908.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 13:51:13 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04908.JPG</guid>
+        </item>
+    </channel>
+</rss>

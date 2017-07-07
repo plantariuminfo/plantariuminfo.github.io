@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Рододендрон x &apos;Лиловые Огоньки&apos; (Rhododendron x &apos;Lilac Lights&apos; (R. canadense x R. prinofillum x R. x kosterianum (R. molle ssp molle x R. molle ssp japonicum))))</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Гибриды (Hybrids)/Рододендрон x 'Лиловые Огоньки' (Rhododendron x 'Lilac Lights' (R. canadense x R. prinofillum x R. x kosterianum (R. molle ssp molle x R. molle ssp japonicum))))/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4021</title>
+            <link>http://plantarium.info/Гибриды (Hybrids)/Рододендрон x 'Лиловые Огоньки' (Rhododendron x 'Lilac Lights' (R. canadense x R. prinofillum x R. x kosterianum (R. molle ssp molle x R. molle ssp japonicum))))/slides/IMG_4021.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:36:09 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Гибриды (Hybrids)/Рододендрон x 'Лиловые Огоньки' (Rhododendron x 'Lilac Lights' (R. canadense x R. prinofillum x R. x kosterianum (R. molle ssp molle x R. molle ssp japonicum))))/thumbs/IMG_4021.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гибриды (Hybrids)/Рододендрон x 'Лиловые Огоньки' (Rhododendron x 'Lilac Lights' (R. canadense x R. prinofillum x R. x kosterianum (R. molle ssp molle x R. molle ssp japonicum))))/slides/IMG_4021.jpg" width="768" height="1024"/>
+            <guid isPermaLink="false">slides/IMG_4021.jpg</guid>
+        </item>
+    </channel>
+</rss>

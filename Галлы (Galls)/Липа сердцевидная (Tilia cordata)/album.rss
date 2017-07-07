@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Липа сердцевидная (Tilia cordata)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Галлы (Galls)/Липа сердцевидная (Tilia cordata)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Галлы (Galls)/Липа сердцевидная (Tilia cordata)/Липовый галловый клещ (Eriophyes tiliae)/album.rss" title="Липовый галловый клещ (Eriophyes tiliae)" thumbnail="http://plantarium.info/Галлы (Galls)/Липа сердцевидная (Tilia cordata)/Липовый галловый клещ (Eriophyes tiliae)/thumbs/DSC07369.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>
