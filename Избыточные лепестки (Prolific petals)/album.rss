@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Избыточные лепестки (Prolific petals)</title>
+   	<link>..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Избыточные лепестки (Prolific petals)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Избыточные лепестки (Prolific petals)/Лютик едкий (Ranunculus acris)/album.rss" title="Лютик едкий (Ranunculus acris)" thumbnail="http://plantarium.info/Избыточные лепестки (Prolific petals)/Лютик едкий (Ranunculus acris)/thumbs/DSC03485.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Избыточные лепестки (Prolific petals)/Одуванчик лекарственный (Taraxacum officinale)/album.rss" title="Одуванчик лекарственный (Taraxacum officinale)" thumbnail="http://plantarium.info/Избыточные лепестки (Prolific petals)/Одуванчик лекарственный (Taraxacum officinale)/thumbs/IMG_5095.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>
