@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гриб паразит на грибе (Fungi parasite on Fungi)</title>
+   	<link>..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/album.rss" title="Гипомицес золотистоспоровый (Hypomyces chrysospermus)" thumbnail="http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/thumbs/fungi-0004002.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Гипомицес кирпично-красный (Hypomyces lateritius)/album.rss" title="Гипомицес кирпично-красный (Hypomyces lateritius)" thumbnail="http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Гипомицес кирпично-красный (Hypomyces lateritius)/thumbs/DSC07358_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Кордицепс офиоглоссовидный (Elaphocordyceps ophioglossoides)/album.rss" title="Кордицепс офиоглоссовидный (Elaphocordyceps ophioglossoides)" thumbnail="http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Кордицепс офиоглоссовидный (Elaphocordyceps ophioglossoides)/thumbs/fungi-0004693.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Спинеллюс фузигер (Spinellus fusiger)/album.rss" title="Спинеллюс фузигер (Spinellus fusiger)" thumbnail="http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Спинеллюс фузигер (Spinellus fusiger)/thumbs/fungi-0004198.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

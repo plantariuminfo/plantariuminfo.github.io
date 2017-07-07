@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ива остролистная (Salix acutifolia)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Гистерантовые (Hysteranthous)/Ива остролистная (Salix acutifolia)/</jalbum:absolutePath>
+        <item>
+            <title>DSC01606</title>
+            <link>http://plantarium.info/Гистерантовые (Hysteranthous)/Ива остролистная (Salix acutifolia)/slides/DSC01606.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:02 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гистерантовые (Hysteranthous)/Ива остролистная (Salix acutifolia)/thumbs/DSC01606.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гистерантовые (Hysteranthous)/Ива остролистная (Salix acutifolia)/slides/DSC01606.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 09 Apr 2009 22:31:29 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC01606.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02993</title>
+            <link>http://plantarium.info/Гистерантовые (Hysteranthous)/Ива остролистная (Salix acutifolia)/slides/DSC02993.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:02 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гистерантовые (Hysteranthous)/Ива остролистная (Salix acutifolia)/thumbs/DSC02993.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гистерантовые (Hysteranthous)/Ива остролистная (Salix acutifolia)/slides/DSC02993.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 15 May 2009 22:59:09 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02993.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02994</title>
+            <link>http://plantarium.info/Гистерантовые (Hysteranthous)/Ива остролистная (Salix acutifolia)/slides/DSC02994.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:02 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гистерантовые (Hysteranthous)/Ива остролистная (Salix acutifolia)/thumbs/DSC02994.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гистерантовые (Hysteranthous)/Ива остролистная (Salix acutifolia)/slides/DSC02994.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 15 May 2009 22:59:18 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02994.jpg</guid>
+        </item>
+    </channel>
+</rss>

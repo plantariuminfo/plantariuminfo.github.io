@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гипомицес золотистоспоровый (Hypomyces chrysospermus)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004002</title>
+            <link>http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/slides/fungi-0004002.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/thumbs/fungi-0004002.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/slides/fungi-0004002.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 10 Sep 2010 08:02:57 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004002.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0004044</title>
+            <link>http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/slides/fungi-0004044.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/thumbs/fungi-0004044.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гриб паразит на грибе (Fungi parasite on Fungi)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/slides/fungi-0004044.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 12 Sep 2010 17:02:19 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004044.jpg</guid>
+        </item>
+    </channel>
+</rss>

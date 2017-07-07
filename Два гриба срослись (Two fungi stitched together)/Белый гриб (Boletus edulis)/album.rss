@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Белый гриб (Boletus edulis)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Два гриба срослись (Two fungi stitched together)/Белый гриб (Boletus edulis)/</jalbum:absolutePath>
+        <item>
+            <title>DSC07362</title>
+            <link>http://plantarium.info/Два гриба срослись (Two fungi stitched together)/Белый гриб (Boletus edulis)/slides/DSC07362.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:17 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Два гриба срослись (Two fungi stitched together)/Белый гриб (Boletus edulis)/thumbs/DSC07362.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Два гриба срослись (Two fungi stitched together)/Белый гриб (Boletus edulis)/slides/DSC07362.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 04 Oct 2015 11:04:28 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC07362.jpg</guid>
+        </item>
+        <item>
+            <title>DSC07363</title>
+            <link>http://plantarium.info/Два гриба срослись (Two fungi stitched together)/Белый гриб (Boletus edulis)/slides/DSC07363.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:17 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Два гриба срослись (Two fungi stitched together)/Белый гриб (Boletus edulis)/thumbs/DSC07363.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Два гриба срослись (Two fungi stitched together)/Белый гриб (Boletus edulis)/slides/DSC07363.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 04 Oct 2015 11:04:37 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC07363.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Яблоня домашняя (Malus domestica)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05434</title>
+            <link>http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/slides/DSC05434.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:14 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/thumbs/DSC05434.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/slides/DSC05434.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 13 Aug 2015 22:13:46 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC05434.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05436</title>
+            <link>http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/slides/DSC05436.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:14 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/thumbs/DSC05436.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/slides/DSC05436.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 13 Aug 2015 22:14:12 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC05436.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05437</title>
+            <link>http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/slides/DSC05437.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:14 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/thumbs/DSC05437.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/slides/DSC05437.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 13 Aug 2015 22:14:28 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC05437.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05438</title>
+            <link>http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/slides/DSC05438.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:14 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/thumbs/DSC05438.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Два растения срослись (Two plants stitch together)/Яблоня домашняя (Malus domestica)/slides/DSC05438.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 13 Aug 2015 22:25:05 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC05438.jpg</guid>
+        </item>
+    </channel>
+</rss>

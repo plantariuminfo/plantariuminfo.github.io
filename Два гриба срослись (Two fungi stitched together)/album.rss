@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Два гриба срослись (Two fungi stitched together)</title>
+   	<link>..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Два гриба срослись (Two fungi stitched together)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Два гриба срослись (Two fungi stitched together)/Белый гриб (Boletus edulis)/album.rss" title="Белый гриб (Boletus edulis)" thumbnail="http://plantarium.info/Два гриба срослись (Two fungi stitched together)/Белый гриб (Boletus edulis)/thumbs/DSC07363.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Два гриба срослись (Two fungi stitched together)/Подберёзовик обыкновенный (Leccinum scabrum)/album.rss" title="Подберёзовик обыкновенный (Leccinum scabrum)" thumbnail="http://plantarium.info/Два гриба срослись (Two fungi stitched together)/Подберёзовик обыкновенный (Leccinum scabrum)/thumbs/DSC00390.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

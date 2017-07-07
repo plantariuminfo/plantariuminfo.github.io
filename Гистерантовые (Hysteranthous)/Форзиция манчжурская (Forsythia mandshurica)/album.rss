@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Форзиция манчжурская (Forsythia mandshurica)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02053</title>
+            <link>http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/slides/DSC02053.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/thumbs/DSC02053.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/slides/DSC02053.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 12:53:09 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02053.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02054</title>
+            <link>http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/slides/DSC02054.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/thumbs/DSC02054.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/slides/DSC02054.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 12:53:14 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02054.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02055</title>
+            <link>http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/slides/DSC02055.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/thumbs/DSC02055.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/slides/DSC02055.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 12:53:22 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02055.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02056</title>
+            <link>http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/slides/DSC02056.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/thumbs/DSC02056.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Гистерантовые (Hysteranthous)/Форзиция манчжурская (Forsythia mandshurica)/slides/DSC02056.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 12:53:33 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02056.jpg</guid>
+        </item>
+    </channel>
+</rss>
