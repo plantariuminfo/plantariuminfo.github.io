@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ива белая разнв. блестящая (Salix alba var. sericea)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Двудомные (Dioicous)/Ива белая разнв. блестящая (Salix alba var. sericea)/</jalbum:absolutePath>
+        <item>
+            <title>DSC04485</title>
+            <link>http://plantarium.info/Двудомные (Dioicous)/Ива белая разнв. блестящая (Salix alba var. sericea)/slides/DSC04485.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:58:06 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Двудомные (Dioicous)/Ива белая разнв. блестящая (Salix alba var. sericea)/thumbs/DSC04485.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Двудомные (Dioicous)/Ива белая разнв. блестящая (Salix alba var. sericea)/slides/DSC04485.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 26 Aug 2010 12:35:07 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04485.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04486</title>
+            <link>http://plantarium.info/Двудомные (Dioicous)/Ива белая разнв. блестящая (Salix alba var. sericea)/slides/DSC04486.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:58:06 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Двудомные (Dioicous)/Ива белая разнв. блестящая (Salix alba var. sericea)/thumbs/DSC04486.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Двудомные (Dioicous)/Ива белая разнв. блестящая (Salix alba var. sericea)/slides/DSC04486.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 26 Aug 2010 12:35:14 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04486.jpg</guid>
+        </item>
+    </channel>
+</rss>
