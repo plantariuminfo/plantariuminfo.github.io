@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Репа (Brassica rapa subsp. rapa)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/</jalbum:absolutePath>
+        <item>
+            <title>DSC01756</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/slides/DSC01756.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/thumbs/DSC01756.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/slides/DSC01756.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 18 Jul 2016 16:37:40 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01756.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01757</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/slides/DSC01757.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/thumbs/DSC01757.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/slides/DSC01757.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 18 Jul 2016 16:38:03 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01757.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01758</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/slides/DSC01758.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/thumbs/DSC01758.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/slides/DSC01758.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 18 Jul 2016 16:38:14 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01758.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01759</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/slides/DSC01759.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/thumbs/DSC01759.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/slides/DSC01759.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 18 Jul 2016 16:38:32 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01759.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01760</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/slides/DSC01760.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/thumbs/DSC01760.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/slides/DSC01760.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 18 Jul 2016 16:38:44 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01760.jpg</guid>
+        </item>
+    </channel>
+</rss>

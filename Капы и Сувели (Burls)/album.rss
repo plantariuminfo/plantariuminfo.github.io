@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Капы и Сувели (Burls)</title>
+   	<link>..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Капы и Сувели (Burls)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Капы и Сувели (Burls)/Берёза повислая (Betula pendula)/album.rss" title="Берёза повислая (Betula pendula)" thumbnail="http://plantarium.info/Капы и Сувели (Burls)/Берёза повислая (Betula pendula)/thumbs/fungi-0003804.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Капы и Сувели (Burls)/Дуб обыкновенный (Quercus robur)/album.rss" title="Дуб обыкновенный (Quercus robur)" thumbnail="http://plantarium.info/Капы и Сувели (Burls)/Дуб обыкновенный (Quercus robur)/thumbs/DSC06814.JPG" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Капы и Сувели (Burls)/Ель обыкновенная, европейская ( Picea abies)/album.rss" title="Ель обыкновенная, европейская ( Picea abies)" thumbnail="http://plantarium.info/Капы и Сувели (Burls)/Ель обыкновенная, европейская ( Picea abies)/thumbs/fungi-0003847.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Капы и Сувели (Burls)/Конский каштан обыкновенный (Aesculus hippocastanum)/album.rss" title="Конский каштан обыкновенный (Aesculus hippocastanum)" thumbnail="http://plantarium.info/Капы и Сувели (Burls)/Конский каштан обыкновенный (Aesculus hippocastanum)/thumbs/DSC07013.JPG" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Капы и Сувели (Burls)/Липа сердцевидная (Tilia cordata)/album.rss" title="Липа сердцевидная (Tilia cordata)" thumbnail="http://plantarium.info/Капы и Сувели (Burls)/Липа сердцевидная (Tilia cordata)/thumbs/DSC07021.JPG" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Капы и Сувели (Burls)/Сосна обыкновенная (Pinus sylvestris)/album.rss" title="Сосна обыкновенная (Pinus sylvestris)" thumbnail="http://plantarium.info/Капы и Сувели (Burls)/Сосна обыкновенная (Pinus sylvestris)/thumbs/DSC03656.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

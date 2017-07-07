@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ирис сибирский (Iris sibirica)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/</jalbum:absolutePath>
+        <item>
+            <title>DSC01876</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/slides/DSC01876.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:37 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/thumbs/DSC01876.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/slides/DSC01876.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 18 Apr 2015 14:59:41 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01876.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01877</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/slides/DSC01877.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:37 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/thumbs/DSC01877.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/slides/DSC01877.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 18 Apr 2015 15:00:03 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01877.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01878</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/slides/DSC01878.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:37 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/thumbs/DSC01878.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/slides/DSC01878.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 18 Apr 2015 15:00:14 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01878.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01879</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/slides/DSC01879.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:37 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/thumbs/DSC01879.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/slides/DSC01879.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 18 Apr 2015 15:00:20 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01879.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01880</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/slides/DSC01880.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:37 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/thumbs/DSC01880.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/slides/DSC01880.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 18 Apr 2015 15:00:27 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01880.jpg</guid>
+        </item>
+    </channel>
+</rss>

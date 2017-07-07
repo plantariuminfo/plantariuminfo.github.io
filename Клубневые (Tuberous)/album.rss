@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Клубневые (Tuberous)</title>
+   	<link>..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Клубневые (Tuberous)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Клубневые (Tuberous)/Батат, сладкий картофель (Ipomoea batatas)/album.rss" title="Батат, сладкий картофель (Ipomoea batatas)" thumbnail="http://plantarium.info/Клубневые (Tuberous)/Батат, сладкий картофель (Ipomoea batatas)/thumbs/DSC09593.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Клубневые (Tuberous)/Ирис ложноаировый, жёлтый, болотный, водяной, аировидный (Iris pseudacorus)/album.rss" title="Ирис ложноаировый, жёлтый, болотный, водяной, аировидный (Iris pseudacorus)" thumbnail="http://plantarium.info/Клубневые (Tuberous)/Ирис ложноаировый, жёлтый, болотный, водяной, аировидный (Iris pseudacorus)/thumbs/DSC09244.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/album.rss" title="Ирис сибирский (Iris sibirica)" thumbnail="http://plantarium.info/Клубневые (Tuberous)/Ирис сибирский (Iris sibirica)/thumbs/DSC01876.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Клубневые (Tuberous)/Касатик гибридный (Iris x hybrida)/album.rss" title="Касатик гибридный (Iris x hybrida)" thumbnail="http://plantarium.info/Клубневые (Tuberous)/Касатик гибридный (Iris x hybrida)/thumbs/DSC01881.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Клубневые (Tuberous)/Морковь посевная (Daucus carota subsp. sativus)/album.rss" title="Морковь посевная (Daucus carota subsp. sativus)" thumbnail="http://plantarium.info/Клубневые (Tuberous)/Морковь посевная (Daucus carota subsp. sativus)/thumbs/DSC03967.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/album.rss" title="Пастернак посевной (Pastinaca sativa)" thumbnail="http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/thumbs/DSC00718.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Клубневые (Tuberous)/Ревень волнистый (Rheum rhabarbarum)/album.rss" title="Ревень волнистый (Rheum rhabarbarum)" thumbnail="http://plantarium.info/Клубневые (Tuberous)/Ревень волнистый (Rheum rhabarbarum)/thumbs/DSC00275.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Клубневые (Tuberous)/Редис (Raphanus sativus var. radicula)/album.rss" title="Редис (Raphanus sativus var. radicula)" thumbnail="http://plantarium.info/Клубневые (Tuberous)/Редис (Raphanus sativus var. radicula)/thumbs/DSC00462.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/album.rss" title="Репа (Brassica rapa subsp. rapa)" thumbnail="http://plantarium.info/Клубневые (Tuberous)/Репа (Brassica rapa subsp. rapa)/thumbs/DSC01759.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Клубневые (Tuberous)/Свёкла обыкновенная (Beta vulgaris)/album.rss" title="Свёкла обыкновенная (Beta vulgaris)" thumbnail="http://plantarium.info/Клубневые (Tuberous)/Свёкла обыкновенная (Beta vulgaris)/thumbs/IMG_6827.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

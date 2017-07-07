@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Маммиллярия удлиненная &apos;Узелок&apos; (Mammillaria elongata &apos;Crest&apos;)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Кактусы (Cactuses)/Маммиллярия удлиненная 'Узелок' (Mammillaria elongata 'Crest')/</jalbum:absolutePath>
+        <item>
+            <title>DSC06545</title>
+            <link>http://plantarium.info/Кактусы (Cactuses)/Маммиллярия удлиненная 'Узелок' (Mammillaria elongata 'Crest')/slides/DSC06545.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:47:01 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Кактусы (Cactuses)/Маммиллярия удлиненная 'Узелок' (Mammillaria elongata 'Crest')/thumbs/DSC06545.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Кактусы (Cactuses)/Маммиллярия удлиненная 'Узелок' (Mammillaria elongata 'Crest')/slides/DSC06545.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 01 May 2013 10:54:48 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06545.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06546</title>
+            <link>http://plantarium.info/Кактусы (Cactuses)/Маммиллярия удлиненная 'Узелок' (Mammillaria elongata 'Crest')/slides/DSC06546.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:47:01 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Кактусы (Cactuses)/Маммиллярия удлиненная 'Узелок' (Mammillaria elongata 'Crest')/thumbs/DSC06546.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Кактусы (Cactuses)/Маммиллярия удлиненная 'Узелок' (Mammillaria elongata 'Crest')/slides/DSC06546.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 01 May 2013 10:54:54 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06546.jpg</guid>
+        </item>
+    </channel>
+</rss>

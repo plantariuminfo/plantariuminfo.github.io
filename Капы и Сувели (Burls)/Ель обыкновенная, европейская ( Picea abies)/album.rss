@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ель обыкновенная, европейская ( Picea abies)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Капы и Сувели (Burls)/Ель обыкновенная, европейская ( Picea abies)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0003847</title>
+            <link>http://plantarium.info/Капы и Сувели (Burls)/Ель обыкновенная, европейская ( Picea abies)/slides/fungi-0003847.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Капы и Сувели (Burls)/Ель обыкновенная, европейская ( Picea abies)/thumbs/fungi-0003847.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Капы и Сувели (Burls)/Ель обыкновенная, европейская ( Picea abies)/slides/fungi-0003847.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 04 May 2010 14:06:47 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003847.jpg</guid>
+        </item>
+    </channel>
+</rss>

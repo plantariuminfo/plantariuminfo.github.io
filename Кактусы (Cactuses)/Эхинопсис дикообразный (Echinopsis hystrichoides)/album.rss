@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Эхинопсис дикообразный (Echinopsis hystrichoides)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00013</title>
+            <link>http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/slides/DSC00013.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:47:12 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/thumbs/DSC00013.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/slides/DSC00013.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 12 Aug 2014 16:55:31 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00013.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06538</title>
+            <link>http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/slides/DSC06538.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:47:12 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/thumbs/DSC06538.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/slides/DSC06538.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 01 May 2013 10:53:38 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06538.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06539</title>
+            <link>http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/slides/DSC06539.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:47:12 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/thumbs/DSC06539.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/slides/DSC06539.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 01 May 2013 10:53:45 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06539.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06540</title>
+            <link>http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/slides/DSC06540.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:47:12 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/thumbs/DSC06540.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Кактусы (Cactuses)/Эхинопсис дикообразный (Echinopsis hystrichoides)/slides/DSC06540.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 01 May 2013 10:53:51 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06540.jpg</guid>
+        </item>
+    </channel>
+</rss>

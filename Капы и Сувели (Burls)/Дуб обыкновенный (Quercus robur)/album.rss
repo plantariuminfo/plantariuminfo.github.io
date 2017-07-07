@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дуб обыкновенный (Quercus robur)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Капы и Сувели (Burls)/Дуб обыкновенный (Quercus robur)/</jalbum:absolutePath>
+        <item>
+            <title>DSC06814</title>
+            <link>http://plantarium.info/Капы и Сувели (Burls)/Дуб обыкновенный (Quercus robur)/slides/DSC06814.JPG</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:43 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Капы и Сувели (Burls)/Дуб обыкновенный (Quercus robur)/thumbs/DSC06814.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Капы и Сувели (Burls)/Дуб обыкновенный (Quercus robur)/slides/DSC06814.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 01 May 2017 16:03:32 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06814.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06817</title>
+            <link>http://plantarium.info/Капы и Сувели (Burls)/Дуб обыкновенный (Quercus robur)/slides/DSC06817.JPG</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:43 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Капы и Сувели (Burls)/Дуб обыкновенный (Quercus robur)/thumbs/DSC06817.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Капы и Сувели (Burls)/Дуб обыкновенный (Quercus robur)/slides/DSC06817.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 01 May 2017 16:03:39 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06817.JPG</guid>
+        </item>
+    </channel>
+</rss>

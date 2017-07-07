@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Конский каштан обыкновенный (Aesculus hippocastanum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Капы и Сувели (Burls)/Конский каштан обыкновенный (Aesculus hippocastanum)/</jalbum:absolutePath>
+        <item>
+            <title>DSC07013</title>
+            <link>http://plantarium.info/Капы и Сувели (Burls)/Конский каштан обыкновенный (Aesculus hippocastanum)/slides/DSC07013.JPG</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:45 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Капы и Сувели (Burls)/Конский каштан обыкновенный (Aesculus hippocastanum)/thumbs/DSC07013.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Капы и Сувели (Burls)/Конский каштан обыкновенный (Aesculus hippocastanum)/slides/DSC07013.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 13 May 2017 14:09:12 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07013.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07014</title>
+            <link>http://plantarium.info/Капы и Сувели (Burls)/Конский каштан обыкновенный (Aesculus hippocastanum)/slides/DSC07014.JPG</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:45 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Капы и Сувели (Burls)/Конский каштан обыкновенный (Aesculus hippocastanum)/thumbs/DSC07014.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Капы и Сувели (Burls)/Конский каштан обыкновенный (Aesculus hippocastanum)/slides/DSC07014.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 13 May 2017 14:09:26 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07014.JPG</guid>
+        </item>
+    </channel>
+</rss>

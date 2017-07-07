@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Пастернак посевной (Pastinaca sativa)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00718</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/slides/DSC00718.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/thumbs/DSC00718.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/slides/DSC00718.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 25 Jun 2014 14:58:54 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00718.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00719</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/slides/DSC00719.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/thumbs/DSC00719.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/slides/DSC00719.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 25 Jun 2014 14:59:02 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00719.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00817</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/slides/DSC00817.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/thumbs/DSC00817.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/slides/DSC00817.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 05 Jul 2014 18:34:50 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00817.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6219</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/slides/IMG_6219.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:41 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/thumbs/IMG_6219.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Пастернак посевной (Pastinaca sativa)/slides/IMG_6219.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 05 Jul 2014 18:40:09 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6219.jpg</guid>
+        </item>
+    </channel>
+</rss>

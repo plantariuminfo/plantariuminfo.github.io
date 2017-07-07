@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Батат, сладкий картофель (Ipomoea batatas)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Клубневые (Tuberous)/Батат, сладкий картофель (Ipomoea batatas)/</jalbum:absolutePath>
+        <item>
+            <title>DSC09593</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Батат, сладкий картофель (Ipomoea batatas)/slides/DSC09593.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:34 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Батат, сладкий картофель (Ipomoea batatas)/thumbs/DSC09593.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Батат, сладкий картофель (Ipomoea batatas)/slides/DSC09593.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 02 May 2016 18:35:22 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC09593.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09594</title>
+            <link>http://plantarium.info/Клубневые (Tuberous)/Батат, сладкий картофель (Ipomoea batatas)/slides/DSC09594.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:34 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Клубневые (Tuberous)/Батат, сладкий картофель (Ipomoea batatas)/thumbs/DSC09594.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Клубневые (Tuberous)/Батат, сладкий картофель (Ipomoea batatas)/slides/DSC09594.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 02 May 2016 18:35:28 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC09594.jpg</guid>
+        </item>
+    </channel>
+</rss>
