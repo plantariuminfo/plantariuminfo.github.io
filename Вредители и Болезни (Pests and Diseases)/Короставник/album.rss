@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Короставник</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Короставник/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Короставник/Проточенные белесые ходы в ткане листа/album.rss" title="Проточенные белесые ходы в ткане листа" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Короставник/Проточенные белесые ходы в ткане листа/thumbs/DSC00586.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Короставник/Слюнки/album.rss" title="Слюнки" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Короставник/Слюнки/thumbs/DSC00480.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

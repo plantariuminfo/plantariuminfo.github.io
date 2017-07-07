@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>гусеница ест молодые листья</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черемуха/гусеница ест молодые листья/</jalbum:absolutePath>
+        <item>
+            <title>DSC02542</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черемуха/гусеница ест молодые листья/slides/DSC02542.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:39:19 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черемуха/гусеница ест молодые листья/thumbs/DSC02542.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черемуха/гусеница ест молодые листья/slides/DSC02542.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 10 May 2015 19:18:24 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02542.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02543</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черемуха/гусеница ест молодые листья/slides/DSC02543.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:39:19 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черемуха/гусеница ест молодые листья/thumbs/DSC02543.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черемуха/гусеница ест молодые листья/slides/DSC02543.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 10 May 2015 19:19:01 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02543.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02544</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черемуха/гусеница ест молодые листья/slides/DSC02544.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:39:19 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черемуха/гусеница ест молодые листья/thumbs/DSC02544.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черемуха/гусеница ест молодые листья/slides/DSC02544.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 10 May 2015 19:19:27 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02544.jpg</guid>
+        </item>
+    </channel>
+</rss>

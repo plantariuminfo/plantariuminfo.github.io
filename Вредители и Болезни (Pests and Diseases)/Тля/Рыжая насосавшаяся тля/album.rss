@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Рыжая насосавшаяся тля</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Тля/Рыжая насосавшаяся тля/</jalbum:absolutePath>
+        <item>
+            <title>DSC00405</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Тля/Рыжая насосавшаяся тля/slides/DSC00405.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:24 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Тля/Рыжая насосавшаяся тля/thumbs/DSC00405.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Тля/Рыжая насосавшаяся тля/slides/DSC00405.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 14 Jun 2014 14:10:09 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00405.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00406</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Тля/Рыжая насосавшаяся тля/slides/DSC00406.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:24 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Тля/Рыжая насосавшаяся тля/thumbs/DSC00406.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Тля/Рыжая насосавшаяся тля/slides/DSC00406.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 14 Jun 2014 14:10:18 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00406.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00407</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Тля/Рыжая насосавшаяся тля/slides/DSC00407.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:24 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Тля/Рыжая насосавшаяся тля/thumbs/DSC00407.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Тля/Рыжая насосавшаяся тля/slides/DSC00407.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 14 Jun 2014 14:10:24 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00407.jpg</guid>
+        </item>
+    </channel>
+</rss>

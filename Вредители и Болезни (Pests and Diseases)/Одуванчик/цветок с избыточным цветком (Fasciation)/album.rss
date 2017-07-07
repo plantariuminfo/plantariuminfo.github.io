@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>цветок с избыточным цветком (Fasciation)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/цветок с избыточным цветком (Fasciation)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_5095</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/цветок с избыточным цветком (Fasciation)/slides/IMG_5095.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:19 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/цветок с избыточным цветком (Fasciation)/thumbs/IMG_5095.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/цветок с избыточным цветком (Fasciation)/slides/IMG_5095.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 24 May 2014 13:23:45 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5095.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5096</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/цветок с избыточным цветком (Fasciation)/slides/IMG_5096.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:19 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/цветок с избыточным цветком (Fasciation)/thumbs/IMG_5096.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/цветок с избыточным цветком (Fasciation)/slides/IMG_5096.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 24 May 2014 13:23:50 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5096.jpg</guid>
+        </item>
+    </channel>
+</rss>

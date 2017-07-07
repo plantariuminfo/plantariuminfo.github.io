@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Колокольчик (Campanula spp.)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Колокольчик (Campanula spp.)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Колокольчик (Campanula spp.)/Кокон на нижней стороне листа/album.rss" title="Кокон на нижней стороне листа" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Колокольчик (Campanula spp.)/Кокон на нижней стороне листа/thumbs/IMG_6428.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Колокольчик (Campanula spp.)/Оранжевая сыпь на нижней стороне листа/album.rss" title="Оранжевая сыпь на нижней стороне листа" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Колокольчик (Campanula spp.)/Оранжевая сыпь на нижней стороне листа/thumbs/IMG_6431.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

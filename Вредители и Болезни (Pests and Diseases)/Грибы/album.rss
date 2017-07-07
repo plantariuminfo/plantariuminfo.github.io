@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Грибы</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Грибы/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Грибы/Сросшиеся шляпками грибы/album.rss" title="Сросшиеся шляпками грибы" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Грибы/Сросшиеся шляпками грибы/thumbs/DSC00390.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

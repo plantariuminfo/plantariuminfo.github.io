@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Пистия телоризовидная (Pistia stratiotes)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Водные (Aquatic)/Пистия телоризовидная (Pistia stratiotes)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05779</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Пистия телоризовидная (Pistia stratiotes)/slides/DSC05779.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:03 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Пистия телоризовидная (Pistia stratiotes)/thumbs/DSC05779.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Пистия телоризовидная (Pistia stratiotes)/slides/DSC05779.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 28 Dec 2012 09:47:55 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC05779.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05780</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Пистия телоризовидная (Pistia stratiotes)/slides/DSC05780.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:03 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Пистия телоризовидная (Pistia stratiotes)/thumbs/DSC05780.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Пистия телоризовидная (Pistia stratiotes)/slides/DSC05780.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 28 Dec 2012 09:48:02 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC05780.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6692</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Пистия телоризовидная (Pistia stratiotes)/slides/IMG_6692.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:03 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Пистия телоризовидная (Pistia stratiotes)/thumbs/IMG_6692.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Пистия телоризовидная (Pistia stratiotes)/slides/IMG_6692.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 18 Jan 2015 16:22:53 +0200" cameraMake="Apple" cameraModel="iPhone 6"/>
+            <guid isPermaLink="false">slides/IMG_6692.jpg</guid>
+        </item>
+    </channel>
+</rss>

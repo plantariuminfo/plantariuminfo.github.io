@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Рыжие маленькие муравьи и тля</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива двудомная (Urtica dioica)/Рыжие маленькие муравьи и тля/</jalbum:absolutePath>
+        <item>
+            <title>DSC00342</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива двудомная (Urtica dioica)/Рыжие маленькие муравьи и тля/slides/DSC00342.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:38:07 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива двудомная (Urtica dioica)/Рыжие маленькие муравьи и тля/thumbs/DSC00342.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива двудомная (Urtica dioica)/Рыжие маленькие муравьи и тля/slides/DSC00342.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 11 Jun 2014 17:57:09 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00342.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00343</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива двудомная (Urtica dioica)/Рыжие маленькие муравьи и тля/slides/DSC00343.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:38:07 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива двудомная (Urtica dioica)/Рыжие маленькие муравьи и тля/thumbs/DSC00343.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива двудомная (Urtica dioica)/Рыжие маленькие муравьи и тля/slides/DSC00343.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 11 Jun 2014 17:57:17 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00343.jpg</guid>
+        </item>
+    </channel>
+</rss>

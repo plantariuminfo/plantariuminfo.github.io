@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Красные и пятнистые листья (Diplocarpon earlianum)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Земляника/Красные и пятнистые листья (Diplocarpon earlianum)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00539</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Земляника/Красные и пятнистые листья (Diplocarpon earlianum)/slides/DSC00539.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:13 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Земляника/Красные и пятнистые листья (Diplocarpon earlianum)/thumbs/DSC00539.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Земляника/Красные и пятнистые листья (Diplocarpon earlianum)/slides/DSC00539.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:18:47 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00539.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00540</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Земляника/Красные и пятнистые листья (Diplocarpon earlianum)/slides/DSC00540.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:13 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Земляника/Красные и пятнистые листья (Diplocarpon earlianum)/thumbs/DSC00540.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Земляника/Красные и пятнистые листья (Diplocarpon earlianum)/slides/DSC00540.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:18:51 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00540.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00541</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Земляника/Красные и пятнистые листья (Diplocarpon earlianum)/slides/DSC00541.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:13 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Земляника/Красные и пятнистые листья (Diplocarpon earlianum)/thumbs/DSC00541.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Земляника/Красные и пятнистые листья (Diplocarpon earlianum)/slides/DSC00541.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:18:55 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00541.jpg</guid>
+        </item>
+    </channel>
+</rss>

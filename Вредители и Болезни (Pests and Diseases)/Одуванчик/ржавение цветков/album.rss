@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>ржавение цветков</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/</jalbum:absolutePath>
+        <item>
+            <title>DSC00314</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/slides/DSC00314.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:18 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/thumbs/DSC00314.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/slides/DSC00314.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 16 May 2014 18:41:00 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00314.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00315</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/slides/DSC00315.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:18 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/thumbs/DSC00315.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/slides/DSC00315.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 16 May 2014 18:41:08 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00315.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00316</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/slides/DSC00316.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:18 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/thumbs/DSC00316.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/slides/DSC00316.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 16 May 2014 18:41:15 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00316.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00317</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/slides/DSC00317.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:18 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/thumbs/DSC00317.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/slides/DSC00317.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 16 May 2014 18:41:22 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00317.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00318</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/slides/DSC00318.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:18 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/thumbs/DSC00318.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/slides/DSC00318.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 16 May 2014 18:41:27 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00318.jpg</guid>
+        </item>
+    </channel>
+</rss>

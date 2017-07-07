@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дурман обыкновенный (Datura stramonium)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Зеленая гусеница ест листья дурмана/album.rss" title="Зеленая гусеница ест листья дурмана" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Зеленая гусеница ест листья дурмана/thumbs/DSC09081.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Мозаика на листьях дурмана индейского (Datura mosaic potyvirus)/album.rss" title="Мозаика на листьях дурмана индейского (Datura mosaic potyvirus)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Мозаика на листьях дурмана индейского (Datura mosaic potyvirus)/thumbs/DSC00959.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Плесень плода/album.rss" title="Плесень плода" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Плесень плода/thumbs/DSC09754.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

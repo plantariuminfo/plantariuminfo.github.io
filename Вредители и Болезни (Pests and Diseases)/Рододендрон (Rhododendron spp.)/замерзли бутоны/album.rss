@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>замерзли бутоны</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рододендрон (Rhododendron spp.)/замерзли бутоны/</jalbum:absolutePath>
+        <item>
+            <title>IMG_5013</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рододендрон (Rhododendron spp.)/замерзли бутоны/slides/IMG_5013.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:38:49 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рододендрон (Rhododendron spp.)/замерзли бутоны/thumbs/IMG_5013.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рододендрон (Rhododendron spp.)/замерзли бутоны/slides/IMG_5013.jpg" width="1024" height="1024"/>
+            <jalbum:exif originalDate="Fri, 23 May 2014 14:03:58 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5013.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5014</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рододендрон (Rhododendron spp.)/замерзли бутоны/slides/IMG_5014.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:38:49 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рододендрон (Rhododendron spp.)/замерзли бутоны/thumbs/IMG_5014.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рододендрон (Rhododendron spp.)/замерзли бутоны/slides/IMG_5014.jpg" width="1024" height="1024"/>
+            <jalbum:exif originalDate="Fri, 23 May 2014 14:04:03 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5014.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5015</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рододендрон (Rhododendron spp.)/замерзли бутоны/slides/IMG_5015.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:38:49 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рододендрон (Rhododendron spp.)/замерзли бутоны/thumbs/IMG_5015.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рододендрон (Rhododendron spp.)/замерзли бутоны/slides/IMG_5015.jpg" width="1024" height="1024"/>
+            <jalbum:exif originalDate="Fri, 23 May 2014 14:04:19 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5015.jpg</guid>
+        </item>
+    </channel>
+</rss>

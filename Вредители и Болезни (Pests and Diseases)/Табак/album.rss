@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Табак</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Семенная коробочка прогрызана/album.rss" title="Семенная коробочка прогрызана" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Семенная коробочка прогрызана/thumbs/DSC09755.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Скукоженные и желтеющие листья (Nicotiana virus)/album.rss" title="Скукоженные и желтеющие листья (Nicotiana virus)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Скукоженные и желтеющие листья (Nicotiana virus)/thumbs/DSC01122.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

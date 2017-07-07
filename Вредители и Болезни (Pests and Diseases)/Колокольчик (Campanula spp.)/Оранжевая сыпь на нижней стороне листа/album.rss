@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Оранжевая сыпь на нижней стороне листа</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Колокольчик (Campanula spp.)/Оранжевая сыпь на нижней стороне листа/</jalbum:absolutePath>
+        <item>
+            <title>IMG_6430</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Колокольчик (Campanula spp.)/Оранжевая сыпь на нижней стороне листа/slides/IMG_6430.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:38:04 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Колокольчик (Campanula spp.)/Оранжевая сыпь на нижней стороне листа/thumbs/IMG_6430.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Колокольчик (Campanula spp.)/Оранжевая сыпь на нижней стороне листа/slides/IMG_6430.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 12 Jul 2014 17:00:23 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6430.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6431</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Колокольчик (Campanula spp.)/Оранжевая сыпь на нижней стороне листа/slides/IMG_6431.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:38:04 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Колокольчик (Campanula spp.)/Оранжевая сыпь на нижней стороне листа/thumbs/IMG_6431.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Колокольчик (Campanula spp.)/Оранжевая сыпь на нижней стороне листа/slides/IMG_6431.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 12 Jul 2014 17:00:35 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6431.jpg</guid>
+        </item>
+    </channel>
+</rss>

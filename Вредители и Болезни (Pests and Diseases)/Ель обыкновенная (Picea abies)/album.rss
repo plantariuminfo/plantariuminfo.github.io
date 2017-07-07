@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ель обыкновенная (Picea abies)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ель обыкновенная (Picea abies)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ель обыкновенная (Picea abies)/Галлы на ветках (Adelges abietis)/album.rss" title="Галлы на ветках (Adelges abietis)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ель обыкновенная (Picea abies)/Галлы на ветках (Adelges abietis)/thumbs/DSC01001.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ель обыкновенная (Picea abies)/Гусеница в молодой хвое/album.rss" title="Гусеница в молодой хвое" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ель обыкновенная (Picea abies)/Гусеница в молодой хвое/thumbs/DSC00337.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

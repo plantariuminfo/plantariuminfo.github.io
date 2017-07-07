@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Сиреневый аномальный цвет листа (Phytoplasma)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купырь/Сиреневый аномальный цвет листа (Phytoplasma)/</jalbum:absolutePath>
+        <item>
+            <title>Сиреневый лист</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купырь/Сиреневый аномальный цвет листа (Phytoplasma)/slides/Сиреневый лист.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:16 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купырь/Сиреневый аномальный цвет листа (Phytoplasma)/thumbs/Сиреневый лист.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купырь/Сиреневый аномальный цвет листа (Phytoplasma)/slides/Сиреневый лист.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 18 Jun 2013 19:43:08 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/Сиреневый лист.jpg</guid>
+        </item>
+    </channel>
+</rss>

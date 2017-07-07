@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дурман</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Зеленая гусеница ест листья дурмана/album.rss" title="Зеленая гусеница ест листья дурмана" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Зеленая гусеница ест листья дурмана/thumbs/DSC09081.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Мозаика на листьях дурмана индейского (Datura mosaic potyvirus)/album.rss" title="Мозаика на листьях дурмана индейского (Datura mosaic potyvirus)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Мозаика на листьях дурмана индейского (Datura mosaic potyvirus)/thumbs/DSC00959.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/album.rss" title="Плесень плод" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/thumbs/DSC09754.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

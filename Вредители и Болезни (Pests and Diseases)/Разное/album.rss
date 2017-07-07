@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Разное</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/</jalbum:absolutePath>
+        <item>
+            <title>DSC00509</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/slides/DSC00509.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/thumbs/DSC00509.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/slides/DSC00509.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 18:37:44 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00509.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00526</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/slides/DSC00526.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/thumbs/DSC00526.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/slides/DSC00526.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:12:30 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00526.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00658</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/slides/DSC00658.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/thumbs/DSC00658.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/slides/DSC00658.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 24 Jun 2014 17:45:59 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00658.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00659</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/slides/DSC00659.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/thumbs/DSC00659.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/slides/DSC00659.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 24 Jun 2014 17:46:06 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00659.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00662</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/slides/DSC00662.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/thumbs/DSC00662.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Разное/slides/DSC00662.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 24 Jun 2014 17:58:08 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00662.jpg</guid>
+        </item>
+    </channel>
+</rss>

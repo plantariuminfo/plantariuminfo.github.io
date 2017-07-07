@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ольха серая (Alnus incana)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Бабочка совка на листе/album.rss" title="Бабочка совка на листе" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Бабочка совка на листе/thumbs/IMG_5387.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Желтая яйцекладка/album.rss" title="Желтая яйцекладка" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Желтая яйцекладка/thumbs/IMG_5400.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Красные круглые маленькие галлы (Eriophyes brevitarsus)/album.rss" title="Красные круглые маленькие галлы (Eriophyes brevitarsus)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Красные круглые маленькие галлы (Eriophyes brevitarsus)/thumbs/DSC00368.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Муравьи у почек/album.rss" title="Муравьи у почек" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Муравьи у почек/thumbs/DSC00370.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Пушистая пена на почкахТля волосатая (Paraprociphilus tessellatus)/album.rss" title="Пушистая пена на почкахТля волосатая (Paraprociphilus tessellatus)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Пушистая пена на почкахТля волосатая (Paraprociphilus tessellatus)/thumbs/DSC00367.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Синие металлические жуки на листьях/album.rss" title="Синие металлические жуки на листьях" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Синие металлические жуки на листьях/thumbs/IMG_5399.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

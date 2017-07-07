@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Слюнки</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Пазник/Слюнки/</jalbum:absolutePath>
+        <item>
+            <title>DSC00547</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Пазник/Слюнки/slides/DSC00547.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:20 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Пазник/Слюнки/thumbs/DSC00547.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Пазник/Слюнки/slides/DSC00547.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:21:08 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00547.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00548</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Пазник/Слюнки/slides/DSC00548.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:20 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Пазник/Слюнки/thumbs/DSC00548.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Пазник/Слюнки/slides/DSC00548.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:21:13 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00548.jpg</guid>
+        </item>
+    </channel>
+</rss>

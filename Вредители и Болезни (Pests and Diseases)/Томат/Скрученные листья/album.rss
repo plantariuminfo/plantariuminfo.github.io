@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Скрученные листья</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/</jalbum:absolutePath>
+        <item>
+            <title>IMG_6227</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/slides/IMG_6227.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:25 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/thumbs/IMG_6227.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/slides/IMG_6227.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 05 Jul 2014 21:13:02 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6227.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6228</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/slides/IMG_6228.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:25 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/thumbs/IMG_6228.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/slides/IMG_6228.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 05 Jul 2014 21:13:19 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6228.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6229</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/slides/IMG_6229.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:25 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/thumbs/IMG_6229.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/slides/IMG_6229.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 05 Jul 2014 21:13:31 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6229.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6230</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/slides/IMG_6230.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:25 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/thumbs/IMG_6230.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/slides/IMG_6230.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 05 Jul 2014 21:13:49 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6230.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6231</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/slides/IMG_6231.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:25 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/thumbs/IMG_6231.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/slides/IMG_6231.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 05 Jul 2014 21:14:10 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6231.jpg</guid>
+        </item>
+    </channel>
+</rss>

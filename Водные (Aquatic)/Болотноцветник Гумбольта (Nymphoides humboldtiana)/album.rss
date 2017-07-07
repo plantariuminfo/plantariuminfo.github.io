@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Болотноцветник Гумбольта (Nymphoides humboldtiana)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/</jalbum:absolutePath>
+        <item>
+            <title>DSC04608</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/slides/DSC04608.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:38 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/thumbs/DSC04608.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/slides/DSC04608.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 20 Dec 2012 10:33:46 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04608.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04609</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/slides/DSC04609.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:38 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/thumbs/DSC04609.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/slides/DSC04609.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 20 Dec 2012 10:34:07 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04609.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04610</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/slides/DSC04610.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:38 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/thumbs/DSC04610.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/slides/DSC04610.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 20 Dec 2012 10:34:22 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04610.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04611</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/slides/DSC04611.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:38 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/thumbs/DSC04611.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/slides/DSC04611.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 20 Dec 2012 10:35:01 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04611.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04612</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/slides/DSC04612.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:51:38 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/thumbs/DSC04612.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Болотноцветник Гумбольта (Nymphoides humboldtiana)/slides/DSC04612.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 20 Dec 2012 10:35:09 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04612.jpg</guid>
+        </item>
+    </channel>
+</rss>

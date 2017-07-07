@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Плесень плод</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/</jalbum:absolutePath>
+        <item>
+            <title>DSC09753</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/slides/DSC09753.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:13 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/thumbs/DSC09753.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/slides/DSC09753.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 24 Aug 2013 13:41:18 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09753.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09754</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/slides/DSC09754.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:13 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/thumbs/DSC09754.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/slides/DSC09754.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 24 Aug 2013 13:41:23 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09754.jpg</guid>
+        </item>
+        <item>
+            <title>Fruit rot of Datura innoxia and microbial deterioration of tropane alkaloids</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/Fruit rot of Datura innoxia and microbial deterioration of tropane alkaloids.pdf</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:13 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/../../../res/pdf.png" width="128" height="128"/>
+            <media:content  url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/Fruit rot of Datura innoxia and microbial deterioration of tropane alkaloids.pdf" width="128" height="128"/>
+            <jalbum:original url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/Fruit rot of Datura innoxia and microbial deterioration of tropane alkaloids.pdf" width="128" height="128" fileSize="2516169"/>
+            <guid isPermaLink="false">../../../res/pdf.png</guid>
+        </item>
+        <item>
+            <title>Management of fruit rot of chilli with different</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/Management of fruit rot of chilli with different.pdf</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:13 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/../../../res/pdf.png" width="128" height="128"/>
+            <media:content  url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/Management of fruit rot of chilli with different.pdf" width="128" height="128"/>
+            <jalbum:original url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман/Плесень плод/Management of fruit rot of chilli with different.pdf" width="128" height="128" fileSize="76457"/>
+            <guid isPermaLink="false">../../../res/pdf.png</guid>
+        </item>
+    </channel>
+</rss>

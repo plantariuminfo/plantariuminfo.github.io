@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Вишня</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня/Восковые загнутые листья/album.rss" title="Восковые загнутые листья" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня/Восковые загнутые листья/thumbs/IMG_6383.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня/Погрызанные листья/album.rss" title="Погрызанные листья" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня/Погрызанные листья/thumbs/IMG_6374.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня/Пятнистые и желтеющие листья/album.rss" title="Пятнистые и желтеющие листья" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня/Пятнистые и желтеющие листья/thumbs/IMG_6388.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня/Скрученные молодые побеги/album.rss" title="Скрученные молодые побеги" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня/Скрученные молодые побеги/thumbs/IMG_6372.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

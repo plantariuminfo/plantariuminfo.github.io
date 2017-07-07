@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Галлы</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Галлы/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Галлы/Белесая галла на нижней стороне листа и искаженная сторона листа/album.rss" title="Белесая галла на нижней стороне листа и искаженная сторона листа" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Галлы/Белесая галла на нижней стороне листа и искаженная сторона листа/thumbs/DSC00854.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Галлы/Стручковатые вертикальные галлы на листах молодого дерева/album.rss" title="Стручковатые вертикальные галлы на листах молодого дерева" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Галлы/Стручковатые вертикальные галлы на листах молодого дерева/thumbs/DSC00408.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

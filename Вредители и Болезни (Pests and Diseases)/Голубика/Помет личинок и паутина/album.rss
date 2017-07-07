@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Помет личинок и паутина</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика/Помет личинок и паутина/</jalbum:absolutePath>
+        <item>
+            <title>DSC00446</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика/Помет личинок и паутина/slides/DSC00446.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:12 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика/Помет личинок и паутина/thumbs/DSC00446.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика/Помет личинок и паутина/slides/DSC00446.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 14 Jun 2014 14:52:48 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00446.jpg</guid>
+        </item>
+    </channel>
+</rss>

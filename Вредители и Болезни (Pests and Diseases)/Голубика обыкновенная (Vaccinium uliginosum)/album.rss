@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Голубика обыкновенная (Vaccinium uliginosum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика обыкновенная (Vaccinium uliginosum)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика обыкновенная (Vaccinium uliginosum)/Помет личинок и паутина/album.rss" title="Помет личинок и паутина" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика обыкновенная (Vaccinium uliginosum)/Помет личинок и паутина/thumbs/DSC00446.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика обыкновенная (Vaccinium uliginosum)/Тля и муравьи/album.rss" title="Тля и муравьи" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика обыкновенная (Vaccinium uliginosum)/Тля и муравьи/thumbs/DSC00447.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

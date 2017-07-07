@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Клевер (Trifolium spp.)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/Изъеденный и пятнистый лист/album.rss" title="Изъеденный и пятнистый лист" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/Изъеденный и пятнистый лист/thumbs/DSC00546.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/Слюнки/album.rss" title="Слюнки" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/Слюнки/thumbs/DSC00489.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/Сросшиеся двойные соцветия  (Fasciation)/album.rss" title="Сросшиеся двойные соцветия  (Fasciation)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/Сросшиеся двойные соцветия  (Fasciation)/thumbs/DSC00851.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/Фермы тли и муравьи/album.rss" title="Фермы тли и муравьи" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/Фермы тли и муравьи/thumbs/DSC00558.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

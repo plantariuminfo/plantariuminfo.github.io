@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Скукоженные и желтеющие листья (Nicotiana virus)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Скукоженные и желтеющие листья (Nicotiana virus)/</jalbum:absolutePath>
+        <item>
+            <title>DSC01121</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Скукоженные и желтеющие листья (Nicotiana virus)/slides/DSC01121.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:24 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Скукоженные и желтеющие листья (Nicotiana virus)/thumbs/DSC01121.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Скукоженные и желтеющие листья (Nicotiana virus)/slides/DSC01121.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 02 Aug 2014 18:45:53 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC01121.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01122</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Скукоженные и желтеющие листья (Nicotiana virus)/slides/DSC01122.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:24 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Скукоженные и желтеющие листья (Nicotiana virus)/thumbs/DSC01122.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Скукоженные и желтеющие листья (Nicotiana virus)/slides/DSC01122.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 02 Aug 2014 18:46:00 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC01122.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01123</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Скукоженные и желтеющие листья (Nicotiana virus)/slides/DSC01123.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:24 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Скукоженные и желтеющие листья (Nicotiana virus)/thumbs/DSC01123.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Табак/Скукоженные и желтеющие листья (Nicotiana virus)/slides/DSC01123.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 02 Aug 2014 18:46:08 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC01123.jpg</guid>
+        </item>
+    </channel>
+</rss>

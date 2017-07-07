@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Погрызанные листья</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня кислая (Prunus cerasus)/Погрызанные листья/</jalbum:absolutePath>
+        <item>
+            <title>IMG_6373</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня кислая (Prunus cerasus)/Погрызанные листья/slides/IMG_6373.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:37:37 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня кислая (Prunus cerasus)/Погрызанные листья/thumbs/IMG_6373.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня кислая (Prunus cerasus)/Погрызанные листья/slides/IMG_6373.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 12 Jul 2014 07:05:39 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6373.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6374</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня кислая (Prunus cerasus)/Погрызанные листья/slides/IMG_6374.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:37:37 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня кислая (Prunus cerasus)/Погрызанные листья/thumbs/IMG_6374.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня кислая (Prunus cerasus)/Погрызанные листья/slides/IMG_6374.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 12 Jul 2014 07:05:51 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6374.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6387</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня кислая (Prunus cerasus)/Погрызанные листья/slides/IMG_6387.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:37:37 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня кислая (Prunus cerasus)/Погрызанные листья/thumbs/IMG_6387.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вишня кислая (Prunus cerasus)/Погрызанные листья/slides/IMG_6387.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 12 Jul 2014 07:14:41 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6387.jpg</guid>
+        </item>
+    </channel>
+</rss>

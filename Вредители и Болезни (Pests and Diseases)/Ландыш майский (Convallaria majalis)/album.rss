@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ландыш майский (Convallaria majalis)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ландыш майский (Convallaria majalis)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ландыш майский (Convallaria majalis)/Гусеница ест листья/album.rss" title="Гусеница ест листья" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ландыш майский (Convallaria majalis)/Гусеница ест листья/thumbs/DSC03128.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ландыш майский (Convallaria majalis)/Коричневые пятна с желтым центром на листьях/album.rss" title="Коричневые пятна с желтым центром на листьях" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ландыш майский (Convallaria majalis)/Коричневые пятна с желтым центром на листьях/thumbs/DSC00518.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

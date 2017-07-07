@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Синие металлические жуки на листьях</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Синие металлические жуки на листьях/</jalbum:absolutePath>
+        <item>
+            <title>IMG_5399</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Синие металлические жуки на листьях/slides/IMG_5399.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:38:37 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Синие металлические жуки на листьях/thumbs/IMG_5399.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ольха серая (Alnus incana)/Синие металлические жуки на листьях/slides/IMG_5399.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 30 May 2014 19:38:55 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5399.jpg</guid>
+        </item>
+    </channel>
+</rss>

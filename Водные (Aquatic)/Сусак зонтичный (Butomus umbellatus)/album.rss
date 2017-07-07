@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Сусак зонтичный (Butomus umbellatus)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/</jalbum:absolutePath>
+        <item>
+            <title>DSC09267</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/slides/DSC09267.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/thumbs/DSC09267.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/slides/DSC09267.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 25 Jul 2011 14:14:43 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09267.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09269</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/slides/DSC09269.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/thumbs/DSC09269.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/slides/DSC09269.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 25 Jul 2011 14:15:09 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09269.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09270</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/slides/DSC09270.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/thumbs/DSC09270.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/slides/DSC09270.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 25 Jul 2011 14:15:22 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09270.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09298</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/slides/DSC09298.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/thumbs/DSC09298.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Сусак зонтичный (Butomus umbellatus)/slides/DSC09298.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 25 Jul 2011 14:26:54 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09298.jpg</guid>
+        </item>
+    </channel>
+</rss>

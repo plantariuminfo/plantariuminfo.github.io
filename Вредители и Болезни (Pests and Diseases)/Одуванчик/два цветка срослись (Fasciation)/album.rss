@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>два цветка срослись (Fasciation)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/два цветка срослись (Fasciation)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00334</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/два цветка срослись (Fasciation)/slides/DSC00334.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:18 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/два цветка срослись (Fasciation)/thumbs/DSC00334.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/два цветка срослись (Fasciation)/slides/DSC00334.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 23 May 2014 18:56:41 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00334.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00335</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/два цветка срослись (Fasciation)/slides/DSC00335.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:18 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/два цветка срослись (Fasciation)/thumbs/DSC00335.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/два цветка срослись (Fasciation)/slides/DSC00335.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 23 May 2014 18:56:46 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00335.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5097</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/два цветка срослись (Fasciation)/slides/IMG_5097.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/два цветка срослись (Fasciation)/thumbs/IMG_5097.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/два цветка срослись (Fasciation)/slides/IMG_5097.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 24 May 2014 13:23:58 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5097.jpg</guid>
+        </item>
+    </channel>
+</rss>

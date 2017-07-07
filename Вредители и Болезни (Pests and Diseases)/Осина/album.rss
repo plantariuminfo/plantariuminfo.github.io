@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Осина</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Осина/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Осина/Выеденные ходы на листьях серая сеточка на листе/album.rss" title="Выеденные ходы на листьях серая сеточка на листе" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Осина/Выеденные ходы на листьях серая сеточка на листе/thumbs/DSC00532.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Осина/Крупные розовые галлы на черенках (Patchiella reaumuri)/album.rss" title="Крупные розовые галлы на черенках (Patchiella reaumuri)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Осина/Крупные розовые галлы на черенках (Patchiella reaumuri)/thumbs/DSC00474.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Осина/Синий металлический жук с серой сеточкой на листе/album.rss" title="Синий металлический жук с серой сеточкой на листе" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Осина/Синий металлический жук с серой сеточкой на листе/thumbs/DSC00598.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Осина/Скрученные в трубочку вертикально подвешенные листья/album.rss" title="Скрученные в трубочку вертикально подвешенные листья" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Осина/Скрученные в трубочку вертикально подвешенные листья/thumbs/IMG_5389.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Осина/Черные жирные личинки жуков на листьях/album.rss" title="Черные жирные личинки жуков на листьях" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Осина/Черные жирные личинки жуков на листьях/thumbs/IMG_5404.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

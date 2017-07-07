@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Белена</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Белена/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Белена/несколько семенный коробочек сросшихся вместе/album.rss" title="несколько семенный коробочек сросшихся вместе" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Белена/несколько семенный коробочек сросшихся вместе/thumbs/несколько семенный коробочек сросшихся вместе и образовавшие центральную семенную коробку 4.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Белена/шестигранная кладка яиц вредителя на листе Белены/album.rss" title="шестигранная кладка яиц вредителя на листе Белены" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Белена/шестигранная кладка яиц вредителя на листе Белены/thumbs/Image001.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

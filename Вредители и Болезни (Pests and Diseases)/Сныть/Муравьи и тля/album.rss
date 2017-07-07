@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Муравьи и тля</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Сныть/Муравьи и тля/</jalbum:absolutePath>
+        <item>
+            <title>DSC00512</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Сныть/Муравьи и тля/slides/DSC00512.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:23 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Сныть/Муравьи и тля/thumbs/DSC00512.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Сныть/Муравьи и тля/slides/DSC00512.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:08:19 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00512.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00513</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Сныть/Муравьи и тля/slides/DSC00513.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:23 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Сныть/Муравьи и тля/thumbs/DSC00513.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Сныть/Муравьи и тля/slides/DSC00513.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:08:38 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00513.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00515</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Сныть/Муравьи и тля/slides/DSC00515.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:23 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Сныть/Муравьи и тля/thumbs/DSC00515.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Сныть/Муравьи и тля/slides/DSC00515.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:08:53 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00515.jpg</guid>
+        </item>
+    </channel>
+</rss>

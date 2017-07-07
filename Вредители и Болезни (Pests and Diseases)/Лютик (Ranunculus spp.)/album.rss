@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Лютик (Ranunculus spp.)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Лютик (Ranunculus spp.)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Лютик (Ranunculus spp.)/Жучок в цветке/album.rss" title="Жучок в цветке" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Лютик (Ranunculus spp.)/Жучок в цветке/thumbs/DSC00593.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Лютик (Ranunculus spp.)/Слюнки/album.rss" title="Слюнки" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Лютик (Ranunculus spp.)/Слюнки/thumbs/DSC00591.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

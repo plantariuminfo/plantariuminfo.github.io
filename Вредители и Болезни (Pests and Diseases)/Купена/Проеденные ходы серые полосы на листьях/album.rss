@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Проеденные ходы серые полосы на листьях</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купена/Проеденные ходы серые полосы на листьях/</jalbum:absolutePath>
+        <item>
+            <title>DSC00536</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купена/Проеденные ходы серые полосы на листьях/slides/DSC00536.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:16 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купена/Проеденные ходы серые полосы на листьях/thumbs/DSC00536.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купена/Проеденные ходы серые полосы на листьях/slides/DSC00536.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:17:09 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00536.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00537</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купена/Проеденные ходы серые полосы на листьях/slides/DSC00537.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:16 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купена/Проеденные ходы серые полосы на листьях/thumbs/DSC00537.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купена/Проеденные ходы серые полосы на листьях/slides/DSC00537.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:17:17 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00537.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00538</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купена/Проеденные ходы серые полосы на листьях/slides/DSC00538.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:16 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купена/Проеденные ходы серые полосы на листьях/thumbs/DSC00538.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Купена/Проеденные ходы серые полосы на листьях/slides/DSC00538.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:17:31 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00538.jpg</guid>
+        </item>
+    </channel>
+</rss>

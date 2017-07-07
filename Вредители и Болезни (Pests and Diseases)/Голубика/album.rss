@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Голубика</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика/Помет личинок и паутина/album.rss" title="Помет личинок и паутина" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика/Помет личинок и паутина/thumbs/DSC00446.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика/Тля и муравьи/album.rss" title="Тля и муравьи" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Голубика/Тля и муравьи/thumbs/DSC00447.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

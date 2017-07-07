@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Крапива</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива/Рыжие маленькие муравьи и тля/album.rss" title="Рыжие маленькие муравьи и тля" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива/Рыжие маленькие муравьи и тля/thumbs/DSC00343.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива/Скрученный желто-оранжевый лист (Puccinia urticata)/album.rss" title="Скрученный желто-оранжевый лист (Puccinia urticata)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива/Скрученный желто-оранжевый лист (Puccinia urticata)/thumbs/DSC06585.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива/Черные гусеницы/album.rss" title="Черные гусеницы" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Крапива/Черные гусеницы/thumbs/Clipboard01.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

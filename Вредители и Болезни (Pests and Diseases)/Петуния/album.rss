@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Петуния</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Петуния/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Петуния/Мутация в раскраске цветка/album.rss" title="Мутация в раскраске цветка" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Петуния/Мутация в раскраске цветка/thumbs/DSC00830.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Петуния/Шестигранная кладка яиц на листах/album.rss" title="Шестигранная кладка яиц на листах" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Петуния/Шестигранная кладка яиц на листах/thumbs/DSC07330.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Черная тля на стеблях цветка ревеня</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ревень/Черная тля на стеблях цветка ревеня/</jalbum:absolutePath>
+        <item>
+            <title>DSC07858</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ревень/Черная тля на стеблях цветка ревеня/slides/DSC07858.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ревень/Черная тля на стеблях цветка ревеня/thumbs/DSC07858.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ревень/Черная тля на стеблях цветка ревеня/slides/DSC07858.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 22 Jun 2013 14:36:09 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC07858.jpg</guid>
+        </item>
+        <item>
+            <title>DSC07859</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ревень/Черная тля на стеблях цветка ревеня/slides/DSC07859.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ревень/Черная тля на стеблях цветка ревеня/thumbs/DSC07859.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Ревень/Черная тля на стеблях цветка ревеня/slides/DSC07859.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 22 Jun 2013 14:36:16 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC07859.jpg</guid>
+        </item>
+    </channel>
+</rss>

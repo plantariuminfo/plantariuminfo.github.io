@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Томат</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Гниль на помидоре/album.rss" title="Гниль на помидоре" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Гниль на помидоре/thumbs/DSC09189.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Искаженная форма плода/album.rss" title="Искаженная форма плода" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Искаженная форма плода/thumbs/IMG_6345.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Наросты на стебле/album.rss" title="Наросты на стебле" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Наросты на стебле/thumbs/DSC06603.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Плод на половину зеленый и мертвый/album.rss" title="Плод на половину зеленый и мертвый" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Плод на половину зеленый и мертвый/thumbs/IMG_6397.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Потрескавшийся в сеточку плод/album.rss" title="Потрескавшийся в сеточку плод" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Потрескавшийся в сеточку плод/thumbs/DSC05498.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/album.rss" title="Скрученные листья" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Томат/Скрученные листья/thumbs/IMG_6227.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Зеленая гусеница ест листья дурмана</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Зеленая гусеница ест листья дурмана/</jalbum:absolutePath>
+        <item>
+            <title>DSC09081</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Зеленая гусеница ест листья дурмана/slides/DSC09081.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:37:45 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Зеленая гусеница ест листья дурмана/thumbs/DSC09081.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Зеленая гусеница ест листья дурмана/slides/DSC09081.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 02 Aug 2013 19:01:17 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09081.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09082</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Зеленая гусеница ест листья дурмана/slides/DSC09082.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:37:45 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Зеленая гусеница ест листья дурмана/thumbs/DSC09082.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Дурман обыкновенный (Datura stramonium)/Зеленая гусеница ест листья дурмана/slides/DSC09082.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 02 Aug 2013 19:01:21 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09082.jpg</guid>
+        </item>
+    </channel>
+</rss>

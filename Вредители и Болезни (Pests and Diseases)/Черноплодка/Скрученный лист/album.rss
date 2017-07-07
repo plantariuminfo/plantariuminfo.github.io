@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Скрученный лист</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черноплодка/Скрученный лист/</jalbum:absolutePath>
+        <item>
+            <title>DSC07591</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черноплодка/Скрученный лист/slides/DSC07591.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:39:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черноплодка/Скрученный лист/thumbs/DSC07591.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черноплодка/Скрученный лист/slides/DSC07591.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Jun 2013 19:32:35 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC07591.jpg</guid>
+        </item>
+        <item>
+            <title>DSC07593</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черноплодка/Скрученный лист/slides/DSC07593.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:39:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черноплодка/Скрученный лист/thumbs/DSC07593.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Черноплодка/Скрученный лист/slides/DSC07593.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Jun 2013 19:32:52 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC07593.jpg</guid>
+        </item>
+    </channel>
+</rss>

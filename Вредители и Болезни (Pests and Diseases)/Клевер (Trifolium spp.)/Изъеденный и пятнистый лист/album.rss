@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Изъеденный и пятнистый лист</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/Изъеденный и пятнистый лист/</jalbum:absolutePath>
+        <item>
+            <title>DSC00546</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/Изъеденный и пятнистый лист/slides/DSC00546.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:37:59 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/Изъеденный и пятнистый лист/thumbs/DSC00546.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Клевер (Trifolium spp.)/Изъеденный и пятнистый лист/slides/DSC00546.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:20:51 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00546.jpg</guid>
+        </item>
+    </channel>
+</rss>

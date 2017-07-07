@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Яблоня</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Яблоня/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Яблоня/Дырка в яблоке/album.rss" title="Дырка в яблоке" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Яблоня/Дырка в яблоке/thumbs/DSC09268.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Яблоня/Жухлые листья/album.rss" title="Жухлые листья" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Яблоня/Жухлые листья/thumbs/DSC08606.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Яблоня/Склеенные листья/album.rss" title="Склеенные листья" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Яблоня/Склеенные листья/thumbs/DSC09099.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Яблоня/Скрученные и желтеющие листья/album.rss" title="Скрученные и желтеющие листья" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Яблоня/Скрученные и желтеющие листья/thumbs/IMG_6368.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Яблоня/Скрученные листья/album.rss" title="Скрученные листья" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Яблоня/Скрученные листья/thumbs/IMG_6230.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

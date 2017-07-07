@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Одуванчик</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/гусеница/album.rss" title="гусеница" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/гусеница/thumbs/DSC00456.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/два цветка срослись (Fasciation)/album.rss" title="два цветка срослись (Fasciation)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/два цветка срослись (Fasciation)/thumbs/IMG_5097.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/жук в цветке/album.rss" title="жук в цветке" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/жук в цветке/thumbs/DSC00309.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/album.rss" title="ржавение цветков" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/ржавение цветков/thumbs/DSC00318.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/цветок с избыточным цветком (Fasciation)/album.rss" title="цветок с избыточным цветком (Fasciation)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Одуванчик/цветок с избыточным цветком (Fasciation)/thumbs/IMG_5095.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

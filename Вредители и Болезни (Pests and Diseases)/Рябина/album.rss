@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Рябина</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рябина/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рябина/Большие красные лесные муравьи охраняют гнезда из свитыех листьв/album.rss" title="Большие красные лесные муравьи охраняют гнезда из свитыех листьв" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рябина/Большие красные лесные муравьи охраняют гнезда из свитыех листьв/thumbs/DSC00491.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рябина/Большие черные лесные муравьи и гнезда тли/album.rss" title="Большие черные лесные муравьи и гнезда тли" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рябина/Большие черные лесные муравьи и гнезда тли/thumbs/DSC00483.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рябина/Желтые пятна на листьях (Gymnosporangium cornutum)/album.rss" title="Желтые пятна на листьях (Gymnosporangium cornutum)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рябина/Желтые пятна на листьях (Gymnosporangium cornutum)/thumbs/DSC00487.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рябина/Скрученные листья (Taphrina sorbi)/album.rss" title="Скрученные листья (Taphrina sorbi)" thumbnail="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Рябина/Скрученные листья (Taphrina sorbi)/thumbs/DSC07869.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

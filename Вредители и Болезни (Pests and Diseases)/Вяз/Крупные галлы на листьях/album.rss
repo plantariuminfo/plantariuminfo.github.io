@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Крупные галлы на листьях</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вяз/Крупные галлы на листьях/</jalbum:absolutePath>
+        <item>
+            <title>IMG_6002</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вяз/Крупные галлы на листьях/slides/IMG_6002.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вяз/Крупные галлы на листьях/thumbs/IMG_6002.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вяз/Крупные галлы на листьях/slides/IMG_6002.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 28 Jun 2014 14:05:28 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6002.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6003</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вяз/Крупные галлы на листьях/slides/IMG_6003.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вяз/Крупные галлы на листьях/thumbs/IMG_6003.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вяз/Крупные галлы на листьях/slides/IMG_6003.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 28 Jun 2014 14:05:36 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6003.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6004</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вяз/Крупные галлы на листьях/slides/IMG_6004.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вяз/Крупные галлы на листьях/thumbs/IMG_6004.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Вяз/Крупные галлы на листьях/slides/IMG_6004.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 28 Jun 2014 14:05:54 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6004.jpg</guid>
+        </item>
+    </channel>
+</rss>

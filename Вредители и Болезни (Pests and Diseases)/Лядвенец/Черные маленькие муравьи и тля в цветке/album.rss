@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Черные маленькие муравьи и тля в цветке</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Лядвенец/Черные маленькие муравьи и тля в цветке/</jalbum:absolutePath>
+        <item>
+            <title>DSC00672</title>
+            <link>http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Лядвенец/Черные маленькие муравьи и тля в цветке/slides/DSC00672.jpg</link>
+            <pubDate>Tue, 07 Feb 2017 17:26:17 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Лядвенец/Черные маленькие муравьи и тля в цветке/thumbs/DSC00672.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вредители и Болезни (Pests and Diseases)/Лядвенец/Черные маленькие муравьи и тля в цветке/slides/DSC00672.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 24 Jun 2014 18:12:17 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00672.jpg</guid>
+        </item>
+    </channel>
+</rss>

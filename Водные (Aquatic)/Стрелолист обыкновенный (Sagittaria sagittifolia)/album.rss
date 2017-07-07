@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Стрелолист обыкновенный (Sagittaria sagittifolia)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/</jalbum:absolutePath>
+        <item>
+            <title>DSC09274</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/slides/DSC09274.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/thumbs/DSC09274.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/slides/DSC09274.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 25 Jul 2011 14:16:21 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09274.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09275</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/slides/DSC09275.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/thumbs/DSC09275.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/slides/DSC09275.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 25 Jul 2011 14:16:34 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09275.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09276</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/slides/DSC09276.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/thumbs/DSC09276.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/slides/DSC09276.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 25 Jul 2011 14:16:40 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09276.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09285</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/slides/DSC09285.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/thumbs/DSC09285.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/slides/DSC09285.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 25 Jul 2011 14:18:36 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09285.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09286</title>
+            <link>http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/slides/DSC09286.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/thumbs/DSC09286.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Водные (Aquatic)/Стрелолист обыкновенный (Sagittaria sagittifolia)/slides/DSC09286.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 25 Jul 2011 14:18:44 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09286.jpg</guid>
+        </item>
+    </channel>
+</rss>
