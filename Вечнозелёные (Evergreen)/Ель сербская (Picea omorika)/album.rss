@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ель сербская (Picea omorika)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вечнозелёные (Evergreen)/Ель сербская (Picea omorika)/</jalbum:absolutePath>
+        <item>
+            <title>DSC04584</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Ель сербская (Picea omorika)/slides/DSC04584.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:12 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Ель сербская (Picea omorika)/thumbs/DSC04584.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Ель сербская (Picea omorika)/slides/DSC04584.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 26 Aug 2010 13:27:06 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04584.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04609</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Ель сербская (Picea omorika)/slides/DSC04609.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:12 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Ель сербская (Picea omorika)/thumbs/DSC04609.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Ель сербская (Picea omorika)/slides/DSC04609.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 26 Aug 2010 13:41:01 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04609.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04610</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Ель сербская (Picea omorika)/slides/DSC04610.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:12 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Ель сербская (Picea omorika)/thumbs/DSC04610.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Ель сербская (Picea omorika)/slides/DSC04610.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 26 Aug 2010 13:41:07 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04610.jpg</guid>
+        </item>
+    </channel>
+</rss>

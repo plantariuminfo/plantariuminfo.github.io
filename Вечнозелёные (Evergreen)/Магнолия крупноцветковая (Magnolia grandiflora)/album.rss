@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Магнолия крупноцветковая (Magnolia grandiflora)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02277</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/slides/DSC02277.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/thumbs/DSC02277.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/slides/DSC02277.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 20 Jul 2012 11:59:51 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02277.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02278</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/slides/DSC02278.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/thumbs/DSC02278.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/slides/DSC02278.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 20 Jul 2012 12:00:04 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02278.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02279</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/slides/DSC02279.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/thumbs/DSC02279.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/slides/DSC02279.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 20 Jul 2012 12:00:15 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02279.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03155</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/slides/DSC03155.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/thumbs/DSC03155.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Магнолия крупноцветковая (Magnolia grandiflora)/slides/DSC03155.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 25 Jul 2012 16:19:15 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC03155.jpg</guid>
+        </item>
+    </channel>
+</rss>

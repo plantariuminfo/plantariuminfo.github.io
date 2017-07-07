@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Саговник (Cycas)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02403</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/slides/DSC02403.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/thumbs/DSC02403.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/slides/DSC02403.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 20 Jul 2012 14:36:05 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02403.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02404</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/slides/DSC02404.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/thumbs/DSC02404.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/slides/DSC02404.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 20 Jul 2012 14:36:11 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02404.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02405</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/slides/DSC02405.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/thumbs/DSC02405.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/slides/DSC02405.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 20 Jul 2012 14:36:17 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02405.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02406</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/slides/DSC02406.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/thumbs/DSC02406.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Саговник (Cycas)/slides/DSC02406.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 20 Jul 2012 14:36:23 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02406.jpg</guid>
+        </item>
+    </channel>
+</rss>

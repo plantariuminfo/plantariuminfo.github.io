@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Лиственница европейская (Larix decidua)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/</jalbum:absolutePath>
+        <item>
+            <title>DSC06041</title>
+            <link>http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/slides/DSC06041.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:55 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/thumbs/DSC06041.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/slides/DSC06041.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 03 Sep 2015 13:02:39 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06041.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06042</title>
+            <link>http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/slides/DSC06042.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:55 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/thumbs/DSC06042.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/slides/DSC06042.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 03 Sep 2015 13:02:48 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06042.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06042_</title>
+            <link>http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/slides/DSC06042_.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:55 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/thumbs/DSC06042_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/slides/DSC06042_.jpg" width="1024" height="994"/>
+            <guid isPermaLink="false">slides/DSC06042_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06043</title>
+            <link>http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/slides/DSC06043.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:55 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/thumbs/DSC06043.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/slides/DSC06043.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 03 Sep 2015 13:02:56 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06043.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06044</title>
+            <link>http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/slides/DSC06044.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:55 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/thumbs/DSC06044.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/slides/DSC06044.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 03 Sep 2015 13:03:19 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC06044.jpg</guid>
+        </item>
+    </channel>
+</rss>

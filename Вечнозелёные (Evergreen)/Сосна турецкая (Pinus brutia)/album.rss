@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Сосна турецкая (Pinus brutia)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_1383</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/slides/IMG_1383.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:50 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/thumbs/IMG_1383.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/slides/IMG_1383.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 10 Dec 2014 13:29:55 +0200" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/IMG_1383.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1384</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/slides/IMG_1384.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:50 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/thumbs/IMG_1384.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/slides/IMG_1384.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 10 Dec 2014 13:30:04 +0200" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/IMG_1384.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1385</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/slides/IMG_1385.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:50 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/thumbs/IMG_1385.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/slides/IMG_1385.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 10 Dec 2014 13:30:04 +0200" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/IMG_1385.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1386</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/slides/IMG_1386.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:50 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/thumbs/IMG_1386.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/slides/IMG_1386.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 10 Dec 2014 13:30:09 +0200" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/IMG_1386.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1387</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/slides/IMG_1387.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:50 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/thumbs/IMG_1387.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Сосна турецкая (Pinus brutia)/slides/IMG_1387.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 10 Dec 2014 13:30:19 +0200" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/IMG_1387.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ведьмины мётлы (Witches&apos; brooms)</title>
+   	<link>..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Ведьмины мётлы (Witches' brooms)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Берёза повислая (Betula pendula)/album.rss" title="Берёза повислая (Betula pendula)" thumbnail="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Берёза повислая (Betula pendula)/thumbs/DSC06628.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/album.rss" title="Лиственница европейская (Larix decidua)" thumbnail="http://plantarium.info/Ведьмины мётлы (Witches' brooms)/Лиственница европейская (Larix decidua)/thumbs/DSC06042_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

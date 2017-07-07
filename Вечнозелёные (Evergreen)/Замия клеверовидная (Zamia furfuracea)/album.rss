@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Замия клеверовидная (Zamia furfuracea)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вечнозелёные (Evergreen)/Замия клеверовидная (Zamia furfuracea)/</jalbum:absolutePath>
+        <item>
+            <title>DSC04765</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Замия клеверовидная (Zamia furfuracea)/slides/DSC04765.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:13 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Замия клеверовидная (Zamia furfuracea)/thumbs/DSC04765.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Замия клеверовидная (Zamia furfuracea)/slides/DSC04765.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 21 Dec 2012 07:06:32 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04765.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04766</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Замия клеверовидная (Zamia furfuracea)/slides/DSC04766.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:13 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Замия клеверовидная (Zamia furfuracea)/thumbs/DSC04766.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Замия клеверовидная (Zamia furfuracea)/slides/DSC04766.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 21 Dec 2012 07:06:41 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04766.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04767</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Замия клеверовидная (Zamia furfuracea)/slides/DSC04767.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:13 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Замия клеверовидная (Zamia furfuracea)/thumbs/DSC04767.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Замия клеверовидная (Zamia furfuracea)/slides/DSC04767.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 21 Dec 2012 07:06:49 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04767.jpg</guid>
+        </item>
+    </channel>
+</rss>

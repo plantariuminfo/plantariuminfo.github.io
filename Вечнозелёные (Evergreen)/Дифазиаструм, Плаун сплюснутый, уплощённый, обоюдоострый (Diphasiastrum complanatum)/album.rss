@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вечнозелёные (Evergreen)/Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)/</jalbum:absolutePath>
+        <item>
+            <title>DSC03678</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)/slides/DSC03678.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:03 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)/thumbs/DSC03678.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)/slides/DSC03678.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 01 Sep 2012 12:08:49 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC03678.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03679</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)/slides/DSC03679.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:03 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)/thumbs/DSC03679.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)/slides/DSC03679.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 01 Sep 2012 12:09:00 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC03679.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03680</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)/slides/DSC03680.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:03 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)/thumbs/DSC03680.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)/slides/DSC03680.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 01 Sep 2012 12:09:08 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC03680.jpg</guid>
+        </item>
+    </channel>
+</rss>

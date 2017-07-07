@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Тис x средний (Taxus x media &apos;Hickskii&apos; (T. baccata x T. cuspidata))</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Вечнозелёные (Evergreen)/Тис x средний (Taxus x media 'Hickskii' (T. baccata x T. cuspidata))/</jalbum:absolutePath>
+        <item>
+            <title>DSC00022</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Тис x средний (Taxus x media 'Hickskii' (T. baccata x T. cuspidata))/slides/DSC00022.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:51 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Тис x средний (Taxus x media 'Hickskii' (T. baccata x T. cuspidata))/thumbs/DSC00022.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Тис x средний (Taxus x media 'Hickskii' (T. baccata x T. cuspidata))/slides/DSC00022.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 12 Oct 2013 13:38:07 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00022.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00023</title>
+            <link>http://plantarium.info/Вечнозелёные (Evergreen)/Тис x средний (Taxus x media 'Hickskii' (T. baccata x T. cuspidata))/slides/DSC00023.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:54:51 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Вечнозелёные (Evergreen)/Тис x средний (Taxus x media 'Hickskii' (T. baccata x T. cuspidata))/thumbs/DSC00023.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Вечнозелёные (Evergreen)/Тис x средний (Taxus x media 'Hickskii' (T. baccata x T. cuspidata))/slides/DSC00023.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 12 Oct 2013 13:38:11 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00023.jpg</guid>
+        </item>
+    </channel>
+</rss>
