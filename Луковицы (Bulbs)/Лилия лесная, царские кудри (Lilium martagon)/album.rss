@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Лилия лесная, царские кудри (Lilium martagon)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_6015</title>
+            <link>http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/slides/IMG_6015.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:09 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/thumbs/IMG_6015.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/slides/IMG_6015.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 28 Jun 2014 22:40:17 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6015.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6016</title>
+            <link>http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/slides/IMG_6016.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:09 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/thumbs/IMG_6016.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/slides/IMG_6016.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 28 Jun 2014 22:40:27 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6016.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6017</title>
+            <link>http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/slides/IMG_6017.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:09 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/thumbs/IMG_6017.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/slides/IMG_6017.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 28 Jun 2014 22:40:37 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6017.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6018</title>
+            <link>http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/slides/IMG_6018.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:09 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/thumbs/IMG_6018.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/slides/IMG_6018.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 28 Jun 2014 22:40:43 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6018.jpg</guid>
+        </item>
+    </channel>
+</rss>

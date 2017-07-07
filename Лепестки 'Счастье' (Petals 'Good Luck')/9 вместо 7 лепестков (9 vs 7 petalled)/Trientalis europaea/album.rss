@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Trientalis europaea</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/</jalbum:absolutePath>
+        <item>
+            <title>DSC03242</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/slides/DSC03242.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:02:13 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/thumbs/DSC03242.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/slides/DSC03242.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 07 Jun 2015 17:38:31 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03242.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03243</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/slides/DSC03243.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:02:13 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/thumbs/DSC03243.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/slides/DSC03243.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 07 Jun 2015 17:38:35 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03243.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03244</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/slides/DSC03244.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:02:13 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/thumbs/DSC03244.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/slides/DSC03244.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 07 Jun 2015 17:38:38 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03244.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03244_</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/slides/DSC03244_.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:02:13 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/thumbs/DSC03244_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 7 лепестков (9 vs 7 petalled)/Trientalis europaea/slides/DSC03244_.jpg" width="1024" height="859"/>
+            <jalbum:exif originalDate="Sun, 07 Jun 2015 17:38:38 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03244_.jpg</guid>
+        </item>
+    </channel>
+</rss>

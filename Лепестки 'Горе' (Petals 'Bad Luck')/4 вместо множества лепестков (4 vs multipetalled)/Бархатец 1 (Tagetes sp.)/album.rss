@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Бархатец 1 (Tagetes sp.)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/</jalbum:absolutePath>
+        <item>
+            <title>DSC04952</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/slides/DSC04952.jpg</link>
+            <pubDate>Tue, 30 May 2017 21:40:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/thumbs/DSC04952.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/slides/DSC04952.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 15 Jul 2015 14:40:20 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC04952.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04953</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/slides/DSC04953.jpg</link>
+            <pubDate>Tue, 30 May 2017 21:40:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/thumbs/DSC04953.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/slides/DSC04953.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 15 Jul 2015 14:40:23 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC04953.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04953_</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/slides/DSC04953_.jpg</link>
+            <pubDate>Tue, 30 May 2017 21:40:41 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/thumbs/DSC04953_.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/slides/DSC04953_.jpg" width="892" height="1024"/>
+            <guid isPermaLink="false">slides/DSC04953_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04954</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/slides/DSC04954.jpg</link>
+            <pubDate>Tue, 30 May 2017 21:40:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/thumbs/DSC04954.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо множества лепестков (4 vs multipetalled)/Бархатец 1 (Tagetes sp.)/slides/DSC04954.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 15 Jul 2015 14:40:32 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC04954.jpg</guid>
+        </item>
+    </channel>
+</rss>

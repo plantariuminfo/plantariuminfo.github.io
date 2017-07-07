@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Луковицы (Bulbs)</title>
+   	<link>..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Луковицы (Bulbs)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Луковицы (Bulbs)/Белоцветник весенний (Leucojum vernum)/album.rss" title="Белоцветник весенний (Leucojum vernum)" thumbnail="http://plantarium.info/Луковицы (Bulbs)/Белоцветник весенний (Leucojum vernum)/thumbs/DSC01246.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Луковицы (Bulbs)/Гадючий лук незамеченный (Muscari neglectum)/album.rss" title="Гадючий лук незамеченный (Muscari neglectum)" thumbnail="http://plantarium.info/Луковицы (Bulbs)/Гадючий лук незамеченный (Muscari neglectum)/thumbs/DSC02141.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Луковицы (Bulbs)/Гиацинт восточный (Hyacinthus orientalis)/album.rss" title="Гиацинт восточный (Hyacinthus orientalis)" thumbnail="http://plantarium.info/Луковицы (Bulbs)/Гиацинт восточный (Hyacinthus orientalis)/thumbs/DSC09268.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Луковицы (Bulbs)/Гиппеаструм красный (Hippeastrum)/album.rss" title="Гиппеаструм красный (Hippeastrum)" thumbnail="http://plantarium.info/Луковицы (Bulbs)/Гиппеаструм красный (Hippeastrum)/thumbs/DSC05985.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/album.rss" title="Лилия лесная, царские кудри (Lilium martagon)" thumbnail="http://plantarium.info/Луковицы (Bulbs)/Лилия лесная, царские кудри (Lilium martagon)/thumbs/IMG_6018.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Луковицы (Bulbs)/Лук репчатый (Allium cepa)/album.rss" title="Лук репчатый (Allium cepa)" thumbnail="http://plantarium.info/Луковицы (Bulbs)/Лук репчатый (Allium cepa)/thumbs/IMG_2434.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Луковицы (Bulbs)/Лук чеснок (Allium sativum)/album.rss" title="Лук чеснок (Allium sativum)" thumbnail="http://plantarium.info/Луковицы (Bulbs)/Лук чеснок (Allium sativum)/thumbs/IMG_2358.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Луковицы (Bulbs)/Подснежник белоснежный (Galanthus nivalis)/album.rss" title="Подснежник белоснежный (Galanthus nivalis)" thumbnail="http://plantarium.info/Луковицы (Bulbs)/Подснежник белоснежный (Galanthus nivalis)/thumbs/DSC01368.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Луковицы (Bulbs)/Пролеска сибирская (Scilla siberica)/album.rss" title="Пролеска сибирская (Scilla siberica)" thumbnail="http://plantarium.info/Луковицы (Bulbs)/Пролеска сибирская (Scilla siberica)/thumbs/DSC01517.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Луковицы (Bulbs)/Тюльпаны (Tulip spp.)/album.rss" title="Тюльпаны (Tulip spp.)" thumbnail="http://plantarium.info/Луковицы (Bulbs)/Тюльпаны (Tulip spp.)/thumbs/DSC01067.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Луковицы (Bulbs)/Шафран весенний (Crocus vernus)/album.rss" title="Шафран весенний (Crocus vernus)" thumbnail="http://plantarium.info/Луковицы (Bulbs)/Шафран весенний (Crocus vernus)/thumbs/DSC01254.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

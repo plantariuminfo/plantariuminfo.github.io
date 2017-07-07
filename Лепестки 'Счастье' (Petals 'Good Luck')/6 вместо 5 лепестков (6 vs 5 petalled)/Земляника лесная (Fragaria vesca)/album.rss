@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Земляника лесная (Fragaria vesca)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC07917_</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/slides/0DSC07917_.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:57 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/thumbs/0DSC07917_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/slides/0DSC07917_.jpg" width="1024" height="805"/>
+            <jalbum:exif originalDate="Sat, 03 Jun 2017 15:06:15 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC07917_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC07916</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/slides/DSC07916.JPG</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:57 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/thumbs/DSC07916.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/slides/DSC07916.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 03 Jun 2017 15:05:57 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07916.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07917</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/slides/DSC07917.JPG</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:57 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/thumbs/DSC07917.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/slides/DSC07917.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 03 Jun 2017 15:06:15 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07917.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07918</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/slides/DSC07918.JPG</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:57 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/thumbs/DSC07918.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Земляника лесная (Fragaria vesca)/slides/DSC07918.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 03 Jun 2017 15:06:33 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07918.JPG</guid>
+        </item>
+    </channel>
+</rss>

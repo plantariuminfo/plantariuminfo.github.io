@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ринхоцентрум Лиловый Расцвет (Rhynchocentrum Lilac Blossom (Rhynchostylis coelestis x Ascocentrum ampullaceum))</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Межродовые гибриды (Intergeneric Hybrids)/Ринхоцентрум Лиловый Расцвет (Rhynchocentrum Lilac Blossom (Rhynchostylis coelestis x Ascocentrum ampullaceum))/</jalbum:absolutePath>
+        <item>
+            <title>DSC04988</title>
+            <link>http://plantarium.info/Межродовые гибриды (Intergeneric Hybrids)/Ринхоцентрум Лиловый Расцвет (Rhynchocentrum Lilac Blossom (Rhynchostylis coelestis x Ascocentrum ampullaceum))/slides/DSC04988.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:37:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Межродовые гибриды (Intergeneric Hybrids)/Ринхоцентрум Лиловый Расцвет (Rhynchocentrum Lilac Blossom (Rhynchostylis coelestis x Ascocentrum ampullaceum))/thumbs/DSC04988.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Межродовые гибриды (Intergeneric Hybrids)/Ринхоцентрум Лиловый Расцвет (Rhynchocentrum Lilac Blossom (Rhynchostylis coelestis x Ascocentrum ampullaceum))/slides/DSC04988.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:08:41 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04988.JPG</guid>
+        </item>
+    </channel>
+</rss>

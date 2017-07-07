@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Смолка клейкая (Silene viscaria)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Смолка клейкая (Silene viscaria)/</jalbum:absolutePath>
+        <item>
+            <title>DSC01253</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Смолка клейкая (Silene viscaria)/slides/DSC01253.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:38 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Смолка клейкая (Silene viscaria)/thumbs/DSC01253.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Смолка клейкая (Silene viscaria)/slides/DSC01253.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 09 Jun 2012 16:16:56 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC01253.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01254</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Смолка клейкая (Silene viscaria)/slides/DSC01254.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:38 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Смолка клейкая (Silene viscaria)/thumbs/DSC01254.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Смолка клейкая (Silene viscaria)/slides/DSC01254.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 09 Jun 2012 16:17:01 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC01254.jpg</guid>
+        </item>
+    </channel>
+</rss>

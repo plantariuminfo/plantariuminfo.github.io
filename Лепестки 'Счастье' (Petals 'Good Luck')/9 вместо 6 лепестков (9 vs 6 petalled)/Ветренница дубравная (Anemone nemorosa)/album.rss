@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ветренница дубравная (Anemone nemorosa)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 6 лепестков (9 vs 6 petalled)/Ветренница дубравная (Anemone nemorosa)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC09340_</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 6 лепестков (9 vs 6 petalled)/Ветренница дубравная (Anemone nemorosa)/slides/0DSC09340_.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:02:12 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 6 лепестков (9 vs 6 petalled)/Ветренница дубравная (Anemone nemorosa)/thumbs/0DSC09340_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 6 лепестков (9 vs 6 petalled)/Ветренница дубравная (Anemone nemorosa)/slides/0DSC09340_.jpg" width="1020" height="1024"/>
+            <jalbum:exif originalDate="Sun, 24 Apr 2016 14:07:39 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/0DSC09340_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09340</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 6 лепестков (9 vs 6 petalled)/Ветренница дубравная (Anemone nemorosa)/slides/DSC09340.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:02:12 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 6 лепестков (9 vs 6 petalled)/Ветренница дубравная (Anemone nemorosa)/thumbs/DSC09340.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/9 вместо 6 лепестков (9 vs 6 petalled)/Ветренница дубравная (Anemone nemorosa)/slides/DSC09340.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 24 Apr 2016 14:07:39 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC09340.jpg</guid>
+        </item>
+    </channel>
+</rss>

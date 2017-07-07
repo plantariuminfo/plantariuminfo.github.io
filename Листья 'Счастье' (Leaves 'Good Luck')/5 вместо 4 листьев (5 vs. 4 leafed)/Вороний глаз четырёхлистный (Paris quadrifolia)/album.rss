@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Вороний глаз четырёхлистный (Paris quadrifolia)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Листья 'Счастье' (Leaves 'Good Luck')/5 вместо 4 листьев (5 vs. 4 leafed)/Вороний глаз четырёхлистный (Paris quadrifolia)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC00338</title>
+            <link>http://plantarium.info/Листья 'Счастье' (Leaves 'Good Luck')/5 вместо 4 листьев (5 vs. 4 leafed)/Вороний глаз четырёхлистный (Paris quadrifolia)/slides/0DSC00338.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:02:20 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Листья 'Счастье' (Leaves 'Good Luck')/5 вместо 4 листьев (5 vs. 4 leafed)/Вороний глаз четырёхлистный (Paris quadrifolia)/thumbs/0DSC00338.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Листья 'Счастье' (Leaves 'Good Luck')/5 вместо 4 листьев (5 vs. 4 leafed)/Вороний глаз четырёхлистный (Paris quadrifolia)/slides/0DSC00338.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 24 Aug 2014 18:05:29 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/0DSC00338.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00337</title>
+            <link>http://plantarium.info/Листья 'Счастье' (Leaves 'Good Luck')/5 вместо 4 листьев (5 vs. 4 leafed)/Вороний глаз четырёхлистный (Paris quadrifolia)/slides/DSC00337.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:02:20 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Листья 'Счастье' (Leaves 'Good Luck')/5 вместо 4 листьев (5 vs. 4 leafed)/Вороний глаз четырёхлистный (Paris quadrifolia)/thumbs/DSC00337.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Листья 'Счастье' (Leaves 'Good Luck')/5 вместо 4 листьев (5 vs. 4 leafed)/Вороний глаз четырёхлистный (Paris quadrifolia)/slides/DSC00337.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 24 Aug 2014 18:05:23 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00337.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Герань лесная (Geranium sylvaticum)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05475</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/slides/DSC05475.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/thumbs/DSC05475.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/slides/DSC05475.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 14 Aug 2015 19:07:11 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC05475.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05475_</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/slides/DSC05475_.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/thumbs/DSC05475_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/slides/DSC05475_.jpg" width="1024" height="1001"/>
+            <guid isPermaLink="false">slides/DSC05475_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC08288</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/slides/DSC08288.JPG</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/thumbs/DSC08288.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/slides/DSC08288.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 10 Jun 2017 15:47:28 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08288.JPG</guid>
+        </item>
+        <item>
+            <title>DSC08288_</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/slides/DSC08288_.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/thumbs/DSC08288_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Герань лесная (Geranium sylvaticum)/slides/DSC08288_.jpg" width="1024" height="882"/>
+            <jalbum:exif originalDate="Sat, 10 Jun 2017 15:47:28 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08288_.jpg</guid>
+        </item>
+    </channel>
+</rss>

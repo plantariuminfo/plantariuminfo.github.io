@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гадючий лук незамеченный (Muscari neglectum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Луковицы (Bulbs)/Гадючий лук незамеченный (Muscari neglectum)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02140</title>
+            <link>http://plantarium.info/Луковицы (Bulbs)/Гадючий лук незамеченный (Muscari neglectum)/slides/DSC02140.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:04 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Луковицы (Bulbs)/Гадючий лук незамеченный (Muscari neglectum)/thumbs/DSC02140.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Луковицы (Bulbs)/Гадючий лук незамеченный (Muscari neglectum)/slides/DSC02140.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 29 Apr 2015 19:12:41 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02140.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02141</title>
+            <link>http://plantarium.info/Луковицы (Bulbs)/Гадючий лук незамеченный (Muscari neglectum)/slides/DSC02141.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:04 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Луковицы (Bulbs)/Гадючий лук незамеченный (Muscari neglectum)/thumbs/DSC02141.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Луковицы (Bulbs)/Гадючий лук незамеченный (Muscari neglectum)/slides/DSC02141.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 29 Apr 2015 19:12:47 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02141.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02142</title>
+            <link>http://plantarium.info/Луковицы (Bulbs)/Гадючий лук незамеченный (Muscari neglectum)/slides/DSC02142.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:04 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Луковицы (Bulbs)/Гадючий лук незамеченный (Muscari neglectum)/thumbs/DSC02142.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Луковицы (Bulbs)/Гадючий лук незамеченный (Muscari neglectum)/slides/DSC02142.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 29 Apr 2015 19:12:59 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02142.jpg</guid>
+        </item>
+    </channel>
+</rss>

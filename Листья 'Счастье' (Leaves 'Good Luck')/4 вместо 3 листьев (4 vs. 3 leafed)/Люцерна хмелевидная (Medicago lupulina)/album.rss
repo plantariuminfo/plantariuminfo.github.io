@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Люцерна хмелевидная (Medicago lupulina)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Листья 'Счастье' (Leaves 'Good Luck')/4 вместо 3 листьев (4 vs. 3 leafed)/Люцерна хмелевидная (Medicago lupulina)/</jalbum:absolutePath>
+        <item>
+            <title>DSC03557</title>
+            <link>http://plantarium.info/Листья 'Счастье' (Leaves 'Good Luck')/4 вместо 3 листьев (4 vs. 3 leafed)/Люцерна хмелевидная (Medicago lupulina)/slides/DSC03557.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:02:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Листья 'Счастье' (Leaves 'Good Luck')/4 вместо 3 листьев (4 vs. 3 leafed)/Люцерна хмелевидная (Medicago lupulina)/thumbs/DSC03557.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Листья 'Счастье' (Leaves 'Good Luck')/4 вместо 3 листьев (4 vs. 3 leafed)/Люцерна хмелевидная (Medicago lupulina)/slides/DSC03557.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 06 Sep 2016 18:34:47 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03557.jpg</guid>
+        </item>
+    </channel>
+</rss>

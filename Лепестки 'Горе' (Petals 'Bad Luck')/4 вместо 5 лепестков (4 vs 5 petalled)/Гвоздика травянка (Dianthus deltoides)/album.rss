@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гвоздика травянка (Dianthus deltoides)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Гвоздика травянка (Dianthus deltoides)/</jalbum:absolutePath>
+        <item>
+            <title>DSC01832</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Гвоздика травянка (Dianthus deltoides)/slides/DSC01832.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Гвоздика травянка (Dianthus deltoides)/thumbs/DSC01832.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Гвоздика травянка (Dianthus deltoides)/slides/DSC01832.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 14 Jul 2012 14:45:10 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC01832.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02395</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Гвоздика травянка (Dianthus deltoides)/slides/DSC02395.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Гвоздика травянка (Dianthus deltoides)/thumbs/DSC02395.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Гвоздика травянка (Dianthus deltoides)/slides/DSC02395.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 26 Jul 2016 18:08:31 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02395.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02396</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Гвоздика травянка (Dianthus deltoides)/slides/DSC02396.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Гвоздика травянка (Dianthus deltoides)/thumbs/DSC02396.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/4 вместо 5 лепестков (4 vs 5 petalled)/Гвоздика травянка (Dianthus deltoides)/slides/DSC02396.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 26 Jul 2016 18:08:38 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02396.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>8 вместо 5 лепестков (8 vs 5 petalled)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/8 вместо 5 лепестков (8 vs 5 petalled)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/8 вместо 5 лепестков (8 vs 5 petalled)/Ветренница лютиковая (Anemone ranunculoides)/album.rss" title="Ветренница лютиковая (Anemone ranunculoides)" thumbnail="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/8 вместо 5 лепестков (8 vs 5 petalled)/Ветренница лютиковая (Anemone ranunculoides)/thumbs/DSC09368.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Вербейник монетный (Lysimachia nummularia)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Вербейник монетный (Lysimachia nummularia)/</jalbum:absolutePath>
+        <item>
+            <title>DSC01021</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Вербейник монетный (Lysimachia nummularia)/slides/DSC01021.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:53 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Вербейник монетный (Lysimachia nummularia)/thumbs/DSC01021.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Вербейник монетный (Lysimachia nummularia)/slides/DSC01021.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 09 Jul 2016 06:25:52 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01021.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01022</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Вербейник монетный (Lysimachia nummularia)/slides/DSC01022.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:53 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Вербейник монетный (Lysimachia nummularia)/thumbs/DSC01022.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Вербейник монетный (Lysimachia nummularia)/slides/DSC01022.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 09 Jul 2016 06:26:02 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01022.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01023</title>
+            <link>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Вербейник монетный (Lysimachia nummularia)/slides/DSC01023.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:01:53 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Вербейник монетный (Lysimachia nummularia)/thumbs/DSC01023.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/6 вместо 5 лепестков (6 vs 5 petalled)/Вербейник монетный (Lysimachia nummularia)/slides/DSC01023.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 09 Jul 2016 06:26:10 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01023.jpg</guid>
+        </item>
+    </channel>
+</rss>
