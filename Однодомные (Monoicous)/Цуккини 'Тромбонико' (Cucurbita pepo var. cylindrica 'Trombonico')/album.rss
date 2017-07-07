@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Цуккини &apos;Тромбонико&apos; (Cucurbita pepo var. cylindrica &apos;Trombonico&apos;)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Однодомные (Monoicous)/Цуккини 'Тромбонико' (Cucurbita pepo var. cylindrica 'Trombonico')/</jalbum:absolutePath>
+        <item>
+            <title>DSC03347</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Цуккини 'Тромбонико' (Cucurbita pepo var. cylindrica 'Trombonico')/slides/DSC03347.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:50 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Цуккини 'Тромбонико' (Cucurbita pepo var. cylindrica 'Trombonico')/thumbs/DSC03347.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Цуккини 'Тромбонико' (Cucurbita pepo var. cylindrica 'Trombonico')/slides/DSC03347.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 05 Sep 2016 16:05:52 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03347.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03348</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Цуккини 'Тромбонико' (Cucurbita pepo var. cylindrica 'Trombonico')/slides/DSC03348.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:50 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Цуккини 'Тромбонико' (Cucurbita pepo var. cylindrica 'Trombonico')/thumbs/DSC03348.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Цуккини 'Тромбонико' (Cucurbita pepo var. cylindrica 'Trombonico')/slides/DSC03348.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 05 Sep 2016 16:06:23 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03348.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03350</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Цуккини 'Тромбонико' (Cucurbita pepo var. cylindrica 'Trombonico')/slides/DSC03350.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:50 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Цуккини 'Тромбонико' (Cucurbita pepo var. cylindrica 'Trombonico')/thumbs/DSC03350.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Цуккини 'Тромбонико' (Cucurbita pepo var. cylindrica 'Trombonico')/slides/DSC03350.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 05 Sep 2016 16:07:25 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03350.jpg</guid>
+        </item>
+    </channel>
+</rss>

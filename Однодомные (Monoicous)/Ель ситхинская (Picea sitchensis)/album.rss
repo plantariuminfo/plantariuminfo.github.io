@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ель ситхинская (Picea sitchensis)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Однодомные (Monoicous)/Ель ситхинская (Picea sitchensis)/</jalbum:absolutePath>
+        <item>
+            <title>DSC04587</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Ель ситхинская (Picea sitchensis)/slides/DSC04587.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:59:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Ель ситхинская (Picea sitchensis)/thumbs/DSC04587.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Ель ситхинская (Picea sitchensis)/slides/DSC04587.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 26 Aug 2010 13:28:42 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04587.jpg</guid>
+        </item>
+        <item>
+            <title>DSC04588</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Ель ситхинская (Picea sitchensis)/slides/DSC04588.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:59:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Ель ситхинская (Picea sitchensis)/thumbs/DSC04588.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Ель ситхинская (Picea sitchensis)/slides/DSC04588.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 26 Aug 2010 13:28:53 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04588.jpg</guid>
+        </item>
+    </channel>
+</rss>

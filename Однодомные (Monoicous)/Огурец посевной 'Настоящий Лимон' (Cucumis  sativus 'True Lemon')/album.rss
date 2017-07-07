@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Огурец посевной &apos;Настоящий Лимон&apos; (Cucumis  sativus &apos;True Lemon&apos;)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Однодомные (Monoicous)/Огурец посевной 'Настоящий Лимон' (Cucumis  sativus 'True Lemon')/</jalbum:absolutePath>
+        <item>
+            <title>DSC03377</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Огурец посевной 'Настоящий Лимон' (Cucumis  sativus 'True Lemon')/slides/DSC03377.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:59:55 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Огурец посевной 'Настоящий Лимон' (Cucumis  sativus 'True Lemon')/thumbs/DSC03377.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Огурец посевной 'Настоящий Лимон' (Cucumis  sativus 'True Lemon')/slides/DSC03377.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 05 Sep 2016 16:21:37 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03377.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03378</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Огурец посевной 'Настоящий Лимон' (Cucumis  sativus 'True Lemon')/slides/DSC03378.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:59:55 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Огурец посевной 'Настоящий Лимон' (Cucumis  sativus 'True Lemon')/thumbs/DSC03378.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Огурец посевной 'Настоящий Лимон' (Cucumis  sativus 'True Lemon')/slides/DSC03378.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 05 Sep 2016 16:21:54 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03378.jpg</guid>
+        </item>
+    </channel>
+</rss>

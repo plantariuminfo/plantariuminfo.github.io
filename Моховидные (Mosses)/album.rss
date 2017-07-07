@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Моховидные (Mosses)</title>
+   	<link>..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Моховидные (Mosses)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Моховидные (Mosses)/Бриум волосовидный (Bryum capillare)/album.rss" title="Бриум волосовидный (Bryum capillare)" thumbnail="http://plantarium.info/Моховидные (Mosses)/Бриум волосовидный (Bryum capillare)/thumbs/DSC09488.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Моховидные (Mosses)/Гилокомиум блестящий (Hylocomium splendens)/album.rss" title="Гилокомиум блестящий (Hylocomium splendens)" thumbnail="http://plantarium.info/Моховидные (Mosses)/Гилокомиум блестящий (Hylocomium splendens)/thumbs/DSC08952.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Моховидные (Mosses)/Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)/album.rss" title="Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)" thumbnail="http://plantarium.info/Моховидные (Mosses)/Дифазиаструм, Плаун сплюснутый, уплощённый, обоюдоострый (Diphasiastrum complanatum)/thumbs/DSC03679.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Моховидные (Mosses)/Кукушкин лён обыкновенный (Polytrichum commune)/album.rss" title="Кукушкин лён обыкновенный (Polytrichum commune)" thumbnail="http://plantarium.info/Моховидные (Mosses)/Кукушкин лён обыкновенный (Polytrichum commune)/thumbs/DSC08980.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Моховидные (Mosses)/Маршанция изменчивая, полиморфная, многообразная (Marchantia polymorpha)/album.rss" title="Маршанция изменчивая, полиморфная, многообразная (Marchantia polymorpha)" thumbnail="http://plantarium.info/Моховидные (Mosses)/Маршанция изменчивая, полиморфная, многообразная (Marchantia polymorpha)/thumbs/DSC09596.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Моховидные (Mosses)/Плаун булавовидный (Lycopodium clavatum)/album.rss" title="Плаун булавовидный (Lycopodium clavatum)" thumbnail="http://plantarium.info/Моховидные (Mosses)/Плаун булавовидный (Lycopodium clavatum)/thumbs/DSC03917.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Моховидные (Mosses)/Плаун колючий, годичный, годовалый (Lycopodium annotinum)/album.rss" title="Плаун колючий, годичный, годовалый (Lycopodium annotinum)" thumbnail="http://plantarium.info/Моховидные (Mosses)/Плаун колючий, годичный, годовалый (Lycopodium annotinum)/thumbs/DSC03717.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Моховидные (Mosses)/Полия поникшая (Pohlia nutans)/album.rss" title="Полия поникшая (Pohlia nutans)" thumbnail="http://plantarium.info/Моховидные (Mosses)/Полия поникшая (Pohlia nutans)/thumbs/DSC09213.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Моховидные (Mosses)/Родобриум розетковидный (Rhodobryum roseum)/album.rss" title="Родобриум розетковидный (Rhodobryum roseum)" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Моховидные (Mosses)/Сфагнум 1 (Sphagnum sp.)/album.rss" title="Сфагнум 1 (Sphagnum sp.)" thumbnail="http://plantarium.info/Моховидные (Mosses)/Сфагнум 1 (Sphagnum sp.)/thumbs/DSC09655.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Моховидные (Mosses)/Фунария влагомерная, гигрометрическая (Funaria hygrometrica)/album.rss" title="Фунария влагомерная, гигрометрическая (Funaria hygrometrica)" thumbnail="http://plantarium.info/Моховидные (Mosses)/Фунария влагомерная, гигрометрическая (Funaria hygrometrica)/thumbs/DSC09218.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

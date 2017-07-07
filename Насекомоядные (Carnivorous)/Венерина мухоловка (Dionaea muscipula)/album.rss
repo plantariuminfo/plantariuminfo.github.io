@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Венерина мухоловка (Dionaea muscipula)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Насекомоядные (Carnivorous)/Венерина мухоловка (Dionaea muscipula)/</jalbum:absolutePath>
+        <item>
+            <title>DSC09674</title>
+            <link>http://plantarium.info/Насекомоядные (Carnivorous)/Венерина мухоловка (Dionaea muscipula)/slides/DSC09674.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Насекомоядные (Carnivorous)/Венерина мухоловка (Dionaea muscipula)/thumbs/DSC09674.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Насекомоядные (Carnivorous)/Венерина мухоловка (Dionaea muscipula)/slides/DSC09674.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 14 Aug 2013 13:51:23 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09674.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09675</title>
+            <link>http://plantarium.info/Насекомоядные (Carnivorous)/Венерина мухоловка (Dionaea muscipula)/slides/DSC09675.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Насекомоядные (Carnivorous)/Венерина мухоловка (Dionaea muscipula)/thumbs/DSC09675.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Насекомоядные (Carnivorous)/Венерина мухоловка (Dionaea muscipula)/slides/DSC09675.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 14 Aug 2013 13:51:36 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09675.jpg</guid>
+        </item>
+    </channel>
+</rss>

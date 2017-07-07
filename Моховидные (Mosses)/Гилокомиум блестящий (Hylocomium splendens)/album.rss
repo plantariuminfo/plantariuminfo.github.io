@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гилокомиум блестящий (Hylocomium splendens)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Моховидные (Mosses)/Гилокомиум блестящий (Hylocomium splendens)/</jalbum:absolutePath>
+        <item>
+            <title>DSC08946</title>
+            <link>http://plantarium.info/Моховидные (Mosses)/Гилокомиум блестящий (Hylocomium splendens)/slides/DSC08946.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:43 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Моховидные (Mosses)/Гилокомиум блестящий (Hylocomium splendens)/thumbs/DSC08946.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Моховидные (Mosses)/Гилокомиум блестящий (Hylocomium splendens)/slides/DSC08946.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 09 Apr 2016 14:49:37 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC08946.jpg</guid>
+        </item>
+        <item>
+            <title>DSC08952</title>
+            <link>http://plantarium.info/Моховидные (Mosses)/Гилокомиум блестящий (Hylocomium splendens)/slides/DSC08952.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:43 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Моховидные (Mosses)/Гилокомиум блестящий (Hylocomium splendens)/thumbs/DSC08952.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Моховидные (Mosses)/Гилокомиум блестящий (Hylocomium splendens)/slides/DSC08952.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 09 Apr 2016 14:50:54 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC08952.jpg</guid>
+        </item>
+        <item>
+            <title>DSC08955</title>
+            <link>http://plantarium.info/Моховидные (Mosses)/Гилокомиум блестящий (Hylocomium splendens)/slides/DSC08955.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:43 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Моховидные (Mosses)/Гилокомиум блестящий (Hylocomium splendens)/thumbs/DSC08955.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Моховидные (Mosses)/Гилокомиум блестящий (Hylocomium splendens)/slides/DSC08955.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 09 Apr 2016 14:51:23 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC08955.jpg</guid>
+        </item>
+    </channel>
+</rss>

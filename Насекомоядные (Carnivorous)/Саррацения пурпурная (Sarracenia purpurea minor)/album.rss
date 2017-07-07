@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Саррацения пурпурная (Sarracenia purpurea minor)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения пурпурная (Sarracenia purpurea minor)/</jalbum:absolutePath>
+        <item>
+            <title>DSC09687</title>
+            <link>http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения пурпурная (Sarracenia purpurea minor)/slides/DSC09687.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения пурпурная (Sarracenia purpurea minor)/thumbs/DSC09687.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения пурпурная (Sarracenia purpurea minor)/slides/DSC09687.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 14 Aug 2013 13:54:48 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09687.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09688</title>
+            <link>http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения пурпурная (Sarracenia purpurea minor)/slides/DSC09688.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения пурпурная (Sarracenia purpurea minor)/thumbs/DSC09688.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения пурпурная (Sarracenia purpurea minor)/slides/DSC09688.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 14 Aug 2013 13:54:57 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09688.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09689</title>
+            <link>http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения пурпурная (Sarracenia purpurea minor)/slides/DSC09689.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения пурпурная (Sarracenia purpurea minor)/thumbs/DSC09689.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения пурпурная (Sarracenia purpurea minor)/slides/DSC09689.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 14 Aug 2013 13:55:09 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09689.jpg</guid>
+        </item>
+    </channel>
+</rss>

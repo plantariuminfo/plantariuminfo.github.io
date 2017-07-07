@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Саррацения 1 (Sarracenia sp.)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения 1 (Sarracenia sp.)/</jalbum:absolutePath>
+        <item>
+            <title>DSC09677</title>
+            <link>http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения 1 (Sarracenia sp.)/slides/DSC09677.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения 1 (Sarracenia sp.)/thumbs/DSC09677.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения 1 (Sarracenia sp.)/slides/DSC09677.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 14 Aug 2013 13:51:57 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09677.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09678</title>
+            <link>http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения 1 (Sarracenia sp.)/slides/DSC09678.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения 1 (Sarracenia sp.)/thumbs/DSC09678.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Насекомоядные (Carnivorous)/Саррацения 1 (Sarracenia sp.)/slides/DSC09678.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 14 Aug 2013 13:52:04 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09678.jpg</guid>
+        </item>
+    </channel>
+</rss>

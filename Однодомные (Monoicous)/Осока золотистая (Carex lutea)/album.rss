@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Осока золотистая (Carex lutea)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Однодомные (Monoicous)/Осока золотистая (Carex lutea)/</jalbum:absolutePath>
+        <item>
+            <title>DSC03735</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Осока золотистая (Carex lutea)/slides/DSC03735.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Осока золотистая (Carex lutea)/thumbs/DSC03735.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Осока золотистая (Carex lutea)/slides/DSC03735.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 14 Jun 2015 09:35:34 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03735.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03736</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Осока золотистая (Carex lutea)/slides/DSC03736.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Осока золотистая (Carex lutea)/thumbs/DSC03736.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Осока золотистая (Carex lutea)/slides/DSC03736.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 14 Jun 2015 09:35:45 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03736.jpg</guid>
+        </item>
+    </channel>
+</rss>

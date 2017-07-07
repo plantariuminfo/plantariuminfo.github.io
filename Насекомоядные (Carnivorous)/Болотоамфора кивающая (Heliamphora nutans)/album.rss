@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Болотоамфора кивающая (Heliamphora nutans)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Насекомоядные (Carnivorous)/Болотоамфора кивающая (Heliamphora nutans)/</jalbum:absolutePath>
+        <item>
+            <title>DSC09680</title>
+            <link>http://plantarium.info/Насекомоядные (Carnivorous)/Болотоамфора кивающая (Heliamphora nutans)/slides/DSC09680.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Насекомоядные (Carnivorous)/Болотоамфора кивающая (Heliamphora nutans)/thumbs/DSC09680.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Насекомоядные (Carnivorous)/Болотоамфора кивающая (Heliamphora nutans)/slides/DSC09680.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 14 Aug 2013 13:52:14 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09680.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09681</title>
+            <link>http://plantarium.info/Насекомоядные (Carnivorous)/Болотоамфора кивающая (Heliamphora nutans)/slides/DSC09681.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:41:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Насекомоядные (Carnivorous)/Болотоамфора кивающая (Heliamphora nutans)/thumbs/DSC09681.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Насекомоядные (Carnivorous)/Болотоамфора кивающая (Heliamphora nutans)/slides/DSC09681.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 14 Aug 2013 13:52:21 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09681.jpg</guid>
+        </item>
+    </channel>
+</rss>

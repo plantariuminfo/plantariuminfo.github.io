@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Берёза карликовая, малорослая, карличная (Betula nana)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00828</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/slides/DSC00828.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:59:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/thumbs/DSC00828.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/slides/DSC00828.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 23 Jun 2016 14:38:24 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00828.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00829</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/slides/DSC00829.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:59:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/thumbs/DSC00829.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/slides/DSC00829.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 23 Jun 2016 14:38:40 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00829.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00830</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/slides/DSC00830.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:59:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/thumbs/DSC00830.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/slides/DSC00830.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 23 Jun 2016 14:38:59 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00830.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00831</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/slides/DSC00831.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:59:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/thumbs/DSC00831.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Берёза карликовая, малорослая, карличная (Betula nana)/slides/DSC00831.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 23 Jun 2016 14:39:13 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00831.jpg</guid>
+        </item>
+    </channel>
+</rss>

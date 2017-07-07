@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Сосна 1 (Pinus sp.)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02290</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/slides/DSC02290.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:26 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/thumbs/DSC02290.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/slides/DSC02290.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 20 Jul 2012 12:03:15 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02290.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02363</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/slides/DSC02363.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:26 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/thumbs/DSC02363.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/slides/DSC02363.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 20 Jul 2012 12:55:39 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02363.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02364</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/slides/DSC02364.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:26 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/thumbs/DSC02364.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/slides/DSC02364.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 20 Jul 2012 12:55:48 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02364.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02719</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/slides/DSC02719.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:26 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/thumbs/DSC02719.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/slides/DSC02719.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 22 Jul 2012 11:22:21 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02719.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02722</title>
+            <link>http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/slides/DSC02722.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:00:26 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/thumbs/DSC02722.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Однодомные (Monoicous)/Сосна 1 (Pinus sp.)/slides/DSC02722.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 22 Jul 2012 11:22:54 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02722.jpg</guid>
+        </item>
+    </channel>
+</rss>
