@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Марьянник дубравный белая форма (Melampyrum nemorosum f. alba)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Альбиносы (Albinos)/Марьянник дубравный белая форма (Melampyrum nemorosum f. alba)/</jalbum:absolutePath>
+        <item>
+            <title>DSC03718</title>
+            <link>http://plantarium.info/Альбиносы (Albinos)/Марьянник дубравный белая форма (Melampyrum nemorosum f. alba)/slides/DSC03718.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Альбиносы (Albinos)/Марьянник дубравный белая форма (Melampyrum nemorosum f. alba)/thumbs/DSC03718.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Альбиносы (Albinos)/Марьянник дубравный белая форма (Melampyrum nemorosum f. alba)/slides/DSC03718.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 14 Jun 2015 09:22:10 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03718.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03719</title>
+            <link>http://plantarium.info/Альбиносы (Albinos)/Марьянник дубравный белая форма (Melampyrum nemorosum f. alba)/slides/DSC03719.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Альбиносы (Albinos)/Марьянник дубравный белая форма (Melampyrum nemorosum f. alba)/thumbs/DSC03719.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Альбиносы (Albinos)/Марьянник дубравный белая форма (Melampyrum nemorosum f. alba)/slides/DSC03719.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 14 Jun 2015 09:22:20 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03719.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03720</title>
+            <link>http://plantarium.info/Альбиносы (Albinos)/Марьянник дубравный белая форма (Melampyrum nemorosum f. alba)/slides/DSC03720.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Альбиносы (Albinos)/Марьянник дубравный белая форма (Melampyrum nemorosum f. alba)/thumbs/DSC03720.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Альбиносы (Albinos)/Марьянник дубравный белая форма (Melampyrum nemorosum f. alba)/slides/DSC03720.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 14 Jun 2015 09:22:56 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03720.jpg</guid>
+        </item>
+    </channel>
+</rss>

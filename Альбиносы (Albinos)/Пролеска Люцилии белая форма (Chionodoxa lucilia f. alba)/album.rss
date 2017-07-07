@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Пролеска Люцилии белая форма (Chionodoxa lucilia f. alba)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Альбиносы (Albinos)/Пролеска Люцилии белая форма (Chionodoxa lucilia f. alba)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00257</title>
+            <link>http://plantarium.info/Альбиносы (Albinos)/Пролеска Люцилии белая форма (Chionodoxa lucilia f. alba)/slides/DSC00257.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Альбиносы (Albinos)/Пролеска Люцилии белая форма (Chionodoxa lucilia f. alba)/thumbs/DSC00257.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Альбиносы (Albinos)/Пролеска Люцилии белая форма (Chionodoxa lucilia f. alba)/slides/DSC00257.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 13:35:52 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00257.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00258</title>
+            <link>http://plantarium.info/Альбиносы (Albinos)/Пролеска Люцилии белая форма (Chionodoxa lucilia f. alba)/slides/DSC00258.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Альбиносы (Albinos)/Пролеска Люцилии белая форма (Chionodoxa lucilia f. alba)/thumbs/DSC00258.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Альбиносы (Albinos)/Пролеска Люцилии белая форма (Chionodoxa lucilia f. alba)/slides/DSC00258.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 13:36:00 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00258.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00259</title>
+            <link>http://plantarium.info/Альбиносы (Albinos)/Пролеска Люцилии белая форма (Chionodoxa lucilia f. alba)/slides/DSC00259.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Альбиносы (Albinos)/Пролеска Люцилии белая форма (Chionodoxa lucilia f. alba)/thumbs/DSC00259.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Альбиносы (Albinos)/Пролеска Люцилии белая форма (Chionodoxa lucilia f. alba)/slides/DSC00259.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 13:36:06 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00259.jpg</guid>
+        </item>
+    </channel>
+</rss>

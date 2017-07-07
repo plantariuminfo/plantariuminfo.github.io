@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Паслён темноплодный (Solanum melongena)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Анатомия (Anatomy)/Паслён темноплодный (Solanum melongena)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05249</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Паслён темноплодный (Solanum melongena)/slides/DSC05249.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Паслён темноплодный (Solanum melongena)/thumbs/DSC05249.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Паслён темноплодный (Solanum melongena)/slides/DSC05249.jpg" width="1024" height="662"/>
+            <guid isPermaLink="false">slides/DSC05249.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05251</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Паслён темноплодный (Solanum melongena)/slides/DSC05251.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Паслён темноплодный (Solanum melongena)/thumbs/DSC05251.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Паслён темноплодный (Solanum melongena)/slides/DSC05251.jpg" width="1024" height="682"/>
+            <guid isPermaLink="false">slides/DSC05251.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05253</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Паслён темноплодный (Solanum melongena)/slides/DSC05253.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Паслён темноплодный (Solanum melongena)/thumbs/DSC05253.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Паслён темноплодный (Solanum melongena)/slides/DSC05253.jpg" width="1024" height="698"/>
+            <guid isPermaLink="false">slides/DSC05253.jpg</guid>
+        </item>
+    </channel>
+</rss>

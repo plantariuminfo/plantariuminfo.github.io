@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Перелеска благородная белая форма (Hepatica nobilis f. alba)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Альбиносы (Albinos)/Перелеска благородная белая форма (Hepatica nobilis f. alba)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05542</title>
+            <link>http://plantarium.info/Альбиносы (Albinos)/Перелеска благородная белая форма (Hepatica nobilis f. alba)/slides/DSC05542.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:22 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Альбиносы (Albinos)/Перелеска благородная белая форма (Hepatica nobilis f. alba)/thumbs/DSC05542.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Альбиносы (Albinos)/Перелеска благородная белая форма (Hepatica nobilis f. alba)/slides/DSC05542.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 06 Apr 2017 13:33:15 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05542.JPG</guid>
+        </item>
+    </channel>
+</rss>

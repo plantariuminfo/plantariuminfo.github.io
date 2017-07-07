@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Василек синий (Centaurea cyanus)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Анатомия (Anatomy)/Василек синий (Centaurea cyanus)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05257</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Василек синий (Centaurea cyanus)/slides/DSC05257.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Василек синий (Centaurea cyanus)/thumbs/DSC05257.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Василек синий (Centaurea cyanus)/slides/DSC05257.jpg" width="1024" height="672"/>
+            <guid isPermaLink="false">slides/DSC05257.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05258</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Василек синий (Centaurea cyanus)/slides/DSC05258.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Василек синий (Centaurea cyanus)/thumbs/DSC05258.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Василек синий (Centaurea cyanus)/slides/DSC05258.jpg" width="799" height="1024"/>
+            <guid isPermaLink="false">slides/DSC05258.jpg</guid>
+        </item>
+    </channel>
+</rss>

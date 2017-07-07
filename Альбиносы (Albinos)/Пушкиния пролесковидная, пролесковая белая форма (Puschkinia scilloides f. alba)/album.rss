@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/</jalbum:absolutePath>
+        <item>
+            <title>DSC06118</title>
+            <link>http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/slides/DSC06118.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/thumbs/DSC06118.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/slides/DSC06118.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 28 Apr 2017 11:44:11 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06118.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06121</title>
+            <link>http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/slides/DSC06121.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/thumbs/DSC06121.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/slides/DSC06121.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 28 Apr 2017 11:44:19 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06121.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06124</title>
+            <link>http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/slides/DSC06124.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/thumbs/DSC06124.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/slides/DSC06124.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 28 Apr 2017 11:44:33 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06124.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06127</title>
+            <link>http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/slides/DSC06127.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/thumbs/DSC06127.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Альбиносы (Albinos)/Пушкиния пролесковидная, пролесковая белая форма (Puschkinia scilloides f. alba)/slides/DSC06127.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 28 Apr 2017 11:44:37 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06127.JPG</guid>
+        </item>
+    </channel>
+</rss>

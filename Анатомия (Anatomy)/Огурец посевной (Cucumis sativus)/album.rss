@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Огурец посевной (Cucumis sativus)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05224</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/slides/DSC05224.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/thumbs/DSC05224.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/slides/DSC05224.jpg" width="1024" height="805"/>
+            <guid isPermaLink="false">slides/DSC05224.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05225</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/slides/DSC05225.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/thumbs/DSC05225.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/slides/DSC05225.jpg" width="1024" height="820"/>
+            <guid isPermaLink="false">slides/DSC05225.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6840</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/slides/IMG_6840.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/thumbs/IMG_6840.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/slides/IMG_6840.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 10 Aug 2014 16:49:26 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6840.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6842</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/slides/IMG_6842.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/thumbs/IMG_6842.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/slides/IMG_6842.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 10 Aug 2014 16:52:22 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6842.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6843</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/slides/IMG_6843.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/thumbs/IMG_6843.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Огурец посевной (Cucumis sativus)/slides/IMG_6843.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 10 Aug 2014 16:52:53 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6843.jpg</guid>
+        </item>
+    </channel>
+</rss>

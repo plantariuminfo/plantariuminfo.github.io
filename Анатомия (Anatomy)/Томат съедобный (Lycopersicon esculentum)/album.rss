@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Томат съедобный (Lycopersicon esculentum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05228</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/slides/DSC05228.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/thumbs/DSC05228.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/slides/DSC05228.jpg" width="1024" height="743"/>
+            <guid isPermaLink="false">slides/DSC05228.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05232</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/slides/DSC05232.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/thumbs/DSC05232.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/slides/DSC05232.jpg" width="891" height="1024"/>
+            <guid isPermaLink="false">slides/DSC05232.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6848</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/slides/IMG_6848.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/thumbs/IMG_6848.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/slides/IMG_6848.jpg" width="1024" height="1024"/>
+            <jalbum:exif originalDate="Sun, 10 Aug 2014 17:35:20 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6848.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6849</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/slides/IMG_6849.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/thumbs/IMG_6849.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/slides/IMG_6849.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 10 Aug 2014 17:37:15 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6849.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6850</title>
+            <link>http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/slides/IMG_6850.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:35:08 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/thumbs/IMG_6850.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Анатомия (Anatomy)/Томат съедобный (Lycopersicon esculentum)/slides/IMG_6850.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 10 Aug 2014 17:37:24 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6850.jpg</guid>
+        </item>
+    </channel>
+</rss>
