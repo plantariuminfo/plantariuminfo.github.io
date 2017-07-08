@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Аизовые (Aizoaceae)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Аптения сердцелистная (Aptenia cordifolia)/album.rss" title="Аптения сердцелистная (Aptenia cordifolia)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Аптения сердцелистная (Aptenia cordifolia)/thumbs/DSC03113.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Бергерантус стрелконосный (Bergeranthus scapiger)/album.rss" title="Бергерантус стрелконосный (Bergeranthus scapiger)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Бергерантус стрелконосный (Bergeranthus scapiger)/thumbs/DSC07587.JPG" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Карпобротус съедобный  (Carpobrotus edulis)/album.rss" title="Карпобротус съедобный  (Carpobrotus edulis)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Карпобротус съедобный  (Carpobrotus edulis)/thumbs/DSC01952.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Корпускулярия Лехмана (Corpuscularia lehmannii)/album.rss" title="Корпускулярия Лехмана (Corpuscularia lehmannii)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Корпускулярия Лехмана (Corpuscularia lehmannii)/thumbs/IMG_3391.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Лампрантус сизый (Lampranthus glaucus)/album.rss" title="Лампрантус сизый (Lampranthus glaucus)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Лампрантус сизый (Lampranthus glaucus)/thumbs/DSC00026.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Фаукария тигровая (Faucaria tigrina)/album.rss" title="Фаукария тигровая (Faucaria tigrina)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Фаукария тигровая (Faucaria tigrina)/thumbs/IMG_3438.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

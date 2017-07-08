@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Очиток Трелиза (Sedum treleasei)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток Трелиза (Sedum treleasei)/</jalbum:absolutePath>
+        <item>
+            <title>DSC04498</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток Трелиза (Sedum treleasei)/slides/DSC04498.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:34 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток Трелиза (Sedum treleasei)/thumbs/DSC04498.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток Трелиза (Sedum treleasei)/slides/DSC04498.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Feb 2017 14:32:32 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04498.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04499</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток Трелиза (Sedum treleasei)/slides/DSC04499.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:34 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток Трелиза (Sedum treleasei)/thumbs/DSC04499.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток Трелиза (Sedum treleasei)/slides/DSC04499.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Feb 2017 14:32:43 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04499.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04500</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток Трелиза (Sedum treleasei)/slides/DSC04500.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:34 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток Трелиза (Sedum treleasei)/thumbs/DSC04500.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток Трелиза (Sedum treleasei)/slides/DSC04500.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Feb 2017 14:32:51 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04500.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Агава американская (Agave americana)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Агава американская (Agave americana)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00082</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Агава американская (Agave americana)/slides/DSC00082.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:45:43 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Агава американская (Agave americana)/thumbs/DSC00082.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Агава американская (Agave americana)/slides/DSC00082.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 14:38:57 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00082.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Крестовник Медли-Вуда (Senecio medley-woodii)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Крестовник Медли-Вуда (Senecio medley-woodii)/</jalbum:absolutePath>
+        <item>
+            <title>DSC07583</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Крестовник Медли-Вуда (Senecio medley-woodii)/slides/DSC07583.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:54 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Крестовник Медли-Вуда (Senecio medley-woodii)/thumbs/DSC07583.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Крестовник Медли-Вуда (Senecio medley-woodii)/slides/DSC07583.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 21 May 2017 12:45:56 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07583.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07584</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Крестовник Медли-Вуда (Senecio medley-woodii)/slides/DSC07584.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:54 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Крестовник Медли-Вуда (Senecio medley-woodii)/thumbs/DSC07584.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Крестовник Медли-Вуда (Senecio medley-woodii)/slides/DSC07584.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 21 May 2017 12:46:05 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07584.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07585</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Крестовник Медли-Вуда (Senecio medley-woodii)/slides/DSC07585.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:54 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Крестовник Медли-Вуда (Senecio medley-woodii)/thumbs/DSC07585.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Крестовник Медли-Вуда (Senecio medley-woodii)/slides/DSC07585.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 21 May 2017 12:46:15 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07585.JPG</guid>
+        </item>
+    </channel>
+</rss>

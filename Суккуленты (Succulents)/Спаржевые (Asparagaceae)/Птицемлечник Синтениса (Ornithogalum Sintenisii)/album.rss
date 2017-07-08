@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Птицемлечник Синтениса (Ornithogalum Sintenisii)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4544</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/slides/IMG_4544.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:02 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/thumbs/IMG_4544.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/slides/IMG_4544.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 13:09:27 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4544.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_4545</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/slides/IMG_4545.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:02 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/thumbs/IMG_4545.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/slides/IMG_4545.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 13:09:28 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4545.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_4546</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/slides/IMG_4546.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:02 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/thumbs/IMG_4546.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/slides/IMG_4546.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 13:09:30 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4546.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_4547</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/slides/IMG_4547.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:02 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/thumbs/IMG_4547.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Птицемлечник Синтениса (Ornithogalum Sintenisii)/slides/IMG_4547.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 13:09:31 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4547.jpg</guid>
+        </item>
+    </channel>
+</rss>

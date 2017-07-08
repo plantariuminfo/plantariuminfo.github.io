@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Агава Шотта (Agava schottii)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Агава Шотта (Agava schottii)/</jalbum:absolutePath>
+        <item>
+            <title>DSC07623</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Агава Шотта (Agava schottii)/slides/DSC07623.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:45:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Агава Шотта (Agava schottii)/thumbs/DSC07623.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Агава Шотта (Agava schottii)/slides/DSC07623.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 21 May 2017 12:55:50 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07623.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07624</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Агава Шотта (Agava schottii)/slides/DSC07624.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:45:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Агава Шотта (Agava schottii)/thumbs/DSC07624.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Агава Шотта (Agava schottii)/slides/DSC07624.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 21 May 2017 12:55:59 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07624.JPG</guid>
+        </item>
+    </channel>
+</rss>

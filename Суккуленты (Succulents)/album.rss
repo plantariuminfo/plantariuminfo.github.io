@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Суккуленты (Succulents)</title>
+   	<link>..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/album.rss" title="Аизовые (Aizoaceae)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Лампрантус сизый (Lampranthus glaucus)/thumbs/DSC00026.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/album.rss" title="Астровые (Asteraceae)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Крестовник Медли-Вуда (Senecio medley-woodii)/thumbs/DSC07583.JPG" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/album.rss" title="Асфоделовые (Asphodelaceae)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Алоэ нубийское, кампери (Aloe camperi)/thumbs/DSC07538.JPG" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/album.rss" title="Бромелиевые (Bromeliaceae)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Ананас крупнохохолковый (Ananas comosus)/thumbs/DSC05318.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Журавельниковые (Geraniaceae)/album.rss" title="Журавельниковые (Geraniaceae)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Журавельниковые (Geraniaceae)/Пеларгония плющелистная (Рelargonium peltatum)/thumbs/DSC01743.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/album.rss" title="Кактусовые (Cactaceae)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Эхинокактус Грусона (Echinocactus grusonii)/thumbs/IMG_3303.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Камнеломковые (Saxifragaceae)/album.rss" title="Камнеломковые (Saxifragaceae)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Камнеломковые (Saxifragaceae)/Камнеломка x Арендса (Saxifraga x arendsii (S. exarata x S. granulata x S. rosacea))/thumbs/DSC03321.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/album.rss" title="Молочайные (Euphorbiaceae)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай голубоватый (Euphorbia coerulescens)/thumbs/DSC04566.JPG" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/album.rss" title="Спаржевые (Asparagaceae)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Сансевиерия пустынная (Sansevieria desertii)/thumbs/DSC05016.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/album.rss" title="Толстянковые (Crassulaceae)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Бородник шароносный (Jovibarba globifera)/thumbs/DSC00293.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

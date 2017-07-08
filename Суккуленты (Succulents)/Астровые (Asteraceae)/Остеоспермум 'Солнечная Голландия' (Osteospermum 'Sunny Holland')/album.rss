@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Остеоспермум &apos;Солнечная Голландия&apos; (Osteospermum &apos;Sunny Holland&apos;)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Остеоспермум 'Солнечная Голландия' (Osteospermum 'Sunny Holland')/</jalbum:absolutePath>
+        <item>
+            <title>IMG_6299</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Остеоспермум 'Солнечная Голландия' (Osteospermum 'Sunny Holland')/slides/IMG_6299.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:00 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Остеоспермум 'Солнечная Голландия' (Osteospermum 'Sunny Holland')/thumbs/IMG_6299.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Остеоспермум 'Солнечная Голландия' (Osteospermum 'Sunny Holland')/slides/IMG_6299.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 11 Jul 2014 20:23:36 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6299.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6300</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Остеоспермум 'Солнечная Голландия' (Osteospermum 'Sunny Holland')/slides/IMG_6300.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:00 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Остеоспермум 'Солнечная Голландия' (Osteospermum 'Sunny Holland')/thumbs/IMG_6300.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Остеоспермум 'Солнечная Голландия' (Osteospermum 'Sunny Holland')/slides/IMG_6300.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 11 Jul 2014 20:23:42 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6300.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6301</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Остеоспермум 'Солнечная Голландия' (Osteospermum 'Sunny Holland')/slides/IMG_6301.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:00 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Остеоспермум 'Солнечная Голландия' (Osteospermum 'Sunny Holland')/thumbs/IMG_6301.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Астровые (Asteraceae)/Остеоспермум 'Солнечная Голландия' (Osteospermum 'Sunny Holland')/slides/IMG_6301.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 11 Jul 2014 20:23:56 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_6301.jpg</guid>
+        </item>
+    </channel>
+</rss>

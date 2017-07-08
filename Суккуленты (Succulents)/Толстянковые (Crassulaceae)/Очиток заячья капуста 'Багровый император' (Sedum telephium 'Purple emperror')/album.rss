@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Очиток заячья капуста &apos;Багровый император&apos; (Sedum telephium &apos;Purple emperror&apos;)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток заячья капуста 'Багровый император' (Sedum telephium 'Purple emperror')/</jalbum:absolutePath>
+        <item>
+            <title>DSC09831</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток заячья капуста 'Багровый император' (Sedum telephium 'Purple emperror')/slides/DSC09831.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:26 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток заячья капуста 'Багровый император' (Sedum telephium 'Purple emperror')/thumbs/DSC09831.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток заячья капуста 'Багровый император' (Sedum telephium 'Purple emperror')/slides/DSC09831.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 01 Sep 2013 14:16:21 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09831.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09832</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток заячья капуста 'Багровый император' (Sedum telephium 'Purple emperror')/slides/DSC09832.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:26 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток заячья капуста 'Багровый император' (Sedum telephium 'Purple emperror')/thumbs/DSC09832.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Очиток заячья капуста 'Багровый император' (Sedum telephium 'Purple emperror')/slides/DSC09832.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 01 Sep 2013 14:16:28 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09832.jpg</guid>
+        </item>
+    </channel>
+</rss>

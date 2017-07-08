@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Каланхоэ бехарское (Kalanchoe beharensis)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/</jalbum:absolutePath>
+        <item>
+            <title>DSC06814</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/slides/DSC06814.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:15 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/thumbs/DSC06814.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/slides/DSC06814.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:23:50 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06814.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06815</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/slides/DSC06815.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:15 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/thumbs/DSC06815.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/slides/DSC06815.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:24:03 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06815.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06817</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/slides/DSC06817.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:15 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/thumbs/DSC06817.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/slides/DSC06817.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:24:23 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06817.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06818</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/slides/DSC06818.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:15 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/thumbs/DSC06818.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Толстянковые (Crassulaceae)/Каланхоэ бехарское (Kalanchoe beharensis)/slides/DSC06818.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:24:29 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06818.jpg</guid>
+        </item>
+    </channel>
+</rss>

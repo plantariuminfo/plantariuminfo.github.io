@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Сансевиерия угараа (Sansevieria ugaraa)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Сансевиерия угараа (Sansevieria ugaraa)/</jalbum:absolutePath>
+        <item>
+            <title>DSC04982</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Сансевиерия угараа (Sansevieria ugaraa)/slides/DSC04982.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:46:08 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Сансевиерия угараа (Sansevieria ugaraa)/thumbs/DSC04982.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Спаржевые (Asparagaceae)/Сансевиерия угараа (Sansevieria ugaraa)/slides/DSC04982.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 21 Dec 2012 09:38:39 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04982.jpg</guid>
+        </item>
+    </channel>
+</rss>

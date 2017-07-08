@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Журавельниковые (Geraniaceae)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Журавельниковые (Geraniaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Суккуленты (Succulents)/Журавельниковые (Geraniaceae)/Пеларгония плющелистная (Рelargonium peltatum)/album.rss" title="Пеларгония плющелистная (Рelargonium peltatum)" thumbnail="http://plantarium.info/Суккуленты (Succulents)/Журавельниковые (Geraniaceae)/Пеларгония плющелистная (Рelargonium peltatum)/thumbs/DSC01743.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

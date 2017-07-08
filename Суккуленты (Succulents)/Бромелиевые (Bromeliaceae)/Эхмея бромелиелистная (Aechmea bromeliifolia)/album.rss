@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Эхмея бромелиелистная (Aechmea bromeliifolia)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_3223</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/slides/IMG_3223.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:58 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/thumbs/IMG_3223.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/slides/IMG_3223.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 12:45:14 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3223.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3224</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/slides/IMG_3224.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:58 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/thumbs/IMG_3224.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/slides/IMG_3224.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 12:45:19 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3224.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3225</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/slides/IMG_3225.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:58 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/thumbs/IMG_3225.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/slides/IMG_3225.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 12:45:26 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3225.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3226</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/slides/IMG_3226.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:58 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/thumbs/IMG_3226.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Эхмея бромелиелистная (Aechmea bromeliifolia)/slides/IMG_3226.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 12:45:33 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3226.jpg</guid>
+        </item>
+    </channel>
+</rss>

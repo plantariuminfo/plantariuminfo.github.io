@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Лампрантус сизый (Lampranthus glaucus)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Лампрантус сизый (Lampranthus glaucus)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00025</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Лампрантус сизый (Lampranthus glaucus)/slides/DSC00025.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:52 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Лампрантус сизый (Lampranthus glaucus)/thumbs/DSC00025.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Лампрантус сизый (Lampranthus glaucus)/slides/DSC00025.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 12:12:02 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00025.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00026</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Лампрантус сизый (Lampranthus glaucus)/slides/DSC00026.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:52 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Лампрантус сизый (Lampranthus glaucus)/thumbs/DSC00026.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Лампрантус сизый (Lampranthus glaucus)/slides/DSC00026.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 12:12:11 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00026.jpg</guid>
+        </item>
+    </channel>
+</rss>

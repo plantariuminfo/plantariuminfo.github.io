@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дианелла голубая (Dianella caerulea)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Дианелла голубая (Dianella caerulea)/</jalbum:absolutePath>
+        <item>
+            <title>DSC06859</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Дианелла голубая (Dianella caerulea)/slides/DSC06859.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Дианелла голубая (Dianella caerulea)/thumbs/DSC06859.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Дианелла голубая (Dianella caerulea)/slides/DSC06859.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:44:36 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06859.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06860</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Дианелла голубая (Dianella caerulea)/slides/DSC06860.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Дианелла голубая (Dianella caerulea)/thumbs/DSC06860.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Дианелла голубая (Dianella caerulea)/slides/DSC06860.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:44:41 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06860.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06861</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Дианелла голубая (Dianella caerulea)/slides/DSC06861.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Дианелла голубая (Dianella caerulea)/thumbs/DSC06861.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Дианелла голубая (Dianella caerulea)/slides/DSC06861.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:44:47 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06861.jpg</guid>
+        </item>
+    </channel>
+</rss>

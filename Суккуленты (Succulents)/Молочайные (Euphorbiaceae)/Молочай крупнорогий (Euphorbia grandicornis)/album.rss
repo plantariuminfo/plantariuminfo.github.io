@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Молочай крупнорогий (Euphorbia grandicornis)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_3343</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/slides/IMG_3343.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:45:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/thumbs/IMG_3343.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/slides/IMG_3343.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 13:15:35 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3343.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3344</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/slides/IMG_3344.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:45:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/thumbs/IMG_3344.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/slides/IMG_3344.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 13:15:37 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3344.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3345</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/slides/IMG_3345.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:45:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/thumbs/IMG_3345.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/slides/IMG_3345.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 13:15:40 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3345.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3346</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/slides/IMG_3346.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:45:40 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/thumbs/IMG_3346.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай крупнорогий (Euphorbia grandicornis)/slides/IMG_3346.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 13:15:41 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3346.jpg</guid>
+        </item>
+    </channel>
+</rss>

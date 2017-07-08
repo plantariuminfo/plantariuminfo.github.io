@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Бильбергия приятная (Billbergia amoena)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/</jalbum:absolutePath>
+        <item>
+            <title>DSC04518</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/slides/DSC04518.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/thumbs/DSC04518.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/slides/DSC04518.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Feb 2017 14:35:47 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04518.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04519</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/slides/DSC04519.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/thumbs/DSC04519.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/slides/DSC04519.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Feb 2017 14:35:52 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04519.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04520</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/slides/DSC04520.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/thumbs/DSC04520.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/slides/DSC04520.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Feb 2017 14:35:59 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04520.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04521</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/slides/DSC04521.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/thumbs/DSC04521.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Бромелиевые (Bromeliaceae)/Бильбергия приятная (Billbergia amoena)/slides/DSC04521.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 04 Feb 2017 14:36:08 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04521.JPG</guid>
+        </item>
+    </channel>
+</rss>

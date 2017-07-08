@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Молочай болотный (Euphorbia palustris)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай болотный (Euphorbia palustris)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02184</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай болотный (Euphorbia palustris)/slides/DSC02184.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:45:34 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай болотный (Euphorbia palustris)/thumbs/DSC02184.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай болотный (Euphorbia palustris)/slides/DSC02184.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 27 Apr 2009 16:18:31 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02184.jpg</guid>
+        </item>
+        <item>
+            <title>DSC07495</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай болотный (Euphorbia palustris)/slides/DSC07495.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:45:34 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай болотный (Euphorbia palustris)/thumbs/DSC07495.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай болотный (Euphorbia palustris)/slides/DSC07495.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 07 May 2011 15:07:53 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC07495.jpg</guid>
+        </item>
+        <item>
+            <title>DSC07496</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай болотный (Euphorbia palustris)/slides/DSC07496.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:45:34 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай болотный (Euphorbia palustris)/thumbs/DSC07496.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Молочайные (Euphorbiaceae)/Молочай болотный (Euphorbia palustris)/slides/DSC07496.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 07 May 2011 15:08:01 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC07496.jpg</guid>
+        </item>
+    </channel>
+</rss>

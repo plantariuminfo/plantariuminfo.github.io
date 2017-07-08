@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Алоэ Бруми (Aloe broomi)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Алоэ Бруми (Aloe broomi)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_3435</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Алоэ Бруми (Aloe broomi)/slides/IMG_3435.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:05 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Алоэ Бруми (Aloe broomi)/thumbs/IMG_3435.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Алоэ Бруми (Aloe broomi)/slides/IMG_3435.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 13:35:17 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3435.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3436</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Алоэ Бруми (Aloe broomi)/slides/IMG_3436.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:05 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Алоэ Бруми (Aloe broomi)/thumbs/IMG_3436.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Алоэ Бруми (Aloe broomi)/slides/IMG_3436.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 13:35:21 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3436.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3436_</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Алоэ Бруми (Aloe broomi)/slides/IMG_3436_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:44:05 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Алоэ Бруми (Aloe broomi)/thumbs/IMG_3436_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Асфоделовые (Asphodelaceae)/Алоэ Бруми (Aloe broomi)/slides/IMG_3436_.jpg" width="1024" height="1005"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 13:35:21 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3436_.jpg</guid>
+        </item>
+    </channel>
+</rss>

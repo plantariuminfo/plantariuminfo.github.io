@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Фаукария тигровая (Faucaria tigrina)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Фаукария тигровая (Faucaria tigrina)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_3438</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Фаукария тигровая (Faucaria tigrina)/slides/IMG_3438.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:53 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Фаукария тигровая (Faucaria tigrina)/thumbs/IMG_3438.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Фаукария тигровая (Faucaria tigrina)/slides/IMG_3438.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 13:36:03 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3438.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3439</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Фаукария тигровая (Faucaria tigrina)/slides/IMG_3439.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:43:53 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Фаукария тигровая (Faucaria tigrina)/thumbs/IMG_3439.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Аизовые (Aizoaceae)/Фаукария тигровая (Faucaria tigrina)/slides/IMG_3439.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 13:36:06 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3439.jpg</guid>
+        </item>
+    </channel>
+</rss>
