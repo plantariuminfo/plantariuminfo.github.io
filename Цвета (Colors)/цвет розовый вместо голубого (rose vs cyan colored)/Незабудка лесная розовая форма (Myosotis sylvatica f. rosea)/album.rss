@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00328</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/slides/DSC00328.jpg</link>
+            <pubDate>Fri, 07 Apr 2017 15:47:26 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/thumbs/DSC00328.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/slides/DSC00328.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 23 May 2014 17:52:11 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00328.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5055</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/slides/IMG_5055.jpg</link>
+            <pubDate>Fri, 07 Apr 2017 15:47:26 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/thumbs/IMG_5055.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/slides/IMG_5055.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 23 May 2014 17:57:25 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5055.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5056</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/slides/IMG_5056.jpg</link>
+            <pubDate>Fri, 07 Apr 2017 15:47:26 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/thumbs/IMG_5056.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/slides/IMG_5056.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 23 May 2014 17:57:27 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5056.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гибискус китайский розовая форма (Hibiscus rosa-sinensis f. rosea)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет розовый вместо красного (rose vs red colored)/Гибискус китайский розовая форма (Hibiscus rosa-sinensis f. rosea)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02614</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо красного (rose vs red colored)/Гибискус китайский розовая форма (Hibiscus rosa-sinensis f. rosea)/slides/DSC02614.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо красного (rose vs red colored)/Гибискус китайский розовая форма (Hibiscus rosa-sinensis f. rosea)/thumbs/DSC02614.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо красного (rose vs red colored)/Гибискус китайский розовая форма (Hibiscus rosa-sinensis f. rosea)/slides/DSC02614.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 22 Oct 2012 12:19:45 +0300" cameraMake="SONY" cameraModel="DSC-T700"/>
+            <guid isPermaLink="false">slides/DSC02614.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02615</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо красного (rose vs red colored)/Гибискус китайский розовая форма (Hibiscus rosa-sinensis f. rosea)/slides/DSC02615.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо красного (rose vs red colored)/Гибискус китайский розовая форма (Hibiscus rosa-sinensis f. rosea)/thumbs/DSC02615.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо красного (rose vs red colored)/Гибискус китайский розовая форма (Hibiscus rosa-sinensis f. rosea)/slides/DSC02615.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 22 Oct 2012 12:20:01 +0300" cameraMake="SONY" cameraModel="DSC-T700"/>
+            <guid isPermaLink="false">slides/DSC02615.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Незабудка лесная белая форма (Myosotis sylvatica f. alba)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет белый вместо голубого (white vs cyan colored)/Незабудка лесная белая форма (Myosotis sylvatica f. alba)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00220</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет белый вместо голубого (white vs cyan colored)/Незабудка лесная белая форма (Myosotis sylvatica f. alba)/slides/DSC00220.jpg</link>
+            <pubDate>Fri, 07 Apr 2017 15:47:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет белый вместо голубого (white vs cyan colored)/Незабудка лесная белая форма (Myosotis sylvatica f. alba)/thumbs/DSC00220.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет белый вместо голубого (white vs cyan colored)/Незабудка лесная белая форма (Myosotis sylvatica f. alba)/slides/DSC00220.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 10 May 2012 14:06:12 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00220.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5450</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет белый вместо голубого (white vs cyan colored)/Незабудка лесная белая форма (Myosotis sylvatica f. alba)/slides/IMG_5450.jpg</link>
+            <pubDate>Fri, 07 Apr 2017 15:47:23 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет белый вместо голубого (white vs cyan colored)/Незабудка лесная белая форма (Myosotis sylvatica f. alba)/thumbs/IMG_5450.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет белый вместо голубого (white vs cyan colored)/Незабудка лесная белая форма (Myosotis sylvatica f. alba)/slides/IMG_5450.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 01 Jun 2014 17:40:12 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_5450.jpg</guid>
+        </item>
+    </channel>
+</rss>

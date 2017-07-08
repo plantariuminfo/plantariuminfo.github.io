@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>цвет розовый вместо синего (rose vs blue colored)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет розовый вместо синего (rose vs blue colored)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Цвета (Colors)/цвет розовый вместо синего (rose vs blue colored)/Гиацинт восточный розовая форма  (Hyacinthus orientalis f. rosea)/album.rss" title="Гиацинт восточный розовая форма  (Hyacinthus orientalis f. rosea)" thumbnail="http://plantarium.info/Цвета (Colors)/цвет розовый вместо синего (rose vs blue colored)/Гиацинт восточный розовая форма  (Hyacinthus orientalis f. rosea)/thumbs/DSC09670.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Цвета (Colors)/цвет розовый вместо синего (rose vs blue colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/album.rss" title="Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)" thumbnail="http://plantarium.info/Цвета (Colors)/цвет розовый вместо синего (rose vs blue colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/thumbs/0DSC08268_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Цвета (Colors)/цвет розовый вместо синего (rose vs blue colored)/Перелеска благородная розовая форма (Hepatica nobilis f. rosea)/album.rss" title="Перелеска благородная розовая форма (Hepatica nobilis f. rosea)" thumbnail="http://plantarium.info/Цвета (Colors)/цвет розовый вместо синего (rose vs blue colored)/Перелеска благородная розовая форма (Hepatica nobilis f. rosea)/thumbs/DSC00108.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

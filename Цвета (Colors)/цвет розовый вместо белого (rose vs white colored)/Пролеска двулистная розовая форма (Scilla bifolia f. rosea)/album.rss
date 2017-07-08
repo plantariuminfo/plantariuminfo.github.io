@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Пролеска двулистная розовая форма (Scilla bifolia f. rosea)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Пролеска двулистная розовая форма (Scilla bifolia f. rosea)/</jalbum:absolutePath>
+        <item>
+            <title>DSC06425</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Пролеска двулистная розовая форма (Scilla bifolia f. rosea)/slides/DSC06425.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:29 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Пролеска двулистная розовая форма (Scilla bifolia f. rosea)/thumbs/DSC06425.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Пролеска двулистная розовая форма (Scilla bifolia f. rosea)/slides/DSC06425.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 22 Apr 2013 13:32:15 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06425.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06427</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Пролеска двулистная розовая форма (Scilla bifolia f. rosea)/slides/DSC06427.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:29 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Пролеска двулистная розовая форма (Scilla bifolia f. rosea)/thumbs/DSC06427.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Пролеска двулистная розовая форма (Scilla bifolia f. rosea)/slides/DSC06427.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 22 Apr 2013 13:32:48 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06427.jpg</guid>
+        </item>
+    </channel>
+</rss>

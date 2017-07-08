@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>цвет пурпурный вместо желтого (magento vs yellow colored)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/album.rss" title="Первоцвет высокий  (Primula elatior)" thumbnail="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/thumbs/DSC01994_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

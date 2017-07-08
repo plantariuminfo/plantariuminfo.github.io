@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>цвет розовый вместо пурпурного (rose vs purple colored)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет розовый вместо пурпурного (rose vs purple colored)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Цвета (Colors)/цвет розовый вместо пурпурного (rose vs purple colored)/Камнеломка x Арендса розовая форма (Saxifraga x arendsii f. rosea (S. exarata x S. granulata x S. rosacea))/album.rss" title="Камнеломка x Арендса розовая форма (Saxifraga x arendsii f. rosea (S. exarata x S. granulata x S. rosacea))" thumbnail="http://plantarium.info/Цвета (Colors)/цвет розовый вместо пурпурного (rose vs purple colored)/Камнеломка x Арендса розовая форма (Saxifraga x arendsii f. rosea (S. exarata x S. granulata x S. rosacea))/thumbs/DSC00814.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

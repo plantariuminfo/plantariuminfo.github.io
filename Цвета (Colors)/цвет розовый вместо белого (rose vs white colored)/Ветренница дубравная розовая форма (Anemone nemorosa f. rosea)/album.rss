@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ветренница дубравная розовая форма (Anemone nemorosa f. rosea)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Ветренница дубравная розовая форма (Anemone nemorosa f. rosea)/</jalbum:absolutePath>
+        <item>
+            <title>DSC07826</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Ветренница дубравная розовая форма (Anemone nemorosa f. rosea)/slides/DSC07826.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Ветренница дубравная розовая форма (Anemone nemorosa f. rosea)/thumbs/DSC07826.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Ветренница дубравная розовая форма (Anemone nemorosa f. rosea)/slides/DSC07826.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 20 May 2011 16:37:38 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC07826.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09387</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Ветренница дубравная розовая форма (Anemone nemorosa f. rosea)/slides/DSC09387.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Ветренница дубравная розовая форма (Anemone nemorosa f. rosea)/thumbs/DSC09387.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Ветренница дубравная розовая форма (Anemone nemorosa f. rosea)/slides/DSC09387.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 24 Apr 2016 14:44:29 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC09387.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09388</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Ветренница дубравная розовая форма (Anemone nemorosa f. rosea)/slides/DSC09388.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:23 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Ветренница дубравная розовая форма (Anemone nemorosa f. rosea)/thumbs/DSC09388.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Ветренница дубравная розовая форма (Anemone nemorosa f. rosea)/slides/DSC09388.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 24 Apr 2016 14:44:38 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC09388.jpg</guid>
+        </item>
+    </channel>
+</rss>

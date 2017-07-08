@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>цвет розовый вместо голубого (rose vs cyan colored)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/album.rss" title="Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)" thumbnail="http://plantarium.info/Цвета (Colors)/цвет розовый вместо голубого (rose vs cyan colored)/Незабудка лесная розовая форма (Myosotis sylvatica f. rosea)/thumbs/DSC00328.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

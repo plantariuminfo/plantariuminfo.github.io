@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Марьянник дубравный пурпурная форма (Melampyrum nemorosum f. purpurea)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо синего (magento vs blue colored)/Марьянник дубравный пурпурная форма (Melampyrum nemorosum f. purpurea)/</jalbum:absolutePath>
+        <item>
+            <title>DSC03855</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо синего (magento vs blue colored)/Марьянник дубравный пурпурная форма (Melampyrum nemorosum f. purpurea)/slides/DSC03855.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо синего (magento vs blue colored)/Марьянник дубравный пурпурная форма (Melampyrum nemorosum f. purpurea)/thumbs/DSC03855.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо синего (magento vs blue colored)/Марьянник дубравный пурпурная форма (Melampyrum nemorosum f. purpurea)/slides/DSC03855.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 14 Jun 2015 11:00:15 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03855.jpg</guid>
+        </item>
+    </channel>
+</rss>

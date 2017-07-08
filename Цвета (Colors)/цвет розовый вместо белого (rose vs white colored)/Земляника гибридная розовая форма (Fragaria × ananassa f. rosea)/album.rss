@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Земляника гибридная розовая форма (Fragaria × ananassa f. rosea)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Земляника гибридная розовая форма (Fragaria × ananassa f. rosea)/</jalbum:absolutePath>
+        <item>
+            <title>общий вид растений с цветами 1</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Земляника гибридная розовая форма (Fragaria × ananassa f. rosea)/slides/общий вид растений с цветами 1.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Земляника гибридная розовая форма (Fragaria × ananassa f. rosea)/thumbs/общий вид растений с цветами 1.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Земляника гибридная розовая форма (Fragaria × ananassa f. rosea)/slides/общий вид растений с цветами 1.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 12 Sep 2013 12:51:06 +0300" cameraMake="Apple" cameraModel="iPhone 4S"/>
+            <guid isPermaLink="false">slides/общий вид растений с цветами 1.jpg</guid>
+        </item>
+        <item>
+            <title>общий вид растения с цветами 1</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Земляника гибридная розовая форма (Fragaria × ananassa f. rosea)/slides/общий вид растения с цветами 1.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Земляника гибридная розовая форма (Fragaria × ananassa f. rosea)/thumbs/общий вид растения с цветами 1.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Земляника гибридная розовая форма (Fragaria × ananassa f. rosea)/slides/общий вид растения с цветами 1.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 12 Sep 2013 12:51:22 +0300" cameraMake="Apple" cameraModel="iPhone 4S"/>
+            <guid isPermaLink="false">slides/общий вид растения с цветами 1.jpg</guid>
+        </item>
+        <item>
+            <title>цветы и бутоны крупным планом 1</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Земляника гибридная розовая форма (Fragaria × ananassa f. rosea)/slides/цветы и бутоны крупным планом 1.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:25 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Земляника гибридная розовая форма (Fragaria × ananassa f. rosea)/thumbs/цветы и бутоны крупным планом 1.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет розовый вместо белого (rose vs white colored)/Земляника гибридная розовая форма (Fragaria × ananassa f. rosea)/slides/цветы и бутоны крупным планом 1.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 12 Sep 2013 12:51:15 +0300" cameraMake="Apple" cameraModel="iPhone 4S"/>
+            <guid isPermaLink="false">slides/цветы и бутоны крупным планом 1.jpg</guid>
+        </item>
+    </channel>
+</rss>

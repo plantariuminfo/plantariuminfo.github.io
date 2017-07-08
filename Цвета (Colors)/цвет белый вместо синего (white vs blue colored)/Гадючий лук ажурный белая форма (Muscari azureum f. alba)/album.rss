@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гадючий лук ажурный белая форма (Muscari azureum f. alba)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет белый вместо синего (white vs blue colored)/Гадючий лук ажурный белая форма (Muscari azureum f. alba)/</jalbum:absolutePath>
+        <item>
+            <title>DSC06843</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет белый вместо синего (white vs blue colored)/Гадючий лук ажурный белая форма (Muscari azureum f. alba)/slides/DSC06843.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:02:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет белый вместо синего (white vs blue colored)/Гадючий лук ажурный белая форма (Muscari azureum f. alba)/thumbs/DSC06843.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет белый вместо синего (white vs blue colored)/Гадючий лук ажурный белая форма (Muscari azureum f. alba)/slides/DSC06843.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:35:23 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06843.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06844</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет белый вместо синего (white vs blue colored)/Гадючий лук ажурный белая форма (Muscari azureum f. alba)/slides/DSC06844.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:02:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет белый вместо синего (white vs blue colored)/Гадючий лук ажурный белая форма (Muscari azureum f. alba)/thumbs/DSC06844.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет белый вместо синего (white vs blue colored)/Гадючий лук ажурный белая форма (Muscari azureum f. alba)/slides/DSC06844.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 16:35:31 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06844.jpg</guid>
+        </item>
+    </channel>
+</rss>

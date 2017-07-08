@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>цвет пурпурный вместо белого (magento vs white colored)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо белого (magento vs white colored)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо белого (magento vs white colored)/Газонница приморская форма пурпурная (Lobularia maritima f. purpurea)/album.rss" title="Газонница приморская форма пурпурная (Lobularia maritima f. purpurea)" thumbnail="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо белого (magento vs white colored)/Газонница приморская форма пурпурная (Lobularia maritima f. purpurea)/thumbs/IMG_5763_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо белого (magento vs white colored)/Сутера сердцевидная пурпурная форма (Chaenostoma cordatum f. purpurea)/album.rss" title="Сутера сердцевидная пурпурная форма (Chaenostoma cordatum f. purpurea)" thumbnail="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо белого (magento vs white colored)/Сутера сердцевидная пурпурная форма (Chaenostoma cordatum f. purpurea)/thumbs/IMG_6186_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо белого (magento vs white colored)/Тысячелистник обыкновенный пурпурная форма (Achillea millefolium f. purpurea)/album.rss" title="Тысячелистник обыкновенный пурпурная форма (Achillea millefolium f. purpurea)" thumbnail="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо белого (magento vs white colored)/Тысячелистник обыкновенный пурпурная форма (Achillea millefolium f. purpurea)/thumbs/DSC03477.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

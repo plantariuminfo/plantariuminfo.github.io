@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Первоцвет высокий  (Primula elatior)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/</jalbum:absolutePath>
+        <item>
+            <title>DSC01994</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/slides/DSC01994.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/thumbs/DSC01994.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/slides/DSC01994.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 09:27:49 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01994.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01994_</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/slides/DSC01994_.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:18 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/thumbs/DSC01994_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/slides/DSC01994_.jpg" width="983" height="1024"/>
+            <guid isPermaLink="false">slides/DSC01994_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01995</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/slides/DSC01995.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/thumbs/DSC01995.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/slides/DSC01995.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 09:28:30 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01995.jpg</guid>
+        </item>
+        <item>
+            <title>DSC01996</title>
+            <link>http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/slides/DSC01996.jpg</link>
+            <pubDate>Sat, 08 Jul 2017 00:03:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/thumbs/DSC01996.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Цвета (Colors)/цвет пурпурный вместо желтого (magento vs yellow colored)/Первоцвет высокий  (Primula elatior)/slides/DSC01996.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 09:28:37 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC01996.jpg</guid>
+        </item>
+    </channel>
+</rss>
