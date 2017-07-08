@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Путешествия (Journeys)</title>
+   	<link>..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Путешествия (Journeys)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Путешествия (Journeys)/Германия (Germany)/album.rss" title="Германия (Germany)" thumbnail="http://plantarium.info/Путешествия (Journeys)/Германия (Germany)/thumbs/DSC01438.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Путешествия (Journeys)/Дания (Danmark)/album.rss" title="Дания (Danmark)" thumbnail="http://plantarium.info/Путешествия (Journeys)/Дания (Danmark)/thumbs/DSC09499.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Путешествия (Journeys)/Египет (Egypt)/album.rss" title="Египет (Egypt)" thumbnail="http://plantarium.info/Путешествия (Journeys)/Египет (Egypt)/thumbs/DSC00026.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Путешествия (Journeys)/Ирландия (Ireland)/album.rss" title="Ирландия (Ireland)" thumbnail="http://plantarium.info/Путешествия (Journeys)/Ирландия (Ireland)/thumbs/DSC06316.JPG" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Путешествия (Journeys)/Корфу (Corfu)/album.rss" title="Корфу (Corfu)" thumbnail="http://plantarium.info/Путешествия (Journeys)/Корфу (Corfu)/thumbs/DSC02216.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Путешествия (Journeys)/Норвегия (Norway)/album.rss" title="Норвегия (Norway)" thumbnail="http://plantarium.info/Путешествия (Journeys)/Норвегия (Norway)/thumbs/DSC03236.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Путешествия (Journeys)/Тайланд (Thailand)/album.rss" title="Тайланд (Thailand)" thumbnail="http://plantarium.info/Путешествия (Journeys)/Тайланд (Thailand)/thumbs/DSC04277.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Путешествия (Journeys)/Турция (Turkey)/album.rss" title="Турция (Turkey)" thumbnail="http://plantarium.info/Путешествия (Journeys)/Турция (Turkey)/thumbs/DSC02048.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>
