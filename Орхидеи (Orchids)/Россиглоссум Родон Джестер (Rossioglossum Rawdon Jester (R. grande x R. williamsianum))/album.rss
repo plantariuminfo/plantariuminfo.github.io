@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Россиглоссум Родон Джестер (Rossioglossum Rawdon Jester (R. grande x R. williamsianum))</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Россиглоссум Родон Джестер (Rossioglossum Rawdon Jester (R. grande x R. williamsianum))/</jalbum:absolutePath>
+        <item>
+            <title>DSC05047</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Россиглоссум Родон Джестер (Rossioglossum Rawdon Jester (R. grande x R. williamsianum))/slides/DSC05047.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:50:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Россиглоссум Родон Джестер (Rossioglossum Rawdon Jester (R. grande x R. williamsianum))/thumbs/DSC05047.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Россиглоссум Родон Джестер (Rossioglossum Rawdon Jester (R. grande x R. williamsianum))/slides/DSC05047.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:24:39 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05047.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05048</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Россиглоссум Родон Джестер (Rossioglossum Rawdon Jester (R. grande x R. williamsianum))/slides/DSC05048.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:50:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Россиглоссум Родон Джестер (Rossioglossum Rawdon Jester (R. grande x R. williamsianum))/thumbs/DSC05048.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Россиглоссум Родон Джестер (Rossioglossum Rawdon Jester (R. grande x R. williamsianum))/slides/DSC05048.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:24:50 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05048.JPG</guid>
+        </item>
+    </channel>
+</rss>

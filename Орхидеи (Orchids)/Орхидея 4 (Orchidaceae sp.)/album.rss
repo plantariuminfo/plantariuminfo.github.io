@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Орхидея 4 (Orchidaceae sp.)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Орхидея 4 (Orchidaceae sp.)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4460</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Орхидея 4 (Orchidaceae sp.)/slides/IMG_4460.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Орхидея 4 (Orchidaceae sp.)/thumbs/IMG_4460.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Орхидея 4 (Orchidaceae sp.)/slides/IMG_4460.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 12:29:14 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4460.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_4461</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Орхидея 4 (Orchidaceae sp.)/slides/IMG_4461.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Орхидея 4 (Orchidaceae sp.)/thumbs/IMG_4461.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Орхидея 4 (Orchidaceae sp.)/slides/IMG_4461.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 12:29:17 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4461.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_4462</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Орхидея 4 (Orchidaceae sp.)/slides/IMG_4462.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Орхидея 4 (Orchidaceae sp.)/thumbs/IMG_4462.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Орхидея 4 (Orchidaceae sp.)/slides/IMG_4462.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 12:29:19 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4462.jpg</guid>
+        </item>
+    </channel>
+</rss>

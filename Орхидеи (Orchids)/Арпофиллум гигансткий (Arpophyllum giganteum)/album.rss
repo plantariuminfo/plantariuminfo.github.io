@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Арпофиллум гигансткий (Arpophyllum giganteum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Арпофиллум гигансткий (Arpophyllum giganteum)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05072</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Арпофиллум гигансткий (Arpophyllum giganteum)/slides/DSC05072.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:47:19 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Арпофиллум гигансткий (Arpophyllum giganteum)/thumbs/DSC05072.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Арпофиллум гигансткий (Arpophyllum giganteum)/slides/DSC05072.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:30:10 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05072.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05076</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Арпофиллум гигансткий (Arpophyllum giganteum)/slides/DSC05076.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:47:19 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Арпофиллум гигансткий (Arpophyllum giganteum)/thumbs/DSC05076.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Арпофиллум гигансткий (Arpophyllum giganteum)/slides/DSC05076.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:31:22 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05076.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Сыть папирусная  (Cyperus papyrus)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/</jalbum:absolutePath>
+        <item>
+            <title>DSC04292</title>
+            <link>http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/slides/DSC04292.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/thumbs/DSC04292.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/slides/DSC04292.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 18 Dec 2012 12:17:16 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC04292.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05417</title>
+            <link>http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/slides/DSC05417.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/thumbs/DSC05417.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/slides/DSC05417.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Mon, 24 Dec 2012 10:16:49 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC05417.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05683</title>
+            <link>http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/slides/DSC05683.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/thumbs/DSC05683.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/slides/DSC05683.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 26 Dec 2012 09:47:41 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC05683.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05684</title>
+            <link>http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/slides/DSC05684.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/thumbs/DSC05684.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орехоплодные (Nut-fruited)/Сыть папирусная  (Cyperus papyrus)/slides/DSC05684.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 26 Dec 2012 09:47:45 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC05684.jpg</guid>
+        </item>
+    </channel>
+</rss>

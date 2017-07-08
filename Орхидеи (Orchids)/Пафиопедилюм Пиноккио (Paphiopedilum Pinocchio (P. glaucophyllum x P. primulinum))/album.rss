@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Пафиопедилюм Пиноккио (Paphiopedilum Pinocchio (P. glaucophyllum x P. primulinum))</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Пафиопедилюм Пиноккио (Paphiopedilum Pinocchio (P. glaucophyllum x P. primulinum))/</jalbum:absolutePath>
+        <item>
+            <title>DSC05038</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Пафиопедилюм Пиноккио (Paphiopedilum Pinocchio (P. glaucophyllum x P. primulinum))/slides/DSC05038.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:50:22 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Пафиопедилюм Пиноккио (Paphiopedilum Pinocchio (P. glaucophyllum x P. primulinum))/thumbs/DSC05038.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Пафиопедилюм Пиноккио (Paphiopedilum Pinocchio (P. glaucophyllum x P. primulinum))/slides/DSC05038.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:23:20 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05038.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05040</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Пафиопедилюм Пиноккио (Paphiopedilum Pinocchio (P. glaucophyllum x P. primulinum))/slides/DSC05040.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:50:22 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Пафиопедилюм Пиноккио (Paphiopedilum Pinocchio (P. glaucophyllum x P. primulinum))/thumbs/DSC05040.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Пафиопедилюм Пиноккио (Paphiopedilum Pinocchio (P. glaucophyllum x P. primulinum))/slides/DSC05040.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:23:30 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05040.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05041</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Пафиопедилюм Пиноккио (Paphiopedilum Pinocchio (P. glaucophyllum x P. primulinum))/slides/DSC05041.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:50:22 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Пафиопедилюм Пиноккио (Paphiopedilum Pinocchio (P. glaucophyllum x P. primulinum))/thumbs/DSC05041.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Пафиопедилюм Пиноккио (Paphiopedilum Pinocchio (P. glaucophyllum x P. primulinum))/slides/DSC05041.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:23:46 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05041.JPG</guid>
+        </item>
+    </channel>
+</rss>

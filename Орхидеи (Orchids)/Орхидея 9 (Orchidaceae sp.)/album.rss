@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Орхидея 9 (Orchidaceae sp.)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Орхидея 9 (Orchidaceae sp.)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4479</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Орхидея 9 (Orchidaceae sp.)/slides/IMG_4479.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Орхидея 9 (Orchidaceae sp.)/thumbs/IMG_4479.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Орхидея 9 (Orchidaceae sp.)/slides/IMG_4479.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 12:36:52 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4479.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_4481</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Орхидея 9 (Orchidaceae sp.)/slides/IMG_4481.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Орхидея 9 (Orchidaceae sp.)/thumbs/IMG_4481.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Орхидея 9 (Orchidaceae sp.)/slides/IMG_4481.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 12:37:11 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4481.jpg</guid>
+        </item>
+    </channel>
+</rss>

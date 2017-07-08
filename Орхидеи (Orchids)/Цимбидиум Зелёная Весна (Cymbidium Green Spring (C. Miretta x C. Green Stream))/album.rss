@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Цимбидиум Зелёная Весна (Cymbidium Green Spring (C. Miretta x C. Green Stream))</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Зелёная Весна (Cymbidium Green Spring (C. Miretta x C. Green Stream))/</jalbum:absolutePath>
+        <item>
+            <title>DSC05027</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Зелёная Весна (Cymbidium Green Spring (C. Miretta x C. Green Stream))/slides/DSC05027.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:50:51 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Зелёная Весна (Cymbidium Green Spring (C. Miretta x C. Green Stream))/thumbs/DSC05027.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Зелёная Весна (Cymbidium Green Spring (C. Miretta x C. Green Stream))/slides/DSC05027.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:20:39 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05027.JPG</guid>
+        </item>
+    </channel>
+</rss>

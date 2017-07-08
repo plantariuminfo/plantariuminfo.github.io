@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Орхидея 2 (Orchidaceae sp.)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Орхидея 2 (Orchidaceae sp.)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05066</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Орхидея 2 (Orchidaceae sp.)/slides/DSC05066.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Орхидея 2 (Orchidaceae sp.)/thumbs/DSC05066.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Орхидея 2 (Orchidaceae sp.)/slides/DSC05066.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 21 Dec 2012 10:07:43 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC05066.jpg</guid>
+        </item>
+    </channel>
+</rss>

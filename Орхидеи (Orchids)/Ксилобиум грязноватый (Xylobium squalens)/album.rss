@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ксилобиум грязноватый (Xylobium squalens)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Ксилобиум грязноватый (Xylobium squalens)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05016</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Ксилобиум грязноватый (Xylobium squalens)/slides/DSC05016.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:48:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Ксилобиум грязноватый (Xylobium squalens)/thumbs/DSC05016.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Ксилобиум грязноватый (Xylobium squalens)/slides/DSC05016.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:19:00 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05016.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05021</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Ксилобиум грязноватый (Xylobium squalens)/slides/DSC05021.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:48:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Ксилобиум грязноватый (Xylobium squalens)/thumbs/DSC05021.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Ксилобиум грязноватый (Xylobium squalens)/slides/DSC05021.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:19:59 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05021.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05023</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Ксилобиум грязноватый (Xylobium squalens)/slides/DSC05023.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:48:44 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Ксилобиум грязноватый (Xylobium squalens)/thumbs/DSC05023.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Ксилобиум грязноватый (Xylobium squalens)/slides/DSC05023.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:20:19 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05023.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Масдеваллия 1 (Masdevallia sp.)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Масдеваллия 1 (Masdevallia sp.)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4493</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Масдеваллия 1 (Masdevallia sp.)/slides/IMG_4493.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Масдеваллия 1 (Masdevallia sp.)/thumbs/IMG_4493.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Масдеваллия 1 (Masdevallia sp.)/slides/IMG_4493.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 12:45:43 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4493.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_4494</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Масдеваллия 1 (Masdevallia sp.)/slides/IMG_4494.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Масдеваллия 1 (Masdevallia sp.)/thumbs/IMG_4494.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Масдеваллия 1 (Masdevallia sp.)/slides/IMG_4494.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 12:45:51 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4494.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_4495</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Масдеваллия 1 (Masdevallia sp.)/slides/IMG_4495.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Масдеваллия 1 (Masdevallia sp.)/thumbs/IMG_4495.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Масдеваллия 1 (Masdevallia sp.)/slides/IMG_4495.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 12:45:55 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4495.jpg</guid>
+        </item>
+    </channel>
+</rss>

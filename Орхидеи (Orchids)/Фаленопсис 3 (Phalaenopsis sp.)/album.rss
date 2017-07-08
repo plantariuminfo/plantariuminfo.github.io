@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Фаленопсис 3 (Phalaenopsis sp.)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Фаленопсис 3 (Phalaenopsis sp.)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_4508</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Фаленопсис 3 (Phalaenopsis sp.)/slides/IMG_4508.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:29 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Фаленопсис 3 (Phalaenopsis sp.)/thumbs/IMG_4508.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Фаленопсис 3 (Phalaenopsis sp.)/slides/IMG_4508.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 12:51:12 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4508.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_4509</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Фаленопсис 3 (Phalaenopsis sp.)/slides/IMG_4509.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:29 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Фаленопсис 3 (Phalaenopsis sp.)/thumbs/IMG_4509.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Фаленопсис 3 (Phalaenopsis sp.)/slides/IMG_4509.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 12:51:16 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4509.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_4510</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Фаленопсис 3 (Phalaenopsis sp.)/slides/IMG_4510.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:29 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Фаленопсис 3 (Phalaenopsis sp.)/thumbs/IMG_4510.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Фаленопсис 3 (Phalaenopsis sp.)/slides/IMG_4510.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 27 Apr 2014 12:51:22 +0300" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_4510.jpg</guid>
+        </item>
+    </channel>
+</rss>

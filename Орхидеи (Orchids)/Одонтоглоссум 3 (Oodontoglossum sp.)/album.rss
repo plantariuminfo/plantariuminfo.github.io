@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Одонтоглоссум 3 (Oodontoglossum sp.)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Одонтоглоссум 3 (Oodontoglossum sp.)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05120</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Одонтоглоссум 3 (Oodontoglossum sp.)/slides/DSC05120.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:49:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Одонтоглоссум 3 (Oodontoglossum sp.)/thumbs/DSC05120.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Одонтоглоссум 3 (Oodontoglossum sp.)/slides/DSC05120.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:39:06 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05120.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05121</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Одонтоглоссум 3 (Oodontoglossum sp.)/slides/DSC05121.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:49:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Одонтоглоссум 3 (Oodontoglossum sp.)/thumbs/DSC05121.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Одонтоглоссум 3 (Oodontoglossum sp.)/slides/DSC05121.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:39:26 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05121.JPG</guid>
+        </item>
+    </channel>
+</rss>

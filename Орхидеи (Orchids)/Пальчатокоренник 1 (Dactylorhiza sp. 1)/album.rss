@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Пальчатокоренник 1 (Dactylorhiza sp. 1)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/</jalbum:absolutePath>
+        <item>
+            <title>DSC03663</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/slides/DSC03663.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:29 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/thumbs/DSC03663.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/slides/DSC03663.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 13 Jun 2015 17:40:09 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03663.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03664</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/slides/DSC03664.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:29 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/thumbs/DSC03664.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/slides/DSC03664.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 13 Jun 2015 17:41:36 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03664.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03665</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/slides/DSC03665.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:29 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/thumbs/DSC03665.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/slides/DSC03665.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 13 Jun 2015 17:41:44 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03665.jpg</guid>
+        </item>
+        <item>
+            <title>DSC03666</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/slides/DSC03666.jpg</link>
+            <pubDate>Wed, 14 Jun 2017 20:50:29 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/thumbs/DSC03666.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Пальчатокоренник 1 (Dactylorhiza sp. 1)/slides/DSC03666.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 13 Jun 2015 17:41:51 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03666.jpg</guid>
+        </item>
+    </channel>
+</rss>

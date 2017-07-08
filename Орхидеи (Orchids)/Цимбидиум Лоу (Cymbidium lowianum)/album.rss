@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Цимбидиум Лоу (Cymbidium lowianum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05099</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/slides/DSC05099.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:50:53 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/thumbs/DSC05099.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/slides/DSC05099.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:36:04 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05099.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05100</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/slides/DSC05100.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:50:53 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/thumbs/DSC05100.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/slides/DSC05100.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:36:09 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05100.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05101</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/slides/DSC05101.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:50:53 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/thumbs/DSC05101.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/slides/DSC05101.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:36:14 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05101.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05102</title>
+            <link>http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/slides/DSC05102.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:50:53 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/thumbs/DSC05102.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Орхидеи (Orchids)/Цимбидиум Лоу (Cymbidium lowianum)/slides/DSC05102.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:36:26 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05102.JPG</guid>
+        </item>
+    </channel>
+</rss>
