@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Шиповник болотный (Rosa palustris)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Шиповник болотный (Rosa palustris)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC05709_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник болотный (Rosa palustris)/slides/0DSC05709_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник болотный (Rosa palustris)/thumbs/0DSC05709_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник болотный (Rosa palustris)/slides/0DSC05709_.jpg" width="1024" height="739"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:55:12 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC05709_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05708</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник болотный (Rosa palustris)/slides/DSC05708.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник болотный (Rosa palustris)/thumbs/DSC05708.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник болотный (Rosa palustris)/slides/DSC05708.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:54:58 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05708.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05709</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник болотный (Rosa palustris)/slides/DSC05709.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник болотный (Rosa palustris)/thumbs/DSC05709.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник болотный (Rosa palustris)/slides/DSC05709.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:55:12 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05709.JPG</guid>
+        </item>
+    </channel>
+</rss>

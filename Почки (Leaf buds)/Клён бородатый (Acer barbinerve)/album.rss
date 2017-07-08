@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Клён бородатый (Acer barbinerve)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC05848_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/slides/0DSC05848_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/thumbs/0DSC05848_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/slides/0DSC05848_.jpg" width="1024" height="942"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 13:54:59 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC05848_.jpg</guid>
+        </item>
+        <item>
+            <title>00DSC05849_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/slides/00DSC05849_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/thumbs/00DSC05849_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/slides/00DSC05849_.jpg" width="1024" height="867"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 13:55:17 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/00DSC05849_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05848</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/slides/DSC05848.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/thumbs/DSC05848.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/slides/DSC05848.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 13:54:59 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05848.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05849</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/slides/DSC05849.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:21 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/thumbs/DSC05849.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Клён бородатый (Acer barbinerve)/slides/DSC05849.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 13:55:17 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05849.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Лох серебристый (Elaeagnus commutata)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Лох серебристый (Elaeagnus commutata)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02115</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Лох серебристый (Elaeagnus commutata)/slides/DSC02115.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:34 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Лох серебристый (Elaeagnus commutata)/thumbs/DSC02115.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Лох серебристый (Elaeagnus commutata)/slides/DSC02115.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 13:25:22 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02115.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02117</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Лох серебристый (Elaeagnus commutata)/slides/DSC02117.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:34 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Лох серебристый (Elaeagnus commutata)/thumbs/DSC02117.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Лох серебристый (Elaeagnus commutata)/slides/DSC02117.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 13:25:57 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02117.jpg</guid>
+        </item>
+    </channel>
+</rss>

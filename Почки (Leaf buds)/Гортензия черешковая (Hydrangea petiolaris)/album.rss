@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гортензия черешковая (Hydrangea petiolaris)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC05889_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/slides/0DSC05889_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:47 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/thumbs/0DSC05889_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/slides/0DSC05889_.jpg" width="720" height="1024"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 14:21:00 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC05889_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05887</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/slides/DSC05887.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:47 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/thumbs/DSC05887.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/slides/DSC05887.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 14:20:25 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05887.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05887_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/slides/DSC05887_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:47 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/thumbs/DSC05887_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/slides/DSC05887_.jpg" width="715" height="1024"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 14:20:25 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05887_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05887__</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/slides/DSC05887__.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:47 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/thumbs/DSC05887__.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/slides/DSC05887__.jpg" width="542" height="512"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 14:20:25 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05887__.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05889</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/slides/DSC05889.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:47 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/thumbs/DSC05889.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Гортензия черешковая (Hydrangea petiolaris)/slides/DSC05889.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 14:21:00 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05889.JPG</guid>
+        </item>
+    </channel>
+</rss>

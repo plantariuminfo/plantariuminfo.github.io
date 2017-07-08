@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Шиповник голубовато-серый (Rosa caesia)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05718</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/slides/DSC05718.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/thumbs/DSC05718.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/slides/DSC05718.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:57:15 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05718.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05718_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/slides/DSC05718_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/thumbs/DSC05718_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/slides/DSC05718_.jpg" width="1024" height="824"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:57:15 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05718_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05719</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/slides/DSC05719.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/thumbs/DSC05719.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/slides/DSC05719.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:57:22 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05719.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05719_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/slides/DSC05719_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/thumbs/DSC05719_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник голубовато-серый (Rosa caesia)/slides/DSC05719_.jpg" width="1024" height="722"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:57:22 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05719_.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Черёмуха, Церападус, Вишня Маака, медвежья,  железистолистный, железистая (Prunus maackii)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Черёмуха, Церападус, Вишня Маака, медвежья,  железистолистный, железистая (Prunus maackii)/</jalbum:absolutePath>
+        <item>
+            <title>DSC09303</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Черёмуха, Церападус, Вишня Маака, медвежья,  железистолистный, железистая (Prunus maackii)/slides/DSC09303.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Черёмуха, Церападус, Вишня Маака, медвежья,  железистолистный, железистая (Prunus maackii)/thumbs/DSC09303.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Черёмуха, Церападус, Вишня Маака, медвежья,  железистолистный, железистая (Prunus maackii)/slides/DSC09303.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 23 Apr 2016 15:58:49 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC09303.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09304</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Черёмуха, Церападус, Вишня Маака, медвежья,  железистолистный, железистая (Prunus maackii)/slides/DSC09304.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Черёмуха, Церападус, Вишня Маака, медвежья,  железистолистный, железистая (Prunus maackii)/thumbs/DSC09304.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Черёмуха, Церападус, Вишня Маака, медвежья,  железистолистный, железистая (Prunus maackii)/slides/DSC09304.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 23 Apr 2016 15:59:10 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC09304.jpg</guid>
+        </item>
+    </channel>
+</rss>

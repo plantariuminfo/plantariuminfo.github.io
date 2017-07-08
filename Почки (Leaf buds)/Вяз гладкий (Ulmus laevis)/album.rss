@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Вяз гладкий (Ulmus laevis)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00093</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/slides/DSC00093.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:45 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/thumbs/DSC00093.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/slides/DSC00093.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 04 May 2012 09:38:21 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00093.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06926</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/slides/DSC06926.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:45 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/thumbs/DSC06926.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/slides/DSC06926.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 09 May 2017 17:47:41 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06926.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06929</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/slides/DSC06929.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:45 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/thumbs/DSC06929.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/slides/DSC06929.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 09 May 2017 17:47:52 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06929.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06931</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/slides/DSC06931.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:45 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/thumbs/DSC06931.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/slides/DSC06931.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 09 May 2017 17:48:23 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06931.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06949</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/slides/DSC06949.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:45 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/thumbs/DSC06949.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Вяз гладкий (Ulmus laevis)/slides/DSC06949.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 09 May 2017 17:53:05 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06949.JPG</guid>
+        </item>
+    </channel>
+</rss>

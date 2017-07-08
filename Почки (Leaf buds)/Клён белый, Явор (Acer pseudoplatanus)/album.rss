@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Клён белый, Явор (Acer pseudoplatanus)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/</jalbum:absolutePath>
+        <item>
+            <title>DSC06965</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/slides/DSC06965.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:20 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/thumbs/DSC06965.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/slides/DSC06965.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Tue, 09 May 2017 17:56:30 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06965.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06968</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/slides/DSC06968.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:20 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/thumbs/DSC06968.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/slides/DSC06968.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Tue, 09 May 2017 17:56:43 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06968.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06970</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/slides/DSC06970.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:20 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/thumbs/DSC06970.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/slides/DSC06970.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 09 May 2017 17:57:09 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06970.JPG</guid>
+        </item>
+        <item>
+            <title>DSC06973</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/slides/DSC06973.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:20 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/thumbs/DSC06973.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Клён белый, Явор (Acer pseudoplatanus)/slides/DSC06973.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 09 May 2017 17:57:25 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC06973.JPG</guid>
+        </item>
+    </channel>
+</rss>

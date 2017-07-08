@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Черемуха обыкновенная (Prunus padus)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00005</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/slides/DSC00005.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:17 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/thumbs/DSC00005.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/slides/DSC00005.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 27 Apr 2012 19:04:04 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00005.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00006</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/slides/DSC00006.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:17 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/thumbs/DSC00006.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/slides/DSC00006.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 27 Apr 2012 19:04:09 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00006.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00007</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/slides/DSC00007.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:17 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/thumbs/DSC00007.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/slides/DSC00007.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 27 Apr 2012 19:04:29 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00007.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00008</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/slides/DSC00008.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:17 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/thumbs/DSC00008.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Черемуха обыкновенная (Prunus padus)/slides/DSC00008.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 27 Apr 2012 19:04:57 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00008.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Нефролепис сердцелистный (Nephrolepis cordifolia)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00115</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/slides/DSC00115.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:12 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/thumbs/DSC00115.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/slides/DSC00115.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 12 Oct 2013 14:00:41 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00115.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00116</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/slides/DSC00116.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:12 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/thumbs/DSC00116.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/slides/DSC00116.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 12 Oct 2013 14:00:47 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00116.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00117</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/slides/DSC00117.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:12 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/thumbs/DSC00117.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/slides/DSC00117.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 12 Oct 2013 14:00:54 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00117.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3166</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/slides/IMG_3166.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:12 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/thumbs/IMG_3166.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/slides/IMG_3166.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 12:31:07 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3166.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3167</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/slides/IMG_3167.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:12 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/thumbs/IMG_3167.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Нефролепис сердцелистный (Nephrolepis cordifolia)/slides/IMG_3167.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 30 Jan 2014 12:31:12 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3167.jpg</guid>
+        </item>
+    </channel>
+</rss>

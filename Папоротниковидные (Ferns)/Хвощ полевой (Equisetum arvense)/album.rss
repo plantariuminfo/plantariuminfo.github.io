@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Хвощ полевой (Equisetum arvense)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02008</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/slides/DSC02008.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:33 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/thumbs/DSC02008.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/slides/DSC02008.jpg" width="1024" height="576"/>
+            <jalbum:exif originalDate="Wed, 05 May 2010 16:13:28 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02008.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06638</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/slides/DSC06638.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:33 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/thumbs/DSC06638.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/slides/DSC06638.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 15:01:27 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06638.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06639</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/slides/DSC06639.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:33 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/thumbs/DSC06639.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/slides/DSC06639.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 15:01:33 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06639.jpg</guid>
+        </item>
+        <item>
+            <title>DSC06640</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/slides/DSC06640.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:33 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/thumbs/DSC06640.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ полевой (Equisetum arvense)/slides/DSC06640.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 08 May 2013 15:01:39 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC06640.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Стефанандра Танаки (Stephanandra tanakae)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC05786_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/slides/0DSC05786_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:05 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/thumbs/0DSC05786_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/slides/0DSC05786_.jpg" width="1024" height="666"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 12:40:06 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC05786_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05785</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/slides/DSC05785.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:05 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/thumbs/DSC05785.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/slides/DSC05785.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 12:39:25 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05785.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05785_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/slides/DSC05785_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:05 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/thumbs/DSC05785_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/slides/DSC05785_.jpg" width="1024" height="970"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 12:39:25 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05785_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05786</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/slides/DSC05786.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:05 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/thumbs/DSC05786.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Стефанандра Танаки (Stephanandra tanakae)/slides/DSC05786.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 12:40:06 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05786.JPG</guid>
+        </item>
+    </channel>
+</rss>

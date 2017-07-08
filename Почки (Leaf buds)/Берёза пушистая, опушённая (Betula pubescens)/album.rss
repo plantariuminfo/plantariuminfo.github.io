@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Берёза пушистая, опушённая (Betula pubescens)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Берёза пушистая, опушённая (Betula pubescens)/</jalbum:absolutePath>
+        <item>
+            <title>DSC09334</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Берёза пушистая, опушённая (Betula pubescens)/slides/DSC09334.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:33 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Берёза пушистая, опушённая (Betula pubescens)/thumbs/DSC09334.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Берёза пушистая, опушённая (Betula pubescens)/slides/DSC09334.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 24 Apr 2016 14:01:45 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC09334.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09335</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Берёза пушистая, опушённая (Betula pubescens)/slides/DSC09335.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:33 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Берёза пушистая, опушённая (Betula pubescens)/thumbs/DSC09335.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Берёза пушистая, опушённая (Betula pubescens)/slides/DSC09335.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 24 Apr 2016 14:03:04 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC09335.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09336</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Берёза пушистая, опушённая (Betula pubescens)/slides/DSC09336.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:33 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Берёза пушистая, опушённая (Betula pubescens)/thumbs/DSC09336.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Берёза пушистая, опушённая (Betula pubescens)/slides/DSC09336.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 24 Apr 2016 14:03:51 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC09336.jpg</guid>
+        </item>
+    </channel>
+</rss>

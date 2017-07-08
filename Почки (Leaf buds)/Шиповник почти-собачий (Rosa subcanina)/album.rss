@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Шиповник почти-собачий (Rosa subcanina)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC05721_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/slides/0DSC05721_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/thumbs/0DSC05721_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/slides/0DSC05721_.jpg" width="1024" height="895"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:57:55 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC05721_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05721</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/slides/DSC05721.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/thumbs/DSC05721.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/slides/DSC05721.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:57:55 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05721.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05722</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/slides/DSC05722.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/thumbs/DSC05722.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/slides/DSC05722.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:58:06 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05722.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05723</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/slides/DSC05723.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/thumbs/DSC05723.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/slides/DSC05723.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:58:08 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05723.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05724</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/slides/DSC05724.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/thumbs/DSC05724.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник почти-собачий (Rosa subcanina)/slides/DSC05724.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:58:34 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05724.JPG</guid>
+        </item>
+    </channel>
+</rss>

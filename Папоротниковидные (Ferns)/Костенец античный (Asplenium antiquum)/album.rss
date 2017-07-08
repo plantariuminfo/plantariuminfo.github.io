@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Костенец античный (Asplenium antiquum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Папоротниковидные (Ferns)/Костенец античный (Asplenium antiquum)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_3092</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Костенец античный (Asplenium antiquum)/slides/IMG_3092.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:52 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Костенец античный (Asplenium antiquum)/thumbs/IMG_3092.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Костенец античный (Asplenium antiquum)/slides/IMG_3092.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 26 Jan 2014 14:48:38 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3092.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3093</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Костенец античный (Asplenium antiquum)/slides/IMG_3093.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:52 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Костенец античный (Asplenium antiquum)/thumbs/IMG_3093.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Костенец античный (Asplenium antiquum)/slides/IMG_3093.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 26 Jan 2014 14:48:46 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3093.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3094</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Костенец античный (Asplenium antiquum)/slides/IMG_3094.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:52:52 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Костенец античный (Asplenium antiquum)/thumbs/IMG_3094.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Костенец античный (Asplenium antiquum)/slides/IMG_3094.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 26 Jan 2014 14:48:52 +0200" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/IMG_3094.jpg</guid>
+        </item>
+    </channel>
+</rss>

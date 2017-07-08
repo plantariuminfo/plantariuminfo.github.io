@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Нотофагус антарктический, Ньире (Nothofagus antarctica)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Нотофагус антарктический, Ньире (Nothofagus antarctica)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05677</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Нотофагус антарктический, Ньире (Nothofagus antarctica)/slides/DSC05677.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Нотофагус антарктический, Ньире (Nothofagus antarctica)/thumbs/DSC05677.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Нотофагус антарктический, Ньире (Nothofagus antarctica)/slides/DSC05677.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:41:54 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05677.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05677_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Нотофагус антарктический, Ньире (Nothofagus antarctica)/slides/DSC05677_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:41 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Нотофагус антарктический, Ньире (Nothofagus antarctica)/thumbs/DSC05677_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Нотофагус антарктический, Ньире (Nothofagus antarctica)/slides/DSC05677_.jpg" width="1024" height="710"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:41:54 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05677_.jpg</guid>
+        </item>
+    </channel>
+</rss>

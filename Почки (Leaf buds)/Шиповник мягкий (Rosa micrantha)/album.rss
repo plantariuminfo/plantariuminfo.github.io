@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Шиповник мягкий (Rosa micrantha)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC05755_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/slides/0DSC05755_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:33 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/thumbs/0DSC05755_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/slides/0DSC05755_.jpg" width="902" height="695"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 12:21:59 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC05755_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05754</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/slides/DSC05754.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:33 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/thumbs/DSC05754.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/slides/DSC05754.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 12:21:39 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05754.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05755</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/slides/DSC05755.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:33 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/thumbs/DSC05755.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/slides/DSC05755.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 12:21:59 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05755.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05756</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/slides/DSC05756.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:33 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/thumbs/DSC05756.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник мягкий (Rosa micrantha)/slides/DSC05756.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 12:22:15 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05756.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Хвощ лесной (Equisetum sylvaticum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Папоротниковидные (Ferns)/Хвощ лесной (Equisetum sylvaticum)/</jalbum:absolutePath>
+        <item>
+            <title>DSC01286</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Хвощ лесной (Equisetum sylvaticum)/slides/DSC01286.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ лесной (Equisetum sylvaticum)/thumbs/DSC01286.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ лесной (Equisetum sylvaticum)/slides/DSC01286.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 09 Jun 2012 16:30:59 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC01286.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09110</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Хвощ лесной (Equisetum sylvaticum)/slides/DSC09110.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ лесной (Equisetum sylvaticum)/thumbs/DSC09110.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ лесной (Equisetum sylvaticum)/slides/DSC09110.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 04 Aug 2013 12:49:34 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09110.jpg</guid>
+        </item>
+        <item>
+            <title>DSC09111</title>
+            <link>http://plantarium.info/Папоротниковидные (Ferns)/Хвощ лесной (Equisetum sylvaticum)/slides/DSC09111.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:53:31 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ лесной (Equisetum sylvaticum)/thumbs/DSC09111.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Папоротниковидные (Ferns)/Хвощ лесной (Equisetum sylvaticum)/slides/DSC09111.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 04 Aug 2013 12:49:38 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC09111.jpg</guid>
+        </item>
+    </channel>
+</rss>

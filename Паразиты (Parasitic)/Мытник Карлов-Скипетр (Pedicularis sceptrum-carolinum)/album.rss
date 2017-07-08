@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Мытник Карлов-Скипетр (Pedicularis sceptrum-carolinum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Паразиты (Parasitic)/Мытник Карлов-Скипетр (Pedicularis sceptrum-carolinum)/</jalbum:absolutePath>
+        <item>
+            <title>DSC03893</title>
+            <link>http://plantarium.info/Паразиты (Parasitic)/Мытник Карлов-Скипетр (Pedicularis sceptrum-carolinum)/slides/DSC03893.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:42:36 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Паразиты (Parasitic)/Мытник Карлов-Скипетр (Pedicularis sceptrum-carolinum)/thumbs/DSC03893.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Паразиты (Parasitic)/Мытник Карлов-Скипетр (Pedicularis sceptrum-carolinum)/slides/DSC03893.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 14 Jun 2015 11:52:43 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03893.jpg</guid>
+        </item>
+    </channel>
+</rss>

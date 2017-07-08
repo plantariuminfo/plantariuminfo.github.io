@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Эскаллония прутьевидная (Escallonia virgata)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC05670_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/slides/0DSC05670_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:42 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/thumbs/0DSC05670_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/slides/0DSC05670_.jpg" width="1024" height="800"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:39:14 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC05670_.jpg</guid>
+        </item>
+        <item>
+            <title>00DSC05670__</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/slides/00DSC05670__.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:42 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/thumbs/00DSC05670__.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/slides/00DSC05670__.jpg" width="1024" height="713"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:39:14 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/00DSC05670__.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05668</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/slides/DSC05668.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:42 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/thumbs/DSC05668.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/slides/DSC05668.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:39:00 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05668.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05669</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/slides/DSC05669.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:42 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/thumbs/DSC05669.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/slides/DSC05669.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:39:12 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05669.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05670</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/slides/DSC05670.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:42 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/thumbs/DSC05670.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Эскаллония прутьевидная (Escallonia virgata)/slides/DSC05670.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:39:14 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05670.JPG</guid>
+        </item>
+    </channel>
+</rss>

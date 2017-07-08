@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Клён остролистный (Acer platanoides)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/</jalbum:absolutePath>
+        <item>
+            <title>DSC07178</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/slides/DSC07178.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:26 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/thumbs/DSC07178.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/slides/DSC07178.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 13 May 2017 18:40:26 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07178.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07179</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/slides/DSC07179.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:26 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/thumbs/DSC07179.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/slides/DSC07179.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 13 May 2017 18:40:31 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07179.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07180</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/slides/DSC07180.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:26 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/thumbs/DSC07180.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/slides/DSC07180.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 13 May 2017 18:40:38 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07180.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07184</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/slides/DSC07184.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:26 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/thumbs/DSC07184.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Клён остролистный (Acer platanoides)/slides/DSC07184.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 13 May 2017 18:41:17 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC07184.JPG</guid>
+        </item>
+    </channel>
+</rss>

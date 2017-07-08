@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Шиповник каролинский разн. крупноцветковая (Rosa carolina var. grandiflora)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Шиповник каролинский разн. крупноцветковая (Rosa carolina var. grandiflora)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC05705_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник каролинский разн. крупноцветковая (Rosa carolina var. grandiflora)/slides/0DSC05705_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник каролинский разн. крупноцветковая (Rosa carolina var. grandiflora)/thumbs/0DSC05705_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник каролинский разн. крупноцветковая (Rosa carolina var. grandiflora)/slides/0DSC05705_.jpg" width="895" height="1024"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:54:05 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC05705_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05705</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник каролинский разн. крупноцветковая (Rosa carolina var. grandiflora)/slides/DSC05705.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник каролинский разн. крупноцветковая (Rosa carolina var. grandiflora)/thumbs/DSC05705.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник каролинский разн. крупноцветковая (Rosa carolina var. grandiflora)/slides/DSC05705.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:54:05 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05705.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05706</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Шиповник каролинский разн. крупноцветковая (Rosa carolina var. grandiflora)/slides/DSC05706.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Шиповник каролинский разн. крупноцветковая (Rosa carolina var. grandiflora)/thumbs/DSC05706.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Шиповник каролинский разн. крупноцветковая (Rosa carolina var. grandiflora)/slides/DSC05706.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:54:18 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05706.JPG</guid>
+        </item>
+    </channel>
+</rss>

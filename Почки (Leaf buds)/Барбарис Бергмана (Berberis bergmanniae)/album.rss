@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Барбарис Бергмана (Berberis bergmanniae)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Барбарис Бергмана (Berberis bergmanniae)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC05675_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Барбарис Бергмана (Berberis bergmanniae)/slides/0DSC05675_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Барбарис Бергмана (Berberis bergmanniae)/thumbs/0DSC05675_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Барбарис Бергмана (Berberis bergmanniae)/slides/0DSC05675_.jpg" width="1024" height="643"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:40:45 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC05675_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05674</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Барбарис Бергмана (Berberis bergmanniae)/slides/DSC05674.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Барбарис Бергмана (Berberis bergmanniae)/thumbs/DSC05674.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Барбарис Бергмана (Berberis bergmanniae)/slides/DSC05674.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:40:27 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05674.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05675</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Барбарис Бергмана (Berberis bergmanniae)/slides/DSC05675.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Барбарис Бергмана (Berberis bergmanniae)/thumbs/DSC05675.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Барбарис Бергмана (Berberis bergmanniae)/slides/DSC05675.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:40:45 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05675.JPG</guid>
+        </item>
+    </channel>
+</rss>

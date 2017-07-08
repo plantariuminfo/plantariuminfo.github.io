@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ива козья разнв. козья (Salix caprea var. caprea)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00072</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/slides/DSC00072.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:07 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/thumbs/DSC00072.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/slides/DSC00072.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 26 Apr 2012 19:10:01 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00072.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00229</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/slides/DSC00229.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:07 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/thumbs/DSC00229.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/slides/DSC00229.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 10 May 2012 19:07:19 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00229.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00230</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/slides/DSC00230.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:07 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/thumbs/DSC00230.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/slides/DSC00230.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 10 May 2012 19:07:38 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00230.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00231</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/slides/DSC00231.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:07 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/thumbs/DSC00231.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Ива козья разнв. козья (Salix caprea var. caprea)/slides/DSC00231.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 10 May 2012 19:07:44 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00231.jpg</guid>
+        </item>
+    </channel>
+</rss>

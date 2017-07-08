@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Жостер скальный (Rhamnus saxatilis)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Жостер скальный (Rhamnus saxatilis)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05692</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Жостер скальный (Rhamnus saxatilis)/slides/DSC05692.JPG</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:01 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Жостер скальный (Rhamnus saxatilis)/thumbs/DSC05692.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Жостер скальный (Rhamnus saxatilis)/slides/DSC05692.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:48:28 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05692.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05692_</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Жостер скальный (Rhamnus saxatilis)/slides/DSC05692_.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:56:01 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Жостер скальный (Rhamnus saxatilis)/thumbs/DSC05692_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Жостер скальный (Rhamnus saxatilis)/slides/DSC05692_.jpg" width="1024" height="887"/>
+            <jalbum:exif originalDate="Sat, 15 Apr 2017 09:48:28 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05692_.jpg</guid>
+        </item>
+    </channel>
+</rss>

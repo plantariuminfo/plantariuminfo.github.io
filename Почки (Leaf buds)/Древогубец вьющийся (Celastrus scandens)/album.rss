@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Древогубец вьющийся (Celastrus scandens)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Древогубец вьющийся (Celastrus scandens)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02102</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Древогубец вьющийся (Celastrus scandens)/slides/DSC02102.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:52 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Древогубец вьющийся (Celastrus scandens)/thumbs/DSC02102.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Древогубец вьющийся (Celastrus scandens)/slides/DSC02102.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 13:19:10 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02102.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02103</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Древогубец вьющийся (Celastrus scandens)/slides/DSC02103.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:52 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Древогубец вьющийся (Celastrus scandens)/thumbs/DSC02103.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Древогубец вьющийся (Celastrus scandens)/slides/DSC02103.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 13:19:21 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02103.jpg</guid>
+        </item>
+        <item>
+            <title>DSC02104</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Древогубец вьющийся (Celastrus scandens)/slides/DSC02104.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:55:52 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Древогубец вьющийся (Celastrus scandens)/thumbs/DSC02104.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Древогубец вьющийся (Celastrus scandens)/slides/DSC02104.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 13:19:39 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02104.jpg</guid>
+        </item>
+    </channel>
+</rss>

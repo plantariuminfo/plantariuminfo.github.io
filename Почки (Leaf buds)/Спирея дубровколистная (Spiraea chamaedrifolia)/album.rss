@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Спирея дубровколистная (Spiraea chamaedrifolia)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Почки (Leaf buds)/Спирея дубровколистная (Spiraea chamaedrifolia)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00099</title>
+            <link>http://plantarium.info/Почки (Leaf buds)/Спирея дубровколистная (Spiraea chamaedrifolia)/slides/DSC00099.jpg</link>
+            <pubDate>Fri, 07 Jul 2017 23:57:05 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Почки (Leaf buds)/Спирея дубровколистная (Spiraea chamaedrifolia)/thumbs/DSC00099.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Почки (Leaf buds)/Спирея дубровколистная (Spiraea chamaedrifolia)/slides/DSC00099.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 05 May 2012 16:55:42 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00099.jpg</guid>
+        </item>
+    </channel>
+</rss>
