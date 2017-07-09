@@ -890,14 +890,14 @@ a.control:hover {
 
 #main .container {
 	position: relative;
-	width: 1640px;
+	width: 1604px;
 	height: 100%;
 	max-height: 100%;
 	zoom: 1;
 	margin: 0 auto;
 }
 #main header {
-	margin-left: 20px;
+	margin-left: 2px;
 }
 #main header .title aside {
 	float: right;
@@ -916,7 +916,7 @@ a.control:hover {
 	font-size: 140%;
 }
 #main .items {
-	width: 1640px;
+	width: 1604px;
 	margin: 0;
 	overflow-x: hidden;
 	overflow-y: auto;
@@ -1188,7 +1188,7 @@ a.control:hover {
 
 .left-box {
 	margin-top: 20px;
-	margin-left: 20px;
+	margin-left: 2px;
 	min-height: 120px;
 }
 
@@ -1196,7 +1196,7 @@ a.control:hover {
 
 #main .items > .cont {
 	display: block;
-	width: 1640px;
+	width: 1604px;
 	padding-right: 0px;
 }
 
@@ -1205,7 +1205,7 @@ a.control:hover {
 #main footer {
 	clear: both;
 	display: block;
-	margin: 10px 20px;
+	margin: 10px 2px;
 	text-align: center;
 }
 #main footer .wrap {
@@ -1360,7 +1360,7 @@ a.control:hover {
 #main article {
 	display: block;
 	position: relative;
-	margin: 0 20px;
+	margin: 0 2px;
 	padding: 20px;
 	color: #000000;
 	background-color: rgba(255,255,255,0.1);
@@ -1385,11 +1385,11 @@ a.control:hover {
 .thumbs,
 .folders {
 	table-layout: fixed;
-	width: 1640px;
+	width: 1604px;
 	clear: both;
 	border-collapse: separate;
-	border-spacing: 20px;
-	margin-top: -20px;
+	border-spacing: 2px;
+	margin-top: -2px;
 }
 .ie7 .folders {
 	margin-right: -20px;
@@ -1405,7 +1405,7 @@ a.control:hover {
 }
 .folders td {
 	width: 25%;
-	max-width: 385px;
+	max-width: 398px;
 	background-color: rgba(255,255,255,0.1);
 	transition: background-color 250ms linear;
 	overflow: hidden;
@@ -1450,7 +1450,7 @@ a.control:hover {
 
 .folders aside {
 	position: relative;
-	margin: 67px auto 0.5em auto;
+	margin: 7px auto 0.5em auto;
 	display: table;
 	text-align: center;
 	border-collapse: collapse;
@@ -1462,23 +1462,23 @@ a.control:hover {
 }
 .folders aside a {
 	display: table-cell;
-	width: 251px;
-	height: 208px;
+	width: 384px;
+	height: 319px;
 	vertical-align: middle;
 }
 .ie7 .folders aside a {
 	display: block;
 }
 .folders aside a img {
-	max-width: 251px;
-	max-height: 208px;
+	max-width: 384px;
+	max-height: 319px;
 	vertical-align: top;
 	border: none;
 }
 .folders .data {
 	overflow-x: hidden;
 	padding: 0.8em 10px;
-	max-width: 365px;
+	max-width: 378px;
 	text-align: center;
 	-webkit-overflow-scrolling: touch;
 	overflow-scrolling: touch;
@@ -1513,17 +1513,17 @@ a.control:hover {
 .neighbors {
 	clear: both;
 	line-height: 40px;
-	margin: 0 20px 20px 20px;
+	margin: 0 2px 2px 2px;
 }
 .neighbors a {
 	display: inline-block;
 	vertical-align: top;
 	color: #000000;
-	max-width: 656px;
+	max-width: 785px;
 	max-height: 40px;
 	white-space: nowrap;
 	overflow: hidden;
-	padding: 67px;
+	padding: 7px;
 	background-color: rgba(255,255,255,0.1);
 	transition: background-color 250ms linear;
 	-webkit-transition: background-color 250ms linear;
@@ -1572,12 +1572,12 @@ a.control:hover {
 /******************************************* Thumbnail grid on index page */
 
 .thumbs td {
-	width: 33.333333333333336%;
+	width: 25%;
 	padding: 0;
 	background-color: rgba(255,255,255,0.1);
 }
 /*.thumbs table td {
-	width: 519px;
+	width: 399px;
 }*/
 .thumbs td > a {
 	display: block;
@@ -1586,7 +1586,7 @@ a.control:hover {
 	line-height: 316px;
 	overflow: hidden;
 	text-align: center;
-	padding: 67px 67px 10px 67px;
+	padding: 7px 7px 7px 7px;
 	-moz-border-top-left-radius:5px; -moz-border-top-right-radius:5px; border-top-left-radius:5px; border-top-right-radius:5px;
 	transition: background-color 250ms linear;
 	-webkit-transition: background-color 250ms linear;
@@ -1636,7 +1636,7 @@ a.control:hover {
 	margin: 0;
 	padding: 0.5em 8px;
 	line-height: 1.2;
-	max-width: 503px;
+	max-width: 383px;
 	overflow-x: hidden;
 	text-align: center;
 	-webkit-overflow-scrolling: touch;
@@ -1680,8 +1680,8 @@ a.control:hover {
 }
 .thumbs .newlabel {
 	line-height: 12px;
-	right: 67px;
-	top: 67px;
+	right: 7px;
+	top: 7px;
 }	
 .folders .newlabel {
 	line-height: 12px;
@@ -1720,8 +1720,8 @@ a.control:hover {
 .thumbs .checkbox {
 	width: 20px;
 	height: 20px;
-	left: 67px;
-	top: 67px;
+	left: 7px;
+	top: 7px;
 }
 .gallery .main .checkbox {
 	width: 24px;
@@ -1758,7 +1758,7 @@ a.control:hover {
 /******************************************* Actions */
 
 .actions {
-	margin: 10px 20px;
+	margin: 10px 2px;
 	min-height: 30px;
 	-moz-border-radius:5px; border-radius:5px;
 }
@@ -1793,8 +1793,8 @@ a.control:hover {
 
 #map {
 	display: block;
-	margin: 0 20px;
-	padding: 67px;
+	margin: 0 2px;
+	padding: 7px;
 	background-color: rgba(255,255,255,0.1);
 	overflow: hidden;
 	-moz-border-radius:5px; border-radius:5px;
@@ -1805,7 +1805,7 @@ a.control:hover {
 }
 #map .cont {
 	position: relative;
-	width: 1466px;
+	width: 1586px;
 	height: 300px;
 }
 
@@ -1814,13 +1814,13 @@ a.control:hover {
 .fb-comments, 
 .disqus-comments {
 	margin-top: 20px;
-	margin-left: 20px;
-	margin-right: 20px;
+	margin-left: 2px;
+	margin-right: 2px;
 }
 .disqus-comments {
-	padding: 67px;
+	padding: 7px;
 	background-color: rgba(255,255,255,0.1);
-	width: 1466px;
+	width: 1586px;
 	-moz-border-radius:5px; border-radius:5px;
 }
 
@@ -2107,7 +2107,7 @@ a.control:hover {
 	top: 0;
 	left: 0;
 	display: block;
-	width: 1600px;
+	width: 1564px;
 	height: 233px;
 	max-width: 80%;
 	margin: 0 auto;
@@ -2335,7 +2335,7 @@ a.control:hover {
 }
 .gallery .bottom .cont {
 	position: relative;
-	width: 1570px;
+	width: 1534px;
 	max-width: 80%;
 	margin: 0 auto;
 	padding: 5px 8px 6px 15px;
