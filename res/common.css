@@ -3757,6 +3757,7 @@ span.jp-artist {
 .folders aside a img {
 	max-width: inherit;
 	max-height: inherit;
+	float: left;
 }
 
 .folders aside a {
