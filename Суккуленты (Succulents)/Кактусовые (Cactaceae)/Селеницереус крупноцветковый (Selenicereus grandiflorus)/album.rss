@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Селеницереус крупноцветковый (Selenicereus grandiflorus)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Селеницереус крупноцветковый (Selenicereus grandiflorus)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC08767</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Селеницереус крупноцветковый (Selenicereus grandiflorus)/slides/0DSC08767.JPG</link>
+            <pubDate>Mon, 10 Jul 2017 23:08:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Селеницереус крупноцветковый (Selenicereus grandiflorus)/thumbs/0DSC08767.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Селеницереус крупноцветковый (Selenicereus grandiflorus)/slides/0DSC08767.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 07 Jul 2017 16:20:01 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC08767.JPG</guid>
+        </item>
+        <item>
+            <title>DSC08766</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Селеницереус крупноцветковый (Selenicereus grandiflorus)/slides/DSC08766.JPG</link>
+            <pubDate>Mon, 10 Jul 2017 23:08:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Селеницереус крупноцветковый (Selenicereus grandiflorus)/thumbs/DSC08766.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Селеницереус крупноцветковый (Selenicereus grandiflorus)/slides/DSC08766.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 07 Jul 2017 16:19:50 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08766.JPG</guid>
+        </item>
+        <item>
+            <title>DSC08768</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Селеницереус крупноцветковый (Selenicereus grandiflorus)/slides/DSC08768.JPG</link>
+            <pubDate>Mon, 10 Jul 2017 23:08:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Селеницереус крупноцветковый (Selenicereus grandiflorus)/thumbs/DSC08768.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Селеницереус крупноцветковый (Selenicereus grandiflorus)/slides/DSC08768.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 07 Jul 2017 16:20:11 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08768.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Клейстокактус Штрауса (Cleistocactus strausii)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус Штрауса (Cleistocactus strausii)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC08778</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус Штрауса (Cleistocactus strausii)/slides/0DSC08778.JPG</link>
+            <pubDate>Mon, 10 Jul 2017 23:08:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус Штрауса (Cleistocactus strausii)/thumbs/0DSC08778.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус Штрауса (Cleistocactus strausii)/slides/0DSC08778.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 07 Jul 2017 16:24:13 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC08778.JPG</guid>
+        </item>
+        <item>
+            <title>DSC08779</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус Штрауса (Cleistocactus strausii)/slides/DSC08779.JPG</link>
+            <pubDate>Mon, 10 Jul 2017 23:08:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус Штрауса (Cleistocactus strausii)/thumbs/DSC08779.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус Штрауса (Cleistocactus strausii)/slides/DSC08779.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 07 Jul 2017 16:24:28 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08779.JPG</guid>
+        </item>
+        <item>
+            <title>DSC08780</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус Штрауса (Cleistocactus strausii)/slides/DSC08780.JPG</link>
+            <pubDate>Mon, 10 Jul 2017 23:08:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус Штрауса (Cleistocactus strausii)/thumbs/DSC08780.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус Штрауса (Cleistocactus strausii)/slides/DSC08780.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 07 Jul 2017 16:25:02 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08780.JPG</guid>
+        </item>
+    </channel>
+</rss>

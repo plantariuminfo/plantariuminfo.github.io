@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>бахромчатость вместо 5 лепестков (multi vs 5 petalled)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/бахромчатость вместо 5 лепестков (multi vs 5 petalled)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/бахромчатость вместо 5 лепестков (multi vs 5 petalled)/Земляника x ананасная (Fragaria x ananassa)/album.rss" title="Земляника x ананасная (Fragaria x ananassa)" thumbnail="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/бахромчатость вместо 5 лепестков (multi vs 5 petalled)/Земляника x ананасная (Fragaria x ananassa)/thumbs/DSC08577.JPG" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/бахромчатость вместо 5 лепестков (multi vs 5 petalled)/Лютик едкий (Ranunculus acris)/album.rss" title="Лютик едкий (Ranunculus acris)" thumbnail="http://plantarium.info/Лепестки 'Счастье' (Petals 'Good Luck')/бахромчатость вместо 5 лепестков (multi vs 5 petalled)/Лютик едкий (Ranunculus acris)/thumbs/0DSC00337_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

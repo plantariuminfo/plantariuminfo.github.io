@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Табак обыкновенный (Nicotiana tabacum)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00399</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/slides/DSC00399.jpg</link>
+            <pubDate>Mon, 10 Jul 2017 23:09:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/thumbs/DSC00399.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/slides/DSC00399.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 06 Sep 2014 07:11:51 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00399.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00399_</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/slides/DSC00399_.jpg</link>
+            <pubDate>Mon, 10 Jul 2017 23:09:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/thumbs/DSC00399_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/slides/DSC00399_.jpg" width="1024" height="865"/>
+            <jalbum:exif originalDate="Sat, 06 Sep 2014 07:11:51 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00399_.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00400</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/slides/DSC00400.jpg</link>
+            <pubDate>Mon, 10 Jul 2017 23:09:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/thumbs/DSC00400.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/slides/DSC00400.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 06 Sep 2014 07:11:57 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00400.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00400_</title>
+            <link>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/slides/DSC00400_.jpg</link>
+            <pubDate>Mon, 10 Jul 2017 23:09:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/thumbs/DSC00400_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/3 вместо 5 лепестков (3 vs 5 petalled)/Табак обыкновенный (Nicotiana tabacum)/slides/DSC00400_.jpg" width="1024" height="805"/>
+            <jalbum:exif originalDate="Sat, 06 Sep 2014 07:11:57 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC00400_.jpg</guid>
+        </item>
+    </channel>
+</rss>

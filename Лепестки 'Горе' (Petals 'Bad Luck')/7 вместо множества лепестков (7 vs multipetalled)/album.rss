@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>7 вместо множества лепестков (7 vs multipetalled)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/7 вместо множества лепестков (7 vs multipetalled)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/7 вместо множества лепестков (7 vs multipetalled)/Бархатцы мелкоцветные (Tagetes patula)/album.rss" title="Бархатцы мелкоцветные (Tagetes patula)" thumbnail="http://plantarium.info/Лепестки 'Горе' (Petals 'Bad Luck')/7 вместо множества лепестков (7 vs multipetalled)/Бархатцы мелкоцветные (Tagetes patula)/thumbs/0DSC08574.JPG" thumbnailWidth="385" thumbnailHeight="320" />
+        
+    </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Клейстокактус волчий-хвост (Cleistocactus vulpis-cauda)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус волчий-хвост (Cleistocactus vulpis-cauda)/</jalbum:absolutePath>
+        <item>
+            <title>0DSC08782</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус волчий-хвост (Cleistocactus vulpis-cauda)/slides/0DSC08782.JPG</link>
+            <pubDate>Mon, 10 Jul 2017 23:08:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус волчий-хвост (Cleistocactus vulpis-cauda)/thumbs/0DSC08782.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус волчий-хвост (Cleistocactus vulpis-cauda)/slides/0DSC08782.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 07 Jul 2017 16:25:54 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/0DSC08782.JPG</guid>
+        </item>
+        <item>
+            <title>DSC08783</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус волчий-хвост (Cleistocactus vulpis-cauda)/slides/DSC08783.JPG</link>
+            <pubDate>Mon, 10 Jul 2017 23:08:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус волчий-хвост (Cleistocactus vulpis-cauda)/thumbs/DSC08783.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус волчий-хвост (Cleistocactus vulpis-cauda)/slides/DSC08783.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 07 Jul 2017 16:26:14 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08783.JPG</guid>
+        </item>
+        <item>
+            <title>DSC08784</title>
+            <link>http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус волчий-хвост (Cleistocactus vulpis-cauda)/slides/DSC08784.JPG</link>
+            <pubDate>Mon, 10 Jul 2017 23:08:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус волчий-хвост (Cleistocactus vulpis-cauda)/thumbs/DSC08784.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Суккуленты (Succulents)/Кактусовые (Cactaceae)/Клейстокактус волчий-хвост (Cleistocactus vulpis-cauda)/slides/DSC08784.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 07 Jul 2017 16:26:17 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC08784.JPG</guid>
+        </item>
+    </channel>
+</rss>
