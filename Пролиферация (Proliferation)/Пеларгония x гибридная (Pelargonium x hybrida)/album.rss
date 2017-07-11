@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Пеларгония x гибридная (Pelargonium x hybrida)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/</jalbum:absolutePath>
+        <item>
+            <title>0IMG-5293_</title>
+            <link>http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/slides/0IMG-5293_.jpg</link>
+            <pubDate>Tue, 11 Jul 2017 16:24:19 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/thumbs/0IMG-5293_.jpg" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/slides/0IMG-5293_.jpg" width="1024" height="810"/>
+            <guid isPermaLink="false">slides/0IMG-5293_.jpg</guid>
+        </item>
+        <item>
+            <title>IMG-5293</title>
+            <link>http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/slides/IMG-5293.JPG</link>
+            <pubDate>Tue, 11 Jul 2017 16:24:19 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/thumbs/IMG-5293.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/slides/IMG-5293.JPG" width="575" height="1024"/>
+            <guid isPermaLink="false">slides/IMG-5293.JPG</guid>
+        </item>
+        <item>
+            <title>IMG-5295</title>
+            <link>http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/slides/IMG-5295.JPG</link>
+            <pubDate>Tue, 11 Jul 2017 16:24:19 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/thumbs/IMG-5295.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/slides/IMG-5295.JPG" width="575" height="1024"/>
+            <guid isPermaLink="false">slides/IMG-5295.JPG</guid>
+        </item>
+        <item>
+            <title>IMG-5296</title>
+            <link>http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/slides/IMG-5296.JPG</link>
+            <pubDate>Tue, 11 Jul 2017 16:24:19 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/thumbs/IMG-5296.JPG" width="385" height="320"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/slides/IMG-5296.JPG" width="575" height="1024"/>
+            <guid isPermaLink="false">slides/IMG-5296.JPG</guid>
+        </item>
+    </channel>
+</rss>

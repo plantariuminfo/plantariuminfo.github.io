@@ -9,6 +9,7 @@
    		<description></description>
         <jalbum:absolutePath>http://plantarium.info/Пролиферация (Proliferation)/</jalbum:absolutePath>
     	<jalbum:link rel="sub" href="http://plantarium.info/Пролиферация (Proliferation)/Одуванчик лекарственный (Taraxacum officinale)/album.rss" title="Одуванчик лекарственный (Taraxacum officinale)" thumbnail="http://plantarium.info/Пролиферация (Proliferation)/Одуванчик лекарственный (Taraxacum officinale)/thumbs/IMG_5095.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/album.rss" title="Пеларгония x гибридная (Pelargonium x hybrida)" thumbnail="http://plantarium.info/Пролиферация (Proliferation)/Пеларгония x гибридная (Pelargonium x hybrida)/thumbs/0IMG-5293_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
         
     </channel>
 </rss>
